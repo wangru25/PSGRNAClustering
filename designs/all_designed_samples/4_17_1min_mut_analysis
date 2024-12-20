@@ -1,0 +1,14 @@
+Optimizing Sequence 1
+[ 8-G 9-G 10-U 40-C 41-U 42-U 43-G 44-A 45-A 46-A 49-A 51-U 52-G 53-U 54-G 56-C 57-U 59-G 69-A ] before
+remove 0 point mutations
+[ 8-G 9-G 10-U 40-C 41-U 42-U 43-G 44-A 45-A 46-A 49-A 51-U 52-G 53-U 54-G 56-C 57-U 59-G 69-A ] after
+
+Optimizing Sequence 2
+[ 8-G 9-G 10-U 40-C 41-U 42-U 43-G 44-A 45-A 46-A 49-U 51-U 52-G 53-U 54-G 56-C 57-U 59-G 69-A ] before
+remove 0 point mutations
+[ 8-G 9-G 10-U 40-C 41-U 42-U 43-G 44-A 45-A 46-A 49-U 51-U 52-G 53-U 54-G 56-C 57-U 59-G 69-A ] after
+
+unique patterns: --b
+['10-U', '40-C', '41-U', '42-U', '43-G', '44-A', '45-A', '46-A', '49-A', '51-U', '52-G', '53-U', '54-G', '56-C', '57-U', '59-G', '69-A', '8-G', '9-G'] b
+['10-U', '40-C', '41-U', '42-U', '43-G', '44-A', '45-A', '46-A', '49-U', '51-U', '52-G', '53-U', '54-G', '56-C', '57-U', '59-G', '69-A', '8-G', '9-G'] b
+~

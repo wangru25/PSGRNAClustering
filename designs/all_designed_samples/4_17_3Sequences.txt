@@ -1,0 +1,1563 @@
+>
+GGCGUCAAGCGUUCGGGUGAAGUCUGUCGAACUUUAGAAUUCCGAAGCCAAUAAAAGUUGAGCCACUGGCG
+(((.((((...((((((.....((((........))))..))))))<<<<.......)))))))..>>>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUUUCGAACUUGUGUGCUCGGAAGCGCCGGUACCAGUUGACAGCGGCG
+...(((((...((((((((((((((...))))))...))))))))..<<<<<.......)))))..>>>>> NUPACK
+>
+GGCGUCACGGCUUCGGGUGAAGUAUGUCGAACUUUCACGUUGUUAGGCCACACAGCUGGGCGUCCAUAGCG
+((((((..((((((((((((((..........)))))).)))..))))).....<<<.))))))...>>>. NUPACK
+>
+GGCGUCAGGGGUUCGGGUGAAGUUCAACGAACUUGUAGAUUGAACAGCUCGGACGGCUUUUCUAUCCUGCG
+..<<<<....(((((..(((...))).)))))..((((((.(((.(((...>>>>))).))).))).))). NUPACK
+>
+GGCGUCAUAACUUCGGGUGAAGUAUCACGAACUUGAAGAUUCGGGGGCUGGCAGAUGACAUUUUUGUGGCG
+...<<<<...((((((((...((...))..))))))))........(((.(((((>>>>...)))))))). NUPACK
+>
+GGCGUCAUCCCUUCGGGUGAAGUUCCCCGAACUUGAACCACCUACAGCUUACAUGCAGGGUAUGACCAGCG
+...(((((((((.(.(((.((((((...))))))..))).......<<<.....).)))).))))).>>>. NUPACK
+>
+GGCGUCAACAAUUCGGGUGAAGUUGUUCGAACUUGAGUAUUACCCAGCUCGUAAAUGUGAUUCCCACGGCG
+((.(((.(((....((((((((((.....))))......)))))).<<.<<<...)))))).)).>>>>>. NUPACK
+>
+GGCGUCAGUGGUUCGGGUGAAGUUUUUCGAACUUGAAAUUCGGCGAGCGGCCGACGCUUGUCUGUCUUGCG
+<<<.(((..((((((((........))))))))))).....((((((((>>>..))))))))......... NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUCACCGAACUUGCCUCCUCCGCGGCCCGGUCACAAGUCGUCAGCUGCG
+<<<<..((((((((.(((((...))))))))..)))))....((((((............>>>>.)))))) NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUAUCACGAACUUACCGCGUCGACAGCAGAUCGUCCGAAUGCAAACUGCG
+........((((((((((((.((...(((.........)))..)).<<<<.))))))))))))...>>>>. NUPACK
+>
+GGCGUCAGGCUUUCGGGUGAAGUUUUCCGAACUUUAGCCUUUGGCGGCCACCCAACGCCACAUUCCAUGCG
+<<<...(((((((((((........))))))....))))).(((((>>>......)))))........... NUPACK
+>
+GGCGUCACAGGUUCGGGUGAAGUACGACGAACUUGACCAUUGGACGGCCUUUACACAUUACAUCCGAUGCG
+<<<....((((((((..((.....)).))))))))..(((((((..>>>.............))))))).. NUPACK
+>
+GGCGUCAUCCUUUCGGGUGAAGUACUUCGAACUUAUCCGAUCUAAGGCCUAGCAACAGUGAGCCAGGAGCG
+(((.(((.((((((((((.((((.......))))))))))...))))....<<.....))))))....>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUAGUCGAACUUAAGUCCCGCGGGGCCGACGAUCAACCCAGAUCUUGCG
+((((((.......((((..(((((.....)))))....)))).<<<...)))).))..>>>.......... NUPACK
+>
+GGCGUCAAGGAUUCGGGUGAAGUUUUCCGAACUUGACACUUGAGAAGCGCAUUACCAUCACGUCUGCUGCG
+(((((.(.((..(((((((((((((...))))))..)))))))...<<<<....)).).))))).>>.>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUACCACGAACUUAUCGUGUCGACAGCAGAUCAUCCGCAUGCAAACUGCG
+........((((.(((((((.((..(((((.....)))))...)).<<<<.))))))).))))...>>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUAUUACGAACUUGACAGUCCCAAGGCGCAAAACAGGACUUCAACCGGCG
+.(((((......((((((...((...))..)))))).<<<<<...)))))......>>>>>.......... NUPACK
+>
+GGCGUCACCGAUUCGGGUGAAGUACUACGAACUUGAACAAGGGUAGGCGGCCAACCAUUGCCCAGAUUGCG
+((((((.....(((((((...((...))..)))))))...<<<<<)))).))......>>>>>........ NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUCUACCGAACUUGAUUAUUCCUAAGCUCUUCUCGCCUUCUAUUUAAGCG
+(((((((((..(((((..........))))))))))..........<<<.....)))).........>>>. NUPACK
+>
+GGCGUCAUACUUUCGGGUGAAGUAGCUCGAACUUCGAGCUUGCGCAGCUGAAAGAGGCGUAGUCGCCAGCG
+((((.(...(((((((.((..(((((((((...))))))).)).)).)))))))..<<...).)))).>>. NUPACK
+>
+GGCGUCAGCGGUUCGGGUGAAGUAUGUCGAACUUUAGGGCCGAACCGCAAGUAAAAACCGACCGCCAUGCG
+((((((.(((((((((.((((((.......))))))...)))))))))..<<<......))).))).>>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUUUCGAACUUUUGUGCUCGGAAGCGCCGGUACCAGUUGACAGCGGCG
+...(((((...((((((((((((((...)))))))...)))))))..<<<<<.......)))))..>>>>> NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUAACCCGAACUUGACCUAUCAAUGGCCGCGUUGUAGAGCCCGGGUGGCG
+(((.((.(((((((((((......)))))))..)))).........<<<<<......)))))...>>>>>. NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUUUUCCGAACUUUAGGACUCGGAGGCGCUUCAAGCGUAAGACUCAUGCG
+...<<<..(((((((((((((((((...)))))))...)))))))))).......((((..>>>..)))). NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUACCACGAACUUAUCGCGUCGACAGCAGAACAUCCGCAUGCAAACUGCG
+........((((.((((((..((...(((.........)))..)).<<<<..)))))).))))...>>>>. NUPACK
+>
+GGCGUCAACAAUUCGGGUGAAGUUGUUCGAACUUGAGUAUUACCCAGCUCGUAAAUGUGAUUCCGACGGCG
+((.(((.(((....((((((((((.....))))......)))))).<<.<<<...)))))).)).>>>>>. NUPACK
+>
+GGCGUCACCCCUUCGGGUGAAGUUCCACGAACUUCAGAGUCGGGAAGCUUAGCAAGACGCCGUGGCAGGCG
+((((((..(((..(...((((((((...))))))))..)..)))..<<<<.<<..))))))...>>>>>>. NUPACK
+>
+GGCGUCAGUAGUUCGGGUGAAGUGUCACGAACUUAGUUACUCAAAAGCAGUGGUGCCUCGUGCUUUUUGCG
+(((((((..(((((..((((....))))))))).........<<<<<<<.)))))))...>>>>>>>.... NUPACK
+>
+GGCGUCAUCCGUUCGGGUGAAGUUUCACGAACUUCAAUGCUGAACGGCCAGGUAAAGGUACGCAAACUGCG
+.(((((..((((((((.((((((((...))))))))...)))))))).<<<......).))))...>>>.. NUPACK
+>
+GGCGUCAUGCAUUCGGGUGAAGUUCCCCGAACUUUAGAACUCGAAAGCAAGAAAACUGAGAUGCACGGGCG
+.(((((.(((.((((((((((((((...)))))))...))))))).)))......<<<.))))).>>>... NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUACCACGAACUUAUCGAUUCGCCAGCUCUACUCCACGCCUGCGCCUGCG
+((((.(((((.....((((((......(((.....))).)))))).<<..........))))))))).>>. NUPACK
+>
+GGCGUCAUGGGUUCGGGUGAAGUUCCACGAACUUGCGGCUUCGGGAGCCAACGAAGUUGAAGACAAUAGCG
+<<<.((.(((((((....)))..)))).)).(((.((((((((...>>>..)))))))))))......... NUPACK
+>
+GGCGUCAUUCCUUCGGGUGAAGUUCCUCGAACUUUUCCAGCACCUGGCUAUCCAGGAGUGCGUCCCUGGCG
+((((.(((((((.((((((((((((...))))))......))))))<<<<...)))))))))))..>>>>. NUPACK
+>
+GGCGUCAGGGGUUCGGGUGAAGUGCAGCGAACUUCAGUCAUAGCCAGCAGAGGAGCCAGCGACUUUUGGCG
+<<<.<<.((((((((.((.....))..)))))))).......(((((.((.>>.>>>.....)).))))). NUPACK
+>
+GGCGUCAUCUUUUCGGGUGAAGUUUUCCGAACUUCUCCGGUGUAGUGCAUAGAAGCUUUUGGGACCGUGCG
+.((.((..((..(((((.(((((((...))))))))))))...)).<<<..)).))...........>>>. NUPACK
+>
+GGCGUCACAGGUUCGGGUGAAGUAUAACGAACUUGACGAUUCAAAAGCCAAGUGUGCCUAGAUUCGAAGCG
+<<<....((((((((.(((...)))..)))))))).(((.((....>>>...........)).)))..... NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUCGGACGAACUUCAAGUUCGACUAGCUGGAGGCCAUUACGACGCCUGCG
+((((((.(((((((.(((..((((((((.........)))))))).))).)).<<.))))))))))).>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUAUCACGAACUUACCGCGUCGACAGCAGAUCGUCCGCAUGCAAACUGCG
+........((((.(((((((.((...(((.........)))..)).<<<<.))))))).))))...>>>>. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUCUCUCGAACUUCCGGACUAAAAGGCACCCAACCGACUUGACAUUGGCG
+...((((((.....(((((.(((((...........)))))......)))))..<<<<)))))).>>>>.. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUAACCGAACUUGCCUCCUCCGCGGCCCGGUCCCAAGUCGUCAGCUGCG
+<<<<..((((((((((..........)))))..)))))....((((((............>>>>.)))))) NUPACK
+>
+GGCGUCAACAGUUCGGGUGAAGUUUAACGAACUUUUUGCUAGGAAAGCAGACCCACGACUUCUAAGCAGCG
+<<.<<<...((((((..(((...))).))))))...((((.((((..(.>>>>>..)..)))).))))... NUPACK
+>
+GGCGUCAGGGAUUCGGGUGAAGUUCCCCGAACUUAAGUAUCCGACAGCAAGCUUCUCGUAACCCUGAAGCG
+....((((((..(((((((((((((...))))))...)))))))..<<.............)))))).>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUCUCGAACUUCCCGAUUCGGCAGCCAGGUAUGGACGGCCCCGCGGCG
+((((((.(((..(((((..((((((...))))))))))).......<<<...))).)))).))....>>>. NUPACK
+>
+GGCGUCACUCCUUCGGGUGAAGUUAAACGAACUUUAUUAUUUGGGUGCUAGCAAAUACUGUCGACGCGGCG
+.(((((...(((...(((((((((.....)))))))))....))).....<<..........))))).>>. NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUAUAUCGAACUUGAGGAUGGCAGGGCAAGGCCAAAGCCUGUCAAGCGCG
+<<<.((((..((((((..........))))))))))...(((((.(((...>>>...))))))))...... NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUUCUCCGAACUUACCGAUUGCCGAGCCGCCUCACUUGAAGCCAAUAGCG
+(((.(((((((.((((...((((((...)))))).)))).))).....<<<.....)))).)))....>>> NUPACK
+>
+GGCGUCAGUGGUUCGGGUGAAGUCUUUCGAACUUGAGUACUCCGCAGCCUAGCGAGUAGAAGAACGAUGCG
+<<<.(((..((((((((........))))))))))).((((.(((.>>>..)))))))............. NUPACK
+>
+GGCGUCACCCUUUCGGGUGAAGUAUGACGAACUUGGAUUGAACCUGGCGUCUAGGGUGACUCUAUGAUGCG
+...((((((((..(((((..(((.(((.....))).)))..)))))<<<<<.)))))))).....>>>>>. NUPACK
+>
+GGCGUCAACCCUUCGGGUGAAGUAUCUCGAACUUUACAUUCCGCGAGCCGGUUAACUUAGCUCAACCUGCG
+...((.((((...((((((((((.......)))))))...))).<<<<.)))).))...>>>>........ NUPACK
+>
+GGCGUCAUGCGUUCGGGUGAAGUUGCUCGAACUUUACGACUCGACGGCGCACAAAGCAUGAUCGCGAGGCG
+.(((((((((..((((((((((((.....))))))...))))))...<<<.....)))))).)))...>>> NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUCACCGAACUUGCCUCCUCAGCGGCCCGGUCACAAGUGGUCAGCUGCG
+<<<...((((((((.(((((...))))))))..)))))...(((((((((.>>>....).)))).)))).. NUPACK
+>
+GGCGUCAUUGUUUCGGGUGAAGUUCACCGAACUUUAUCGUUACGUCGCCACAAAUCUCAGCAUGCCGGGCG
+((((((...((..(.((((((((((...)))))))))))..))..<<<<..........).))))).>>>> NUPACK
+>
+GGCGUCAAGUAUUCGGGUGAAGUUCCACGAACUUGCCCUGUGUUUAGCCCCCCCCUAUCACGCGACGGGCG
+.((((.((.(((..((((.((((((...)))))))))).))).)).<<<<.........))))...>>>>. NUPACK
+>
+GGCGUCAAGGAUUCGGGUGAAGUUCGUCGAACUUGUAGAUUCCUCAGCCCAUCAAUCAGACGCUCGCUGCG
+.(((((.((((.((.....((((((...))))))...)).))))<<<<..........)))))..>>>>.. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUUUCGAACUUUUGUGCUCGGAAGCGCCGGUACCAGUUGACCGUGGCG
+...(((((...((((((((((((((...)))))))...)))))))..<<<<........)))))...>>>> NUPACK
+>
+GGCGUCAUUCAUUCGGGUGAAGUACACCGAACUUGGUUUAAACACAGCCUGCCCGCGCUUGCCACAGCGCG
+<<<..........(((((....((.((((....)))).))......)))))..((((((.>>>..)))))) NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUUCUCCGAACUUACAAACUGGACUGCACCUGUGACUAGUUCUAGGAGCG
+...<<<<...((((((.((((((((...)))))).))..)))))).((.(((.>>>>.......))).)). NUPACK
+>
+GGCGUCAGGGAUUCGGGUGAAGUGUCUCGAACUUUCCUCCUCAACGGCUGAGCAACGUGAUUUCAUCGGCG
+((.((((.(((((((((........))))))...))).........<<<<<......)))).)).>>>>>. NUPACK
+>
+GGCGUCAGUGAUUCGGGUGAAGUUUAACGAACUUAUGAAUUACUGAGCUAUUUGCCCAGAACUCAGUAGCG
+<<<.(((((((((((....((((((...)))))).)))))))))))((((((.>>>........)))))). NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUGAUACGAACUUUUCAAAGUGAAGGCCUCAUGGGAAAUUGAGCCUGGCG
+(((.(((.(((((...(.(((((.......))))).)..)))))..<<<...........)))))).>>>. NUPACK
+>
+GGCGUCAAGCUUUCGGGUGAAGUUCAACGAACUUUGCGCCCGGCAGGCCAAAAUUCAGACCCGGGGUUGCG
+((.(((..(((((((((((((((((...))))))..))))))).))))...<<<<<.))))).>>>>>... NUPACK
+>
+GGCGUCAAAGAUUCGGGUGAAGUUGCUCGAACUUCAGACUACGAACGCGGGCUUUGACGAAGUAACCGGCG
+..((((((((.((((..(((((((.....))))))).....))))..<<<.))))))))......>>>... NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUCACGAACUUUUGAAACCGAAGGCACCGGAAGACGAUGUAUUCAGCG
+..((((..((.(((((..(((((((...))))))).....))))).))...<<<.)))).....>>>.... NUPACK
+>
+GGCGUCAGUAGUUCGGGUGAAGUUUUUCGAACUUGAAAUUCGGCGAGCGGCCGACGCUUGUCUGUCUUGCG
+<<<.(((..((((((((........))))))))))).....((((((((>>>..))))))))......... NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUUUUGCGAACUUCACAAUUCGUGGGCGGCUUUGCCGGUGCCAUGCUGCG
+((((((...((.....(((((((((...)))))))))....))...<<<<<......))))))..>>>>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUCACCGAACUUAUGUAAUCAGAGGCUAACGGUGGAGAUGCCGACUGCG
+((((((...((((.((...((((((...))))))......)).))))......<<<<.))))))..>>>>. NUPACK
+>
+GGCGUCAAGAGUUCGGGUGAAGUUUAACGAACUUCUAGACUCCGCAGCCAACCAUGACUAUUUCGGCGGCG
+...<<<<.(((((.....(((((((...)))))))..))))).((.(((.....>>>>......))).)). NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUACCACGAACUUAUCGCGUCGACAGCAGAUCAUCCGCAUGCAAACUGCG
+........((((.(((((((.((...(((.........)))..)).<<<<.))))))).))))...>>>>. NUPACK
+>
+GGCGUCACGCGUUCGGGUGAAGUCCUCCGAACUUGCACCCGUUGAAGCAGACCACGCACAAUUCUUUUGCG
+.<<<<....((..((((((((((.......)))).)))))).))..(((((..>>>>........))))). NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUCUUUCGAACUUAUAUAUCCGCAAGCCACCAAAGACUAUCUAGGUUGCG
+......<<<<...((((((((((.......))))...))))))...((.(((...>>>>.....))).)). NUPACK
+>
+GGCGUCAGGACUUCGGGUGAAGUAUCUCGAACUUGCCGAUUCCGCUGCAACUGUCCCUGACCCCAGUUGCG
+((.((((((...((((...((((.......)))).)))).......<<<<<<<..))))))))>>>>>>>. NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUCUACCGAACUUGAUUAUUCCUAAGCUCUUCUCGCCUUCUACUUAAGCG
+(((((((((..(((((..........))))))))))..........<<<.....)))).........>>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUUUCGAACUUUUGUGCUCGGAAGCGCCGGUACCAGUUGACAGUGGCG
+...(((((...((((((((((((((...)))))))...)))))))..<<<<........)))))...>>>> NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCCCCGAACUUCCGUAUUCCUGAGCAGACAAAAGACGGGUCUAGGGCG
+..((((......(((((.(((((((...)))))))......)))))..<<<<....)))).>>>>...... NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUAGGGCGAACUUAUCUAACGCCGAGCACAUGAAGCGCAUGACAGUAGCG
+...((((...(((((.(((......((((...........))))...))).))))).<<.))))....>>. NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUCUGUCGAACUUUAGAACUCCGAAGCCAAUAAAAGUUGAGCCACUGGCG
+(((.((((...((((((((((((.......))))))....))))))<<<<.......)))))))..>>>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUAUCACGAACUUACCGCGUCGACAGCAGAUCAUCCGCAUGCAAACUGCG
+........((((.(((((((.((...(((.........)))..)).<<<<.))))))).))))...>>>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUCCCACGAACUUACAUGACUAACAGCAGGCUGACCCUUUAAUUCUUGCG
+((.(((((....(((.((((..((....))..)))).)))......<<<<<))))))).......>>>>>. NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUUACCCGAACUUUGCUACUCUAAAGCAAACUAUGCCCGUUCAAGUUGCG
+(((((..((((((((((((....)))))))))...)))........<<<<...)))))........>>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUAACCGAACUUGCCUCCUCCGCGGCCCGGUCACAAGUCGUCAGCUGCG
+<<<<..((((((((((..........)))))..)))))....((((((............>>>>.)))))) NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUCGGUCGAACUUUAGAAUUCCGAAGCCAAUAAAAGUUGAGCCACUGGCG
+(((.((((...((((((((((((.......))))))....))))))<<<<.......)))))))..>>>>. NUPACK
+>
+GGCGUCAGGCCUUCGGGUGAAGUUGAACGAACUUAAGGUCUCCGAAGCGCAUAGAUGGGAUGUCUCCAGCG
+((((((..(((((((((..(((((.....)))))......))))))).))...<.<<<)))))).>>>.>. NUPACK
+>
+GGCGUCACUGAUUCGGGUGAAGUUUACCGAACUUCUCCGCUUCACAGCCGAGUGAGGUCACACUAGCGGCG
+(((.((((.((..((((.(((((((...)))))))))))..))...<<<<.)))).))).......>>>>. NUPACK
+>
+GGCGUCAGGCUUUCGGGUGAAGUGUCCCGAACUUGUGCACCGGACAGCAAGCAAACCGAUGCCGUUCAGCG
+((((((..(((.((.((((((((.......))))...)))).)).)))..<<.....)))))).....>>. NUPACK
+>
+GGCGUCAGGAGUUCGGGUGAAGUAGUACGAACUUACUUCCUCCUGGGCCGACCACUCGCGUCCGGUUUGCG
+(((((.((.....((((.(((((((.......)))))))..)))).<<.<<<<.)).))))).>>>>.>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUUUCGAACUUGUGUGCUCGGCAGCGCCGGUACCAGUUGACAGCGGCG
+...(((((.....((((((((((((...))))))...))))))....<<<<<.......)))))..>>>>> NUPACK
+>
+GGCGUCAGGGAUUCGGGUGAAGUAGUCCGAACUUAAAACAUCGUCCGCGUGCCACAAGCGUGACUCUUGCG
+<<<...(((..(((((((......))))))))))........((((((..>>>....))).)))....... NUPACK
+>
+GGCGUCAAUGGUUCGGGUGAAGUUCCGCGAACUUGAGUCUUAAGCCGCCAGCCAACACAAUUGACGCUGCG
+.((((((((((((.(((..((((((...))))))....))).))))....<<.......)))))))).>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUCACCGAACUUGCCUCCUCAGCGGCCCGGUCACAAGUCGUCAGCUGCG
+<<<<..((((((((.(((((...))))))))..))))).....(((((............>>>>.))))). NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUAACGAACUUCAAAACUCACAAGCGCAUGAACAAGAUGCCUUUUGCG
+((((((........(((((((((((...)))))))...)))).....<<<<.......))))))...>>>> NUPACK
+>
+GGCGUCAGGUGUUCGGGUGAAGUUUGUCGAACUUAACGCUUCGUCGGCGGACUAAGCUGUAUCCACCGGCG
+.<<...(((((((.((.(((......)))..)).)))))))((((((.(((....>>....))).)))))) NUPACK
+>
+GGCGUCAGGUGUUCGGGUGAAGUAUCUCGAACUUCAUGACUGGACAGCUAAGCCGCCACGGGCUCGCGGCG
+.<<...((.((((((((((((((.......)))))))..))))))).))..(((((.....>>..))))). NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUAUCUCGAACUUGACUAUCCGAGGGCCGAUCAUCAAUACGCCGGAAGCG
+<<<(((((..(((((((........))))))))))))..((((...>>>..............)))).... NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUACCGAACUUAAUUGCUCCGAGGCACGACUACCUAUUGGCCCCGGCG
+((.(((((((..(((((((((((((...)))))...)))).)))).<<.........))))))).)).>>. NUPACK
+>
+GGCGUCAUUCGUUCGGGUGAAGUCCCACGAACUUUAAGCAUAGGCGGCCCCUCAACUACUCUAAUUUAGCG
+((((((.(((((..(((......))))))))......<<...)))).))...................>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUGUCGAACUUUUGGGCCCAGAAGCACUCAUACGAGAUGUCAGUGGCG
+((((((..((.((.(((((((((((...)))))))...)))).)).))......<<..)))))).>>.... NUPACK
+>
+GGCGUCAGUGAUUCGGGUGAAGUUAUACGAACUUCCAGUUCGCAAAGCGCUCCUACGCCACUCAUGAUGCG
+(((((..((((..(..(.((((((.....))))))).).))))...<<<.<<..)))))......>>>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUCACCGAACUUGCCUCCUCAGCGGCCCGGUCACAAGUGGUCAGCGGCG
+<<<...((((((((.(((((...))))))))..))))).....(((((((.>>>....).)))).)).... NUPACK
+>
+GGCGUCAGGGCUUCGGGUGAAGUUUUUCGAACUUGAAGCCUCAAGAGCAGUUUCAGCCCUCGUGUGAAGCG
+<<<.((.(((((((((((............)))))))))))...))...((((((>>>......)))))). NUPACK
+>
+GGCGUCAUCGCUUCGGGUGAAGUGAGUCGAACUUGACUAAUGUGUAGCAUCUGUAGCGCUCUGACUGGGCG
+...<<<...(((.((((((..((.(((((....))))).))......)))))).)))((((.>>>.)))). NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUAUCCCGAACUUUGCGACUCAGCAGCACUUGAUGUCAUCGUACGUUGCG
+((((((((((.((((((........))))))......)))...<<<<<...))))))).......>>>>>. NUPACK
+>
+GGCGUCAUGUAUUCGGGUGAAGUUGUUCGAACUUAACUGCUCGGGAGCCUGUGAAUACAGACACAGAGGCG
+...(((.(((((((((((((((((.....)))))...)))))....<<<<..))))))))))....>>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUCUCGAACUUUUCUAUUCUCAGGCAGGCUAUCAUCGUGCGCGUGGCG
+.(((((.((......((.(((((((...))))))).))........))..<<<<.....).)))).>>>>. NUPACK
+>
+GGCGUCAACGAUUCGGGUGAAGUCUUCCGAACUUGACACGUAGUAGGCUGAGCCUCUUUAGCCAGUGUGCG
+<<<(((((...((((((........)))))).)))))........((((((>>>...))))))........ NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUGCAUCGAACUUCAUGAGCCGAAGGCAGUAUUACAGCACGCAACUGGCG
+.(((((.....((((((((((((.......)))))))...)))))..<<<<......).)))).>>>>... NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUUGUACGAACUUCAAUACUCGGCAGCCGUAAACCAUCUCGACUACGGCG
+...(((.(((...(((((((((((.....))))))...)))))...<<<<<<.....))).)))>>>>>>. NUPACK
+>
+GGCGUCAUUACUUCGGGUGAAGUAUAACGAACUUCACGUUCCCCGAGCGGCUCCACCAGACUCAAGCUGCG
+...<<<......(((((((((((.......)))))).....)))))((((((......>>>...)))))). NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUACACGAACUUGUAUUCGGUAGAGCUCCAGCAGCCAUCCACAAUUGCG
+(((....(((..((((((((((((.....))))).)))))))......))).<<<))).........>>>. NUPACK
+>
+GGCGUCACGACUUCGGGUGAAGUUCUCCGAACUUUCCGGGUGCCCGGCUUGCGUACUCCAUGUCGGGUGCG
+<<.<<.<<<....((((..((((((...)))))))))).(((((((((...>>>>>.>>..))))))))). NUPACK
+>
+GGCGUCAUACUUUCGGGUGAAGUAGCUCGAACUUGGAGCUUGCGCAGCUGAAAGAGGCGUAGUCGCCAGCG
+((((.(...(((((((.((..(((((((.......))))).)).)).)))))))..<<...).)))).>>. NUPACK
+>
+GGCGUCAAUGAUUCGGGUGAAGUUCAUCGAACUUUUAUCUCGCUAAGCAAAAAGACGACUUUCUCCUUGCG
+..((((.......((((.(((((((...)))))))...))))....<<<<...)))).........>>>>. NUPACK
+>
+GGCGUCAAAUUUUCGGGUGAAGUAUUACGAACUUAGAGAAUCAAUUGCUAGGAUAGACGUUAGCCCUUGCG
+..<<<<..((((((((((...((...))..)))).)))))).....((.(((...>>>>.....))).)). NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUCCUUCGAACUUCCUAUUUCGUUAGCUAGCCACGCCCUGAACAGUAGCG
+(((((..((((....((.(((((.......)))))))....)))).<<<<...)))))........>>>>. NUPACK
+>
+GGCGUCAAGGCUUCGGGUGAAGUAUCUCGAACUUACCAUUUAGAAAGCGUCAGAACCUGAUGUCACUGGCG
+(((((((..((((..(((.((((.......))))))).......))))<<<<<....))))))).>>>>>. NUPACK
+>
+GGCGUCAAGGGUUCGGGUGAAGUUCCACGAACUUGAAUACUACUAGGCUGAGCACGUCAAAGCACGCUGCG
+(((((..((.((((((((...((...))..)))))))).)).....<<<....)))))..>>>........ NUPACK
+>
+GGCGUCAUUCUUUCGGGUGAAGUUACCCGAACUUAAACAUCACUAUGCACUGAGGGGAGGAACGCUACGCG
+.(((((.(((((((((((.(((((.....)))))..))........<<.))))))))).)).)))...>>. NUPACK
+>
+GGCGUCAUGCUUUCGGGUGAAGUCUCUCGAACUUAACCUUCCCGAGGCAGGAUACGACGGUUCCUUUUGCG
+..((((.(((.((((((..((((.......))))......)))))))))<<<...))))..>>>....... NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUUUUCCGAACUUUAGGACUCGGAGGCGCUUUAAGCGUAAGACUCAUGCG
+...<<<..(((((((((((((((((...)))))))...)))))))))).......((((..>>>..)))). NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUCGUCGAACUUUAGAUCCACAAAGCCCUUCCUCUUUGACACAACGGCG
+...((((.......(((((((((((...)))))))..)))).....<<<.........)))).....>>>. NUPACK
+>
+GGCGUCAGUAGUUCGGGUGAAGUUUUUCGAACUUGAAGUUCGGCGAGCGGCCGACGCUUGUCUGUCUUGCG
+<<<.(((..((((((((........))))))))))).....((((((((>>>..))))))))......... NUPACK
+>
+GGCGUCAAUGAUUCGGGUGAAGUUCCACGAACUUGUCGAUUAAAGAGCCAUGAAGCCGUGUCCCUGAGGCG
+(((.(((.....((((...((((((...)))))).)))).......<<<.))).)))..........>>>. NUPACK
+>
+GGCGUCAAACAUUCGGGUGAAGUCUUACGAACUUGGGUACUACGAAGCAAAUCAACACAACGUCGCAUGCG
+(((((.....((((((((...((...))..))))))))........<<<..........)))))...>>>. NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUUGUUCGAACUUGCAGUCUCGGGUGCUUGCGGAGUUUUUGCCAGCUGCG
+<<<...(((((.((((((((((((.....))))).))..))))).)))))((((.......>>>..)))). NUPACK
+>
+GGCGUCAGUGCUUCGGGUGAAGUUCCUCGAACUUCUCGAUCACCAAGCAAGCUUACUCGAUACAUGUAGCG
+.<.<<<..(((((.((..(((((((...))))))).......))))))).((.(((..>>>.>..))))). NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUUUGGCGAACUUACUUACUCGGGAGCUAGCUUACAGUGCCGAAGGAGCG
+<<<....(((.((((((((((((((...)))))...))))))))).))).((((.(...>>>...))))). NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUGUAUCGAACUUGAGCACCCGGAGGCCAAGCGCAUGACUCCAGGCUGCG
+((.(((((((.((((((((((((.......))))...)))))))).)))..<<<<.)))).))..>>.>>. NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUAUCACGAACUUAAUGUUUCAGAAGCGCGGUUAUCACUUUCCCCCUGCG
+..............(((.(((((.((..((((.....))))..))..<<<<<.....))))).)))>>>>> NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUAUCACGAACUUAUCGCGUCGACAGCAGAUCAUCCGCAUGCAAACUGCG
+........((((.(((((((.((..(.(((.....))).)...)).<<<<.))))))).))))...>>>>. NUPACK
+>
+GGCGUCAGGGAUUCGGGUGAAGUUUCUCGAACUUGAUCUUUCCCUCGCAAACUUCCGACUCGUAGCUUGCG
+...<<<.((((...((((.((((((...)))))).)))).)))).(((((.((.(.>>>..).)).))))) NUPACK
+>
+GGCGUCAAGGAUUCGGGUGAAGUUCAACGAACUUAACUAUUCAGAAGCAAAGUGACCCUUUUGCAACUGCG
+((.((((..((....(((.((((((...)))))).)))..))....<<<<<.)))))).>>>>>....... NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUCCCACGAACUUACAUGACAAACAGCAGGCUGACCCUUUAAUUCUUGCG
+((.(((((....(((.((((..((....))..)))).)))......<<<<<))))))).......>>>>>. NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUCUACCGAACUUGAUUAUUCCUAAGCUCUUCUCGCCUACUACUUAAGCG
+(((((((((..(((((..........))))))))))..........<<<.....)))).........>>>. NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUUCGACGAACUUCCAUAUUUACCAGCACAAUACACGCUUGACAUUUGCG
+...(((((.(((...((((((((((...))))))).......))).<<<......))).)))))...>>>. NUPACK
+>
+GGCGUCAUGGAUUCGGGUGAAGUAUUUCGAACUUCCUGAUUUAACGGCCGAUCCACGGCUCCCCGGCUGCG
+((.(((.((((.(((((..((((.......))))))))).....<<<<<<.)))).))).)).>>>>>>.. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUCUACGAACUUGUAUUAUCCGUAGCAGGCAGACAUGAUAACUCUUGCG
+...<<<.......((((((((((((...)))))....)))))))..(((((..>>>.........))))). NUPACK
+>
+GGCGUCAGUCGUUCGGGUGAAGUCUAACGAACUUGAGGAACCGCGGGCUGUCUGACAUUUUGUCCGUUGCG
+...<<<<<.<..((((((...((...))..))))))....(.((((((.>.>>>>>.....)))))).).. NUPACK
+>
+GGCGUCAGUGGUUCGGGUGAAGUACCGCGAACUUAACUACUCAGCAGCUGGUUGCACGUACACCGGCGGCG
+.<<...(((((((((((((...)))).))))))..))).....((.((((((.>>......)))))).)). NUPACK
+>
+GGCGUCAAAUAUUCGGGUGAAGUUGAUCGAACUUUCCUACUAGAUCGCGCGUAACGGCGAUGUCGGUUGCG
+((((((......((.(((((((((.....))))))...))).)).....<<<<<<...)))))).>>>>>> NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUGUAACGAACUUGUAGGCUCGCAAGCUAGUCGACGGAUCACAACCAGCG
+..<<<<.......(((((.((((.......))))....)))))...(((.((.>>>>.......)).))). NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUCUACGAACUUCCGAGCUCCAAGGCGAAUGAGGCUGACGACUCUGGCG
+..(((((..((((.(((((((((((...)))))))...)))).)))).<...<<<..))))).>>>...>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUACAACGAACUUAAGUCAUCCGAUGCAAGGAGAGCAGAUGCCACCUGCG
+((((((..(((.((((((((..((.........))..))))))))))).......<<<))))))...>>>. NUPACK
+>
+GGCGUCAUGAAUUCGGGUGAAGUUUAACGAACUUGAUUCCUCCUCGGCGUAUUAACAUCGUGUCGCAUGCG
+.(((.(((((....(((..((((((...))))))...)))......<<.........))))).)))..>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUCGUACGAACUUGUGUGAUCCACAGCGGAGAGAUCGGAUGAAACCUGCG
+........(((((((.(((..((((((((....)))))))).))).<<<<......)))))))...>>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUAUAGCGAACUUGAAUUCUCCUAAGCAGAUUUGCCGGGCGACUCUAGCG
+..((((.(((((((((((...((...))..))))))).........<<<<<..)))).))))..>>>.>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUUACGAACUUGCCAGCGGAGCAGCGAAGAUACCUCAUGGCACCGGCG
+((.(((.((((((((............))))..))))..<<<.<<......))).)).....>>.>>>... NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUCCCACGAACUUACAUGACUAACAGCAGGCUGACCCUAUAAUUCUUGCG
+((.(((((....(((.((((..((....))..)))).)))......<<<<<))))))).......>>>>>. NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUUGAUCGAACUUCACUAAUCCACAGCGAAGAGUCCAAAUGCCACUUGCG
+(((((.....((...(((((((((.....))))))))).....)).<<<<.........)))))..>>>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUCUACGAACUUCCGAGCUCCAAGGCGAAUGAGGCUGACGACUCGGGCG
+..(((((..((((.(((((((((((...)))))))...)))).)))).<..<<<<..))))).>>>>..>. NUPACK
+>
+GGCGUCAACGAUUCGGGUGAAGUUUCUCGAACUUACUACCUCCGAAGCGGAGCUACGCUGUGGCCACGGCG
+<<<.....((.((((((..((((((...))))))......)))))).))......((((((.>>>)))))) NUPACK
+>
+GGCGUCAGGCCUUCGGGUGAAGUUGAACGAACUUAAGGUCUCCGAAGCGCAUAGGUGGGAUGUCUCCAGCG
+((((((..(((((((((..(((((.....)))))......))))))).))...<.<<<)))))).>>>.>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCUACGAACUUAUAUCUCCGGAAGCAGCUAGUGACUUCGCGCACUGCG
+((.((((.((.((((((..((((((...)))))).....)))))).<<<<.)).)))).)).....>>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUAUAGCGAACUUGAAUUUUCCUAAGCAGAUUUGCCGGGCGACUCUAGCG
+..((((.(((((((((((...((...))..))))))).........<<<<<..)))).))))..>>>.>>. NUPACK
+>
+GGCGUCAAAAAUUCGGGUGAAGUUUUACGAACUUACCACCCCGUAAGCAGUUAGAUCGGCUGGCAACUGCG
+...<<<........(((((((((((...))))))..))))).....((((((.....>>>....)))))). NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUUUCGAACUUGUGUGCUCGGCAGCGCCGGUAUCAGUUGACAGCGGCG
+...(((((.....((((((((((((...))))))...))))))....<<<<<.......)))))..>>>>> NUPACK
+>
+GGCGUCAGGCGUUCGGGUGAAGUUCGCCGAACUUCACAGAUCGGAGGCUGAGAGACCUUUUGACUACAGCG
+...((((..((.((..(((((((((...))))))))).)).))...<<<<..........))))..>>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUGGACGAACUUCAUUCACUGAAGGCACCUCGGCCAUUUGAGAGUUGCG
+<<<.((((......((((((((((.....)))))))))).))))..(((.(((.>>>......))).))). NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUCCCACGAACUUACAUGACUAACAGCAGGCUGACCCUAUAACUCUUGCG
+((.(((((....(((.((((..((....))..)))).)))......<<<<<))))))).......>>>>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUCCUCGAACUUAACAAGUCCCCAGCAAGUUGAACAUUUAAACCCUGCG
+....(((((.....(((..((((((...)))))).......)))..<<<.)))))............>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUAGCGAACUUCAAAACCCACAAGCGCAUGGACAAGAUGCCUUUUGCG
+((((((........(((((((((((...)))))))...)))).....<<<<.......))))))...>>>> NUPACK
+>
+GGCGUCAACCCUUCGGGUGAAGUACUUCGAACUUACGGUAUCCGCAGCGGCUAGGCCCAUUGACUUUAGCG
+...(((((..((.((((((..(((.........)))..)))))).))..<<<<......)))))..>>>>. NUPACK
+>
+GGCGUCAGGCCUUCGGGUGAAGUUGAACGAACUUAAGGUCUCCGAAGCGCAGAGGUGGGAUGUCUCCAGCG
+((((((..(((((((((..(((((.....)))))......))))))).))...<.<<<)))))).>>>.>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUUUACGAACUUGACUACUCGAAAGCCUGUUAACCGGUUGCCAGUGGCG
+((((.(.....((((((((((((((...))))))...)))))))).<<<.........).))))...>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUCAGCGAACUUGAGGGAUCAGAAGCACGCACAUCGAUCGACAACAGCG
+.(((((......((((((...((...))..))))))..<<<<....).)))).....>>>>.......... NUPACK
+>
+GGCGUCAGUAUUUCGGGUGAAGUUGUCCGAACUUACCAUAUCCACAGCGGCUGGACCCGAUGCCCCUAGCG
+((((((.(((.((((((........))))))..))).............<<<<<....)))))).>>>>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCUACGAACUUACAUCUCCGGAAGCAGCUAGUGACUUCGCGCACUGCG
+((.((((.((.((((((((((((((...)))))).))..)))))).<<<<.)).)))).)).....>>>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUUUGUCGAACUUGCUUCUCCGGGAGCACAUCAAGCACAUGACUGCAGCG
+.((((((.((.((((((.(((((..((...))..))))))))))).)).......<<...)))).)).>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUCAACGAACUUGCCUCCCGCGACGCGCACUGACCCAAUAAUAGCAGCG
+((.((((((....((((..((((((...))))))....))))...<<<..))))))))..........>>> NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCCUCGAACUUAAAAACCCAGCAGCAAAGAAGUGCGACUUCUCUUGCG
+((.(((.(((((((((((.((((((...))))))....))))....<<<<.)))))))))).))..>>>>. NUPACK
+>
+GGCGUCAGGCGUUCGGGUGAAGUUCGCCGAACUUAACAGAUCGGAGGCUGAGAGACCUUUUGACUACAGCG
+...((((..((.((..((.((((((...)))))).)).)).))...<<<<..........))))..>>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUAGCGAACUUCAAAACUCACAAGCGCAUGAACAAGAUGCCUUUUGCG
+((((((........(((((((((((...)))))))...)))).....<<<<.......))))))...>>>> NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUUACGAACUUAAAUAACUAUGAGCAGGGAUAAGAUACGCCCGAUGCG
+(((((.(((.(((.((((...((...))..)))).))).)))....<<<..........)))))...>>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUCCUCGAACUUAACAAGUCCCCAGCAAGUUGAACAUUUAUACCCUGCG
+....(((((.....(((..((((((...)))))).......)))..<<<.)))))............>>>. NUPACK
+>
+GGCGUCAGGACUUCGGGUGAAGUUCCACGAACUUCCGUACUCAGCAGCGUGCAGACGCCUCGACACUUGCG
+<<<<<<........(((((((((((...)))))))...)))).((((.((((.>>>>>>..).))))))). NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUCCCACGAACUUACAUGACUAACAGCAGGCUGACCCAUUAAUUCUUGCG
+((.(((((....(((.((((..((....))..)))).)))......<<<<<))))))).......>>>>>. NUPACK
+>
+GGCGUCAUUAUUUCGGGUGAAGUUGAUCGAACUUACGUACCCGUAAGCGCCUUGCCAGAAUGACACCAGCG
+((.((((((.((.(((((((((((.....)))))...)))))).)).<<<........)))))).)).>>> NUPACK
+>
+GGCGUCAGGACUUCGGGUGAAGUUCCACGAACUUCCGUACUCAGCAGCGUUCAGACGCCUCGACACUUGCG
+((((((.((((...(((((((((((...)))))))...)))).<<<..)))).))))))........>>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUUUGUCGAACUUGCUUCUCCGGGAGCACAUCAAGCACGUGACUGCAGCG
+.((((((.((.((((((.(((((..((...))..))))))))))).)).......<<...)))).)).>>. NUPACK
+>
+GGCGUCAGGCCUUCGGGUGAAGUUGAACGAACUUAAGGUCUCCGAAGCGCAUAGAUGGGAUGUCUCCGGCG
+((((((..(((((((((..(((((.....)))))......))))))).))...<.<<<)))))).>>>.>. NUPACK
+>
+GGCGUCAGGACUUCGGGUGAAGUUCAUCGAACUUACCUACUCGAAAGCAGAUUAAUGAGAUACCAAUUGCG
+((.(((.....((((((((((((((...))))))...)))))))).<<<.........))).))...>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUAUAGCGAACUUGAAUUCUCCUAAGCAGAUUAGCCGGGCGACUCUAGCG
+..((((.(((.(((((((...((...))..))))))).........<<<<<...))).))))..>>>.>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUAGCGAACUUCAAAACUCACAAGCGCAUGGACAAGAUGCCUUUUGCG
+((((((........(((((((((((...)))))))...)))).....<<<<.......))))))...>>>> NUPACK
+>
+GGCGUCAGGCGUUCGGGUGAAGUCUCCCGAACUUAAAGACUCCACAGCGCGGCAAAGAGACGAACCUUGCG
+..<<<<..(((((...(((.(((((...........))))).)))))))).((((.(.>>>>..).)))). NUPACK
+>
+GGCGUCAGGCGUUCGGGUGAAGUCUAACGAACUUAAAGUAUUCGCGGCGCGUCGAGCUCCUGACACUAGCG
+...((((((.(((((.(((((..((...........))..)))))..<<<..))))).))))))....>>> NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUUCAGCGAACUUGAAGACCCCGCAGCCCAUAGACAGGGCAACUGUAGCG
+...<<<........((((.((((((...))))))....))))....((((...>>>.)))).......... NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUAUAGCGAACUUGAAUUCUCCGAAGCAGAUUUGCCGGGCGACUCUAGCG
+..((((.((((.(((((.(((.(..((....))..).)))))))).<<<<<..)))).))))..>>>.>>. NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUCUACGAACUUCCAUAUCCGGAAGCACAUAGGCCAAAUGACACUGGCG
+...(((((((.((((((((((((((...)))))))...))))))).).))....<<<<..))))..>>>>. NUPACK
+>
+GGCGUCAAUGCUUCGGGUGAAGUUUCACGAACUUACCAAUUCCGAAGCCAACAACGAAGAUACCUCCGGCG
+((.(((...((((((((..((((((...))))))......))))))))......<<..))).))..>>... NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUUGUCCGAACUUCAGUUACCCGCGGCAGAUUGAAAAGACAACUCCUGCG
+...<<<.......(((((((((((.....))))))....)))))..((((........>>>.....)))). NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUUCACGAACUUUGAGGCUCCAAAGCCGAUCUAUAAGAAGCCAUCGGCG
+(((.((.....((.(((((((((((...)))))))...)))).)).<<<<<.......)).))).>>>>>. NUPACK
+>
+GGCGUCAGGAGUUCGGGUGAAGUGUAACGAACUUUAAGAAUCCCAAGCGCAGCGACGAAAUAAACUCUGCG
+..<<<<.((.((((...((((((.......)))))).)))).))...(((((.>>>>.........))))) NUPACK
+>
+GGCGUCAACAAUUCGGGUGAAGUACAUCGAACUUUCAGAUUCGGAAGCAGACCACGGCAGGUACGGCUGCG
+...<<<.....((((((((((((.......)))))...))))))).((((.((..>>>......)))))). NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUCUACGAACUUACAUACUCGGGAGCACGGUUGCGCUACGACCCUUGCG
+.(((.(((((...((((((((((((...))))))...))))))...<<<.)))))))).........>>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUUUUCCGAACUUGACAAACCCCGUGCGGGCUCGCCGACUGACACCUGCG
+<<<((((((..((((((........)))))))))))).........(((((...>>>........))))). NUPACK
+>
+GGCGUCAACCGUUCGGGUGAAGUUCCACGAACUUAACUUAUCCACAGCUCAUAGACAACAUAACACCAGCG
+...(((........(((((((((((...)))))....))))))...<<<....)))...........>>>. NUPACK
+>
+GGCGUCAUAAAUUCGGGUGAAGUGUUACGAACUUAUGUGCUCGACAGCGGGGAUACAAGGCGACCCCAGCG
+..<<<<......(((((((((((.......))))...)))))))..((((((......>>>>.)))).)). NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUCGCCGAACUUAGGUUUCCCGAAGCGGAGUUAGACGUUACCCCGUGCG
+..<<<<.....((((((..((((((...))))))......)))))).(((.((..>>>>..)).))).... NUPACK
+>
+GGCGUCAACUCUUCGGGUGAAGUUUAACGAACUUUGAUUGCCCCCAGCAGAUCGGCGAGAUGACUGCGGCG
+.((((((.(((...(((((((((((...)))))))....))))...<<........))).)))).)).>>. NUPACK
+>
+GGCGUCAGUAGUUCGGGUGAAGUUCGACGAACUUCUCAACUCGGAAGCAGCUUGAGCCGGUACGUGCGGCG
+(((.(((....((((((((((((((...)))))))...))))))).<<.<<.)))))).......>>.>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUAUCACGAACUUGACGGCUCGGCAGCCGCGCAACCGGGUCUCACAUGCG
+<<<(((((...((((((((...)))).)))).)))))(((((((..>>>......)))))))......... NUPACK
+>
+GGCGUCAGGCCUUCGGGUGAAGUUCGACGAACUUCACUGCUCCGAAGCAGAUUAAUGACUUGACUCCUGCG
+...((((((..((((((((((((((...)))))))))....)))))<<<<........))))))..>>>>. NUPACK
+>
+GGCGUCAGGUAUUCGGGUGAAGUUGAACGAACUUAAGGACUGAGCAGCCAUACCUUACGAGACCUCCUGCG
+..(((.((((((((((...(((((.....))))).....))))<<<<..)))))).))).......>>>>. NUPACK
+>
+GGCGUCAUUGAUUCGGGUGAAGUUCGACGAACUUCCAUGCUCGAAAGCGGAUUGUCCUGACGAUAGUCGCG
+...<<<<....((((((((((((((...)))))))...))))))).((.(((((((.>>>>))))))))). NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUAGAACGAACUUAGAUACUCGAGGGCUCGAUAAUGUGUUGCCGUCGGCG
+((((.((..((((((((((((((.......))))...))))))))))..<<<.....)).)))).>>>... NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUCAACGAACUUAACGAAUUGUCAGCGGAGUGGCCCGUCGACUCCGGCG
+<<<....((((((((....((((((...))))))..))))))))...((((((.>>>.....))))))... NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUUCACGAACUUGAGUACUCCCAAGCGCUCCGACGCAUUAACUCCUGCG
+.(((((....((((((((...((...))..))))))))........<<.....)))))..........>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUUUCACGAACUUACCGAUUCAGCAGCCUGUUAACCGUUUGACUCUGGCG
+...(((((((..((((...((((((...)))))).)))).......<<<........)))))))...>>>. NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUGUACGAACUUAAGUAUCCGGCAGCACGAUUACCGGAUGGCUCCUGCG
+..((((.((....(((((((((((.....)))))...))))))...<<<.<<...)).))))..>>.>>>. NUPACK
+>
+GGCGUCAUUAAUUCGGGUGAAGUUCCACGAACUUCAGAUCUCAGAGGCGGAUGGACGCACUGACUUCAGCG
+.<<<<<........(((((((((((...))))))))...))).(((((((...>>>>>.))).)))).... NUPACK
+>
+GGCGUCAGGGCUUCGGGUGAAGUUCCACGAACUUAAGUACUCCGCAGCGAGGUGACCGCAUGGCGUCAGCG
+(((((((..(((.((((((((((((...))))))...))).))).)))..(....).<<.))))))).>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUUGCGAACUUAUGUGCCCGAGAGCAGAUUGACGCGUUACUAUUUGCG
+.(((((((((..(((((((((((((...))))))...)))))))..<<<))))))))).........>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUUACGAACUUGAUGGCUCGGAAGCGCACAAGACUGAUGCCAAUGGCG
+((((((((((.(((((((.((((((...))))))....))))))).))<<.<<...))))))))..>>>>. NUPACK
+>
+GGCGUCAGUGGUUCGGGUGAAGUUCAUCGAACUUCAAUUAUCCUAAGCUGCUACACAAUAUGCCAAUUGCG
+(((((.(((((((.(((((((((((...)))))))).....))).)))))))...<<<<))))).>>>>.. NUPACK
+>
+GGCGUCAGACAUUCGGGUGAAGUUCUUCGAACUUUAGAAACCCAAAGCGGAUUAACACGAUGCAUCCAGCG
+.(((((........(((((((((((...)))))))....))))...<<<<<.......))))).>>>.>>. NUPACK
+>
+GGCGUCAAUGCUUCGGGUGAAGUCUCACGAACUUAAUAACCCGGAAGCGCAUCUAUACUAUGUCACUAGCG
+(((((....(((((((((.((((.......))))....))))).))))<<.........)))))....>>. NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUUUACGAACUUAGCUACUCCACGGCAGGUUAACGCGCAAACACUUGCG
+.<<<<..(((.....(((.((((((...)))))).)))..)))...((((((..>>>>......)))))). NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUGAUCGAACUUCAGUUGCCCGAAGCGGGUGAGCCAGAUGCAACCAGCG
+.(((((.....(((((((((((((.....))))))....)))))))<<.<<<......))))).>>>.>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUUUUCGAACUUGACAGAUCCGAAGCGGCUAGACUCGACGAAAGCUGCG
+..<<<<.....(((((((.((((((...)))))).....)))))))((((((......>>>>..)))))). NUPACK
+>
+GGCGUCAAACGUUCGGGUGAAGUUUUUCGAACUUUAAAACUCGGCAGCGACUUCAAGACAUGACACCAGCG
+((.((((...(.(((((((((((((...)))))))...))))))).<<............)))).)).>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUUUGCGAACUUGAAUACCCCAUAGCAGAUAGCCACCAUACAUCCUGCG
+<<<...........(((((((((((...))))))...)))))....((((...>>>..........)))). NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUCCGCGAACUUCAGAACCCAGAGGCACAGCAUCAAUAUGAUACCAGCG
+((.((((....((.(((((((((((...)))))))...)))).))......<<.......)))).)).>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUCUAACGAACUUGAGUUUUUCAAAGCCAGUGACCCAUUUGCUCCCGGCG
+((.((((...((((((((...((...))..))))))))........<<<..))))))..........>>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUUAUCGAACUUACUUUUUCACCAGCACCUUCACAGGACGCCGGUAGCG
+((((((.........((((((((((...))))).......))))).<<<<<.......))))))>>>.>>. NUPACK
+>
+GGCGUCACUCCUUCGGGUGAAGUUUCGCGAACUUUACGGGCCCAGAGCACAUUGACCCAAUGACCGCUGCG
+((.((((.......(((((((((((...)))))))....))))..<<<....)))))).......>>>... NUPACK
+>
+GGCGUCACUACUUCGGGUGAAGUUCAACGAACUUAAUUGAUCAGCAGCAGGUAAACACGGCGCCGGGGGCG
+((((((......((((...((((((...))))))..))))...<<....(.....)..))))))....>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUGAACGAACUUAACGGCUCGGAAGCGCCUUUACCGGAUGCCUGCUGCG
+((((((.....(((((((...(((((......))))).))))))).<<<<........)))))).>>.>>. NUPACK
+>
+GGCGUCAGGGAUUCGGGUGAAGUACUUCGAACUUCAGAACUUACAAGCGAAAUGACAGCUUGACCACAGCG
+...<<<<....(((...((((((.......)))))))))....(((((....>>>>.)))))......... NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUCUCGCGAACUUCACGUUUCGGAAGCGCACGUAUAAGUUGAGGCCAGCG
+(((.(((....((((((((((((.......)))))))...)))))..<<<..........))).))).>>> NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUAUUACGAACUUUCGGAAUCCGAAGCGAGUGGGUCUACUGACGGUAGCG
+..((((((((.((((((((((((.......)))))....)))))))<<.........))))))))...>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUUCACGAACUUAACAAUUCCGCAGCACAUCAAACACAUUCCGUCGGCG
+((((.........((((..((((((...))))))......))))..<<...............)))).>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUUCUCGAACUUAUCUAUUCCGCAGCUUUAUAACACCAUGACUCCGGCG
+((.((((......((((..((((((...))))))......))))..<<............)))).)).>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUGAUCGAACUUAAAUCCUCGGCAGCGCUGACACCGGUUGAAGGAAGCG
+((.((((.......((((.(((((.....)))))..)))).<..<<<<..)))).)).>>>>..>...... NUPACK
+>
+GGCGUCAGCAAUUCGGGUGAAGUUUUACGAACUUGGCUAACUCUAAGCGCAGGAACCGAUCGCCAUCUGCG
+((((((.((......(((.((((((...)))))).)))........))<<<<.....)).))))..>>>>. NUPACK
+>
+GGCGUCAAACGUUCGGGUGAAGUCCCUCGAACUUGAUUGAUUCCGAGCGCACCAAUCUGAUGUCAGUGGCG
+(((((((..((((((((...((((..........))))...))))))))..<<<...)))))))..>>>.. NUPACK
+>
+GGCGUCAUUAGUUCGGGUGAAGUUCGUCGAACUUAUCUACUCGCAGGCCCCAAUAUCAGAUCCCACUGGCG
+((.(((.....(.((((((((((((...))))))...)))))).).<<<.........))).))...>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUCUCGAACUUCCGUUAUCGUAAGCGCACUAGCCGGAUUACUCGUGCG
+(..(((.(((...(((..(((((((...))))))).....)))....<<<<<..))).)))..)..>>>>> NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUCUGCGAACUUACGGGCUCGGAAGCAGGUAGACAGUUUGACACCAGCG
+...(((((...(((((((.((((((...))))))....))))))).<<.<<<.......)))))>>>.>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUAACGAACUUCCAUCCUCGAAUGCAAAGCGAGCCUAUUACAAUUGCG
+(((.((.....((((((.(((((((...)))))))....)))))).<<<<...)))))........>>>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUCUUACGAACUUCACAGUUCCGAAGCAACCCUUGCAUAUGACUCGUGCG
+...((((....((((((((((((.......)))))))....))))).........<<<..))))...>>>. NUPACK
+>
+GGCGUCAGGCGUUCGGGUGAAGUAUUUCGAACUUCAAUUGCCAAAAGCAGGGUGACGAGUUGACUCCAGCG
+..<<<<.((((......((((((.......))))))..))))....((.((((>>>>.....)).)).)). NUPACK
+>
+GGCGUCAAUAUUUCGGGUGAAGUAUCUCGAACUUAUCGAAUCCGAAGCGACCUGACCCCGUGAAAAUUGCG
+((.((((....(((((((........((((.....)))))))))))<<<<..)))).)).......>>>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUACAACGAACUUACGACCCUCAAAGCGAAUAGACCCUUUGACACCUGCG
+((.(((((......((((.((((.......))))...)))).....<<...........))))).)).>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUAUCGAACUUUCCAACACCGCGGCAGGCUGAGGCAAAAACUGCAGCG
+.<<.<<<.......(((..((((((...))))))))).....(((.((((..>>>.>>.....)))).))) NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUUUUCGAACUUAAAUCUUCCAAGGCCGAAUAAAGCCAGGCCGCUAGCG
+<<<...........(((..((((((...))))))......)))..((((.......>>>.))))....... NUPACK
+>
+GGCGUCAGAACUUCGGGUGAAGUUCUUCGAACUUCCAUGCCCGCAAGCAGGUCAAGCUUAUGACACCUGCG
+...((((.(((((((((((((((((...)))))))...)))))...<<<<<..))).)).)))).>>>>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUCGUACGAACUUAAAAGCUCCGCAGCUGAAUUCGCGCCUGCCAGCGGCG
+(((((.((((.((.((((...((...))..)))).)).))..<<<.<<<<..)).)))))...>>>>.>>> NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUAUUACGAACUUAAGUCCCCGCGAGCGAGGCGAACAGAAGCCUAUUGCG
+(((.((..((.(.((((..((((.......)))).....)))).).))...<<<<...)).)))..>>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUUACGAACUUGAGUGUUCGCAGGCUACGUAACCUUAUGACGCCUGCG
+..<<<.<<<(((((((((...((...))..)))))))))..(((((((.......>>>.>>>..))))))) NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUUCACGAACUUAACAAUCCCGCAGCGGUCGACGCUUUUGUCUACUGCG
+.(((((.......((((..((((((...))))))......))))..<<<<<.)))))........>>>>>. NUPACK
+>
+GGCGUCAGGCGUUCGGGUGAAGUUCUACGAACUUAACUACUCCGAGGCACAUCAAGCAGAGGCCACAGGCG
+(((.((..((.((((((((((((((...))))))...))).))))))).......<<.)).)))....>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUCAACGAACUUCCUCCCUUGACAGCACAGAGGCCAAAUGAUUCAUGCG
+(((.((........(((.(((((((...)))))))..)))......<<<..)).)))..........>>>. NUPACK
+>
+GGCGUCAGUCGUUCGGGUGAAGUUCUACGAACUUUAAUCGUUACCGGCGUGCCAUCCAGAUGUCGAAAGCG
+((((((.((((..(((.((((((((...)))))))).)))....))))..<<......))))))....>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCAACGAACUUAAGUCAUCCCCAGCACAUCUAUCUUAUGCUUCGUGCG
+.((((.(.......(((((((((((...)))))....))))))...<<<<.......).))))...>>>>. NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUUUUACGAACUUGUAUACACGGAGGCAGGUACACGGUUUGACUCCUGCG
+...((((((((((((.(((((((((...))))))...))).)))).<<<<<.....)))))))).>>>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUGUACGAACUUAUUUGUUCCGAAGCGAAUAUUCAUGACACCUAUUGCG
+((.((((....((((((..(((((.....)))))......))))))<<<<.......)))).))..>>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUAACGAACUUCAAUGACUGGAAGCUCGUCUACGCAUUGAGACUGGCG
+.<<<<....((.(((..((((((((...)))))))).))).))...(((.((((>>>>....)))).))). NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUUCAACGAACUUAAGUAAUCCGAAGCGCAGCUAAGCAUCGGGCCUUGCG
+(((.((..((((((((((.((((((...)))))).....))))))).)))......<<<..))))).>>>. NUPACK
+>
+GGCGUCAGCACUUCGGGUGAAGUUUAACGAACUUAAAGCCUCAAAAGCGCACGUAUGAGGUGCCGUUUGCG
+.......(((((((.(((.((((((...))))))...)))......<<<.<<<...)))))))>>>.>>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUGCUCGAACUUUUAUACUCGGCAGCGGACUGAGCAGUAGACCGUAGCG
+.((.(((((....(((((((((((.....))))))...)))))<<.<<<<)))))))......>>>>.>>. NUPACK
+>
+GGCGUCAAGCUUUCGGGUGAAGUUGAACGAACUUAACUACUCAACAGCGAGUUUACGGGAGGACACCGGCG
+...(((..(((.(.((((..((((((......)))))))))).).))).......<<<...))).>>>... NUPACK
+>
+GGCGUCAACAAUUCGGGUGAAGUAUAACGAACUUCCUGAACCAGAAGCUAUUAGACCGGACGCGUCCAGCG
+.(((((.....((((((..((((.......))))))))))......<<<.........)))))....>>>. NUPACK
+>
+GGCGUCAGGCCUUCGGGUGAAGUUUCACGAACUUAAGUCCCCGGCGGCGAGUGCUCCAGAAGACACCGGCG
+((.(((..(((.(((((..((((((...)))))).....))))).)))....<<.......))).)).>>. NUPACK
+>
+GGCGUCAGGGAUUCGGGUGAAGUCCCACGAACUUAACGAAUUCCAAGCACCGAGUUAUAAUGCCUUCGGCG
+(((((..((((((((....((((.......))))..)))))))).....<<<<......))))).>>>>.. NUPACK
+>
+GGCGUCAGCCGUUCGGGUGAAGUUUCACGAACUUGACUCCUCGGAAGCUAUUUUACAUGACGCCUUAGGCG
+(((((((.(((...((((.((((((...)))))).))))..)))..<<.........)))))))....>>. NUPACK
+>
+GGCGUCAGGAGUUCGGGUGAAGUCCUUCGAACUUGAAAAUCCAACAGCGAAGUGACCGGACGUCCAAUGCG
+((((((.(((.(((((((............)))))))..)))....<<..........))))))....>>. NUPACK
+>
+GGCGUCAGGUAUUCGGGUGAAGUUUGGCGAACUUAACUACCCGGAAGCAGAGAGGCCCUGUGACUCCGGCG
+((.((((.((.((((((((((((((...))))))...)))))))).))......<<<...)))).))>>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCCUCGAACUUCCCGUCCCGUAAGCACAUAAUAACGAUGUCUCGUGCG
+((((((.......((((.(((((((...)))))))....))))...<<<<........))))))..>>>>. NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUUCCGCGAACUUCCUAGAUUCCCAGCACAUUGAGAAGACGACACUUGCG
+.(((((..(((((..((.(((((((...))))))))).)))))...<<<.........)))).)...>>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUGAGCGAACUUACGUAAUCCGAGGCGCGCUGUGCUGACGCCUUGAGCG
+(((((((...((((((((((((((.....))))).))...)))))))..<<<<....)))))))...>>>> NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUUCCGCGAACUUAUAUACUCGAGAGCACAUUUACCGGUCGCCAACUGCG
+((((....((.((((((((((((((...))))))...)))))))).))........<<<<)))).>>>>.. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUCGACGAACUUAAAUUACCCCAUGCAGAUACGCCUGACGACAUCUGCG
+..((((((......(((((((((((...)))))....))))))...<<<<<<....))))))..>>>>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUCUGCGAACUUACAGUAUCCGAAGCAGUUAGGCCACACGACGCUGGCG
+.(((((..((.((((((((((((((...))))))....))))))))))......<<<....))))).>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUCAUCGAACUUCCAUACUCCGAAGCGGAUGGGCCUAUUGACCACUGCG
+....<<<<<<.((((((((((((((...)))))))...)).)))))((((.(((...>>>>>>))))))). NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUUCACGAACUUGCAAGUCCGGAAGCGGGUAGACCCGACGACUCCUGCG
+..<<<<.<<..((((((((((((((...)))))).))..)))))).(((((.((.>>.>>>>.))))))). NUPACK
+>
+GGCGUCAAGUGUUCGGGUGAAGUUCCUCGAACUUAAAUACUCGGCGGCUUCUUCAUCAGUUGACAUUAGCG
+...(((((.((..((((((((((((...))))))...))))))...<<<.......)).)))))...>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUGUACGAACUUACUUUCUCCGAAGCAUACUGGGCUGUUAUUUCCUGCG
+.((.((((((.((((((.(((((.((....))..))))).))))))<<<))))))))..........>>>. NUPACK
+>
+GGCGUCAGGAGUUCGGGUGAAGUUCGACGAACUUCCGUAAACCAAGGCCUAUAGACGCGAUCUCACUAGCG
+.(((((.((((((((..(((...))).))))))))...........<<.....)))))..........>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUAACGAACUUACAUUUCUAUAAGCGGAGAGGCGCCUCUACUCUAGCG
+((((((....((..(((((((((((...)))))).)))))..))..<<<<<<.))))))....>>>>.>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUCAGCGAACUUAAGUACUCCAUAGCAGAUAGAAGCGAUAACUCUAGCG
+.((.((.(((....(((((((((((...))))))...)))))....<<.))).)).))..........>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCUUCGAACUUCGCACUUCAGAAGCGGAUUAACCAUUCGCCUCCUGCG
+((((.......(((..(((((((((...)))))))))......)))<<<<..........))))..>>>>. NUPACK
+>
+GGCGUCAAUUAUUCGGGUGAAGUUUCGCGAACUUACGUUAUCGGAAGCACAUUAGCACGUCGACUUUUGCG
+((((((.....(((((...((((((...))))))......))))).<<<.....).)))))......>>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUGUUCGAACUUCCAUGAUCAGAAGCGCAUACUCCAGACGUCUCUUGCG
+((((((....((((.(((((((((.....))))))....))).)))).<<<.......))))))...>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUCCCGCGAACUUCCAAACCCGACAGCGUAGUAGUAGAACGCCACUAGCG
+((((((......(((((((((((.......)))))...))))))..<<.<<<<....)).))))>>>>>>. NUPACK
+>
+GGCGUCAGUUAUUCGGGUGAAGUACCUCGAACUUAAAAACUCAACAGCACAGACACGCGAUAACACGGGCG
+.((((.((((.((.((.(((......)))..)).)).)))).....<<...<..)))).......>..>>. NUPACK
+>
+GGCGUCAAGUCUUCGGGUGAAGUUGUUCGAACUUCCGUACUCCGCAGCACAAAUAGAGCUUGCCGCUUGCG
+.(((.(((((((.(((((((((((.....))))))...)).)))..<<<.....))).)))).))).>>>. NUPACK
+>
+GGCGUCAAUGCUUCGGGUGAAGUUUCACGAACUUACGCGCUCCUAGGCACGUAGACGUAUUGCCAACUGCG
+<<<.....(((((.(((((((((((...))))))...))).)).))))).((((.......>>>..)))). NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUCUACGAACUUCACUUCUCAAAGGCAGUUAGACCGCACGACUCUGGCG
+.<<<......(((.(((((((((((...)))))))))))....)))...((((((.>>>.....)))))). NUPACK
+>
+GGCGUCAGGAUUUCGGGUGAAGUUCAUCGAACUUACAUCUUCCGAAGCAGAUAAACCCUAUGCCACUGGCG
+(((((.(((..((((((..((((((...))))))......)))))).<<<......)))))))).>>>... NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUCUAGCGAACUUCCUUUCUCACCAGCGAAUACACCGAUCGCCCUCUGCG
+((((((.........((((.((...((.((...))))..)))))).<<.........)).))))....>>. NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUUUAGCGAACUUCAGUGAUUCGCAGCACAUUGGCCCUAAGAUACUAGCG
+((.((((((((((..(.((((((((...)))))))).))))))...<<...)))))))..........>>. NUPACK
+>
+GGCGUCAGACCUUCGGGUGAAGUACUUCGAACUUCAAUACUUGGGAGCAAAUUGUCGAAUUGAGUCAUGCG
+(((.(((..(((..(..((((((.......))))))...)..))).<<<...........)))))).>>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUUUCGAACUUACAGACCCCCAAGCGGAGAGACCCUACGACCUCUGCG
+<<.<<<........((((.((((((...))))))....))))....((((((.>>>>>......)))))). NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCAUCGAACUUCAAGAGCCCGCAGCGGGUGUACCGGUCGUCCCUAGCG
+((((((.((((..((((((((((((...)))))))....)))))..<<<<<.)))).)).))))>>>.>>. NUPACK
+>
+GGCGUCAACCUUUCGGGUGAAGUUCCUCGAACUUAAGGGGUCCACAGCAGAUUGACGCUACAUACAUUGCG
+.((((((((((((.((.(((......)))..)).))))).......<<<..))))))).........>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUAACGAACUUAUAACCCCGGAAGCACACGGACCGGUUAUCAAUUGCG
+...(((.((..((((((..((((((...)))))).....)))))).<<<.)).)))...........>>>. NUPACK
+>
+GGCGUCAACACUUCGGGUGAAGUUCACCGAACUUCUCUAAUCCGUAGCGAAUAGACACAUUGACACUAGCG
+...(((((..((.((((((((((((...)))))))....))))).)).<..<<<.....))))).>>>.>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUGGCGAACUUCAGUAGUCCGAAGCAAGUGCUCACGUUGACGCGUGCG
+.((((((...(((((((((((((((...))))))))....))))))).....<<......))))))..>>. NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUCAACGAACUUCAGUACUCGGAAGCACAUCGGUAAUAUGACUCUUGCG
+...((((....((((((((((((((...)))))))...))))))).<<<...........))))...>>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUCUGCGAACUUUAAUACUCACAAGCUCCUAGACACUAUGACAACUGCG
+...((((.......(((((((((((...)))))))...))))....<<............))))....>>. NUPACK
+>
+GGCGUCAACCCUUCGGGUGAAGUUUACCGAACUUAUCAACUACCCAGCAAGUAUAACCGUUAACUCUUGCG
+...((.(((.....(((((((((((...))))))......))))).<<<<<.......))).)).>>>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUUACGAACUUGUAUGCUCGGAAGCACAUAGACGUAAAAACUCUGGCG
+..((((.....((((((((((((((...))))))...)))))))).<<.<<..)))).........>>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUGUACGAACUUUCAAACCCGCCAGCACAUAGGCCCUAAGACUCAUGCG
+((.(((.......(((((((((((.....))))))...)))))...<<<....))))).........>>>. NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUUUCACGAACUUGCACUGUCCGCAGCGCGUUGACGUGACGCCCCCGGCG
+(((((((.(((((((((((((((((...)))))).)))...))).)))))<<<<...)))))))..>>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUUCACGAACUUAAGUUCCCGGCAGCAGGAAGGCCAGUUGACCCCUGCG
+<<<..........((((..((((((...)))))).....))))...(((((...>>>........))))). NUPACK
+>
+GGCGUCAGCCCUUCGGGUGAAGUUUUACGAACUUAACACCUCGAAAGCUCAUAGGGCUAUCAAGUUUAGCG
+......(((((((((((((((((((...))))))..)))).)))..<<<...)))))).........>>>. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUCCGCGAACUUCACAACCCCACAGCGGGUGAAUAGGUCUACACCAGCG
+.......((((((.(((((((((((...))))))))....)))...<<.<<<<...)))))).>>>>.>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUUUCGAACUUUCCUAUCCGCAAGCGCAUGAGCGAGAUGUCACCAGCG
+((((((.((.(((((((((((((((...)))))))...))))).))).))....<<..))))))....>>. NUPACK
+>
+GGCGUCAGGACUUCGGGUGAAGUUUAGCGAACUUACUUUCUCAGGAGCACAUAGGACACUUGACAUUUGCG
+...((((((.(((.(((..((((((...))))))....))).))).<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUCCGCGAACUUAUGUAGUCCACAGCGCUUGUACGCCUUGACAGCUGCG
+((((((((((....(((..((((((...))))))......))).<<<<))))).)))))......>>>>.. NUPACK
+>
+GGCGUCAACCGUUCGGGUGAAGUUUAACGAACUUAAGUGAUCUUAAGCGAAUUAGCGAGAUGACUCCUGCG
+((.((((..((((.(((..((((((...)))))).......))).)))).....<<....)))).)).>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCAUCGAACUUCCAAACUCCCCAGCAGGGAGACCAAAAAACCCUUGCG
+...<<<........(((.(((((((...))))))).......))).((((((.>>>........)))))). NUPACK
+>
+GGCGUCAAGAGUUCGGGUGAAGUUUAACGAACUUCAUUACUCCAAGGCAAAUUGACCGCGCGUGACUUGCG
+.(((((((((((...((((((((((...))))))))))))))....<<<<.))))).)).......>>>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUUUGCGAACUUAACAUAUCCUAGGCAGGCUGACCCAUUGAAUAUUGCG
+((.((((.((....(((((((((((...))))))....)))))...<<<)).)))))).........>>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCCGCGAACUUCAGACCUCCGAAGCGGUAUGAGCUUAUGACAUCAGCG
+...((((...(((((((((((((((...))))))))....)))))))........<<<..))))...>>>. NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUCUACGAACUUACGUAUUCCGAAGCGGGUAGGCCAGAUGACUCGAGCG
+<<<........((((((..((((((...))))))......)))))).(((((..>>>.....))))).... NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUUAUCGAACUUAAGUUCCCAGAAGCAGAUAGAGGCAUUGACUCUUGCG
+...((((((.(((((((..((((((...)))))).....)))....<<<....)))).))))))...>>>. NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUACAGCGAACUUAAAUAUCCCUAGGCAGAGAGACCGUGUGACUCCUGCG
+...((((.(((.(((((..((((.......))))......)))...<<<<...)).))).))))..>>>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUAUCGAACUUAAUAGCCCGGCAGCGCGUACAACGGAUGACUCCGGCG
+((.((((.(((..(((((.((((((...))))))....)))))....<<<.......))))))).)).>>> NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUCGACGAACUUUGAUACUCACAAGCAUGUAGGACACUUGACUCUUGCG
+...((((((.....(((((((((((...)))))))...))))........<<<<<<..))))))>>>>>>. NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUUUGACGAACUUCAUAAAUCGGAAGCAGCCUGACUCGAUGUCGUCAGCG
+((((((..((.((((((((((((((...)))))))))...))))).)).<.<<<<<..))))))>>>>>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUUACGAACUUCCUUACCCAUAAGCGGAUAGACAUCUCAUCACCUGCG
+((.(((.((((...(((((((((((...)))))))...))))....<<)))).))).)).........>>. NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUUCCACGAACUUGUAAAACCAGAGGCGCGUAGAAGUGAAGACCCCUGCG
+((.(((..(((((.((...((((((...))))))......)).))))).<<<<<.......)))))>>>>> NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUCUACGAACUUACUGAAUCCCAAGCACUUGGACACUAUGAUCCCAGCG
+((.((((.......(((..((((((...)))))).......)))..<<............)))).)).>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUCCGCGAACUUAUGAAACCGAAAGCGCACAGACGCGACCACACUUGCG
+.(((((..((.(((((...((((((...))))))......))))).))<<<..))))).........>>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUAGUUCGAACUUCAGUACUCGAAAGCACAGUGAGGCGUUUUCUCCUGCG
+.((.(((....((((((((((((.......)))))...))))))).<<<...))).)).........>>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUUCAACGAACUUAUAUACUCGAGAGCAGGUAGAGGCUGUGACUCCGGCG
+((.((((.((.((((((((((((((...))))))...)))))))).))........<<..)))).)).>>. NUPACK
+>
+GGCGUCAGGGAUUCGGGUGAAGUUCCUCGAACUUAAUUGUCCGGAAGCACGCCGGCACGACGAUGCUAGCG
+..<<<<.....((((((..((((((...)))))).....))))))....(((.((((.>>>>.)))).))) NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUUUAGCGAACUUAAUACAUCGGAAGCAAGUGGAAGACUUGCCGCUAGCG
+...<<<.....(((((...((((((...))))))......))))).((.(((((..>>>...))))).)). NUPACK
+>
+GGCGUCACUCAUUCGGGUGAAGUUUGACGAACUUGGAUACCCCGCAGCAGAUAGAGAGAAUGACUUUAGCG
+...((((.((.((((((((((((((...))))))...)))))....<<.....))).)).))))....>>. NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUCUUCGAACUUACAAACUCCCCAGCACACGGACGCGAAGACUCGUGCG
+.(((((........(((..((((((...)))))).......)))..<<<<...)))))........>>>>. NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUUUUCGAACUUGCGUGUUCCGAAGCAAAUAGGACUAACGCCUCCAGCG
+(((((.((((.((((((..((((((...))))))......))))))<<......)))).)))))....>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUACCUCGAACUUAAGGUCCCCGAAGCGAAACGAUACUACGUCACUAGCG
+(((((......((((((......((((........)))).))))))<<...........)))))....>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCAGCGAACUUAACUCCUCACCAGCACGUUAACCUGGCGCGACUUGCG
+.(((((((.......(((((((((.((....)).))))..))))).<<<.<<....))))))).>>.>>>. NUPACK
+>
+GGCGUCAACCCUUCGGGUGAAGUACUUCGAACUUACGGUAUCCGCAGCGGCUAGGCCCAUUGACGUUAGCG
+..((((((..((.((((((..(((.........)))..)))))).))..<<<<......)))))).>>>>. NUPACK
+>
+GGCGUCAACCCUUCGGGUGAAGUUCAACGAACUUCCUUACCCCAAAGCGAAUAUACACUGUGACCCUUGCG
+((.((((....((.(((((((((((...)))))))...)))).)).<<<<..........))))))>>>>. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUGCACGAACUUAAGAAAUCCAAGGCACAUACGCCAGACGUCGCCUGCG
+<<<<<...((.(((.....(((((.....)))))..))).))..((((((..>>>>>....)).))))... NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUGUAACGAACUUUAGUUGUCGACAGCAGGGAAGCCCGUUGACCCUAGCG
+<<<(((.(.((((.((((...((...))..)))).)))).).))).((((((..>>>......)))).)). NUPACK
+>
+GGCGUCACGACUUCGGGUGAAGUUCUUCGAACUUACCUAGUCCCAGGCAAGUAGGCCCAUCGACAUUUGCG
+<<.<<<..((((..((((.((((((...))))))))))))))....((((((.>>>>>......)))))). NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUCCGCGAACUUCAGUUCCCCAAGGCAACUAGACAAUUCAACAGGUGCG
+...<<<.....((.(((((((((((...))))))))...))).)).(((.((.>>>........)).))). NUPACK
+>
+GGCGUCAGGCGUUCGGGUGAAGUUCUGCGAACUUAAGAAAUCGCAGGCACCUGGGCCGGUUUAGUCCUGCG
+(((.(((((..(((.....((((((...))))))..)))..<<<<<<<.))))))))......>.>>>>>> NUPACK
+>
+GGCGUCAACAGUUCGGGUGAAGUUUAGCGAACUUAACAUUUCCGAAGCAUAGAAACAUGAUGACACUUGCG
+...((((.((.((((((..((((((...))))))......))))))<<<........)).))))...>>>. NUPACK
+>
+GGCGUCAAUUCUUCGGGUGAAGUUCUACGAACUUAUAUCUCCGGAAGCAGCUAGUGACUUCGCGCACUGCG
+.((((.((.((((((((..((((((...)))))).....)))))).<<<<.....)).)).)))).>>>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUUUACGAACUUAAGAACCCAUAAGCGCAAGAGAAAGAUGACUCUUGCG
+..<<<<........((((.((((((...))))))....)))).....((((((((...>>>>.)))))))) NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUCAACGAACUUUAUACCUCGGAAGCAAAUAGUCCCGAUGUCUUUUGCG
+((((((.....((((((((((((((...)))))))..))).)))).<<<<<.......)))))).>>>>>. NUPACK
+>
+GGCGUCAGUGCUUCGGGUGAAGUUCCUCGAACUUACAAAUUCGGAGGCAGACCUAGCCUUUAUGCUCUGCG
+<<<.......(((((((((((((((...)))))).))..)))))))(((((.(..>>>.....).))))). NUPACK
+>
+GGCGUCAACAGUUCGGGUGAAGUUUAGCGAACUUAACAUUUCCGAAGCAGAGAAACAUGAUGACACUUGCG
+...((((.((.((((((..((((((...))))))......))))))<<<........)).))))...>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUGAACGAACUUCAUUCACUGAAGGCACCUCGGCCAUUUGAGAGUUGCG
+<<<.((((......((((((((((.....)))))))))).))))..(((.(((.>>>......))).))). NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUCAGCGAACUUCCAUUCUCGGAAGCAACUGGGCCGGAUCACUCUUGCG
+(((.(((....((((((.(((((((...)))))))....)))))).<<<<.)))))).........>>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUAGCGAACUUCCAAACCCACAAGCGCAUGGACAAGAUGCCUUUUGCG
+((((((........(((((((((((...)))))))...)))).....<<<<.......))))))...>>>> NUPACK
+>
+GGCGUCAUGAAUUCGGGUGAAGUAUCACGAACUUCAGUCAUCCCAAGCAGAUAUGCGUGUCGACUCCUGCG
+..((.((((.....(((((((((.......)))))).....)))..<<<<.....)))).))....>>>>. NUPACK
+>
+GGCGUCAGUCGUUCGGGUGAAGUUCUACGAACUUACUUACACGGAAGCGGGUAGGCCAGUCGACCCCUGCG
+<<<......(((..((((.((((((...))))))))))..)))...(((((...>>>........))))). NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUUUUCGAACUUCUGUUCUCCGCAGCACGUAAGCCCGUCGCCUUUUGCG
+((((.(....((.((((.(((((((...))))))).....)))).))..<<<<<....).))))..>>>>> NUPACK
+>
+GGCGUCAGCACUUCGGGUGAAGUUCAACGAACUUGAUUACUCAGAAGCGCAUAAACCUUUCGUCAUUGGCG
+((((...((.(((((((((((((((...)))))...)))))).)))).)).....<<...))))...>>.. NUPACK
+>
+GGCGUCAGGACUUCGGGUGAAGUUCCACGAACUUCCUUACUCAGCAGCGUUCAGACGCCUCGACACUUGCG
+((((((.((((...(((((((((((...)))))))...)))).<<<..)))).))))))........>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUCCACGAACUUCCGUGCUCAACAGCAGACAGGCGCGUCGACAUUUGCG
+.(((((........(((((((((((...)))))))...))))....<<<<<..))))).......>>>>>. NUPACK
+>
+GGCGUCAACCCUUCGGGUGAAGUCCUUCGAACUUACGGUAUCCGCAGCGGCUAGGCCCAUUGACGUUAGCG
+..((((((..((.((((((..((...........))..)))))).))..<<<<......)))))).>>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUUCACGAACUUAAGUAAUCCGAAGCAGAUAAGCCAGUUGACAUUUGCG
+<<<........(((((((.((((((...)))))).....)))))))((((((..>>>.......)))))). NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUCCACGAACUUCCUAACUCGGAAGCACCCUGAGCCGUCAUCAUUAGCG
+(((.((((...((((((((((((((...)))))))...))))))).<<...)))))))..........>>. NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUACUGCGAACUUAAAAAUCCGGAGGCAGACAGACCCGUUGCCACUUGCG
+((.(((.....(((((((.((((.......))))....)))))))<<<<....)))))..>>>>....... NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUCUACGAACUUGAGUAUUCCGCAGCAGAUUGACGAGAUGUCAGUUGCG
+..<<<<<<..((((((((...((...))..))))))))....((((((.((>>>>>>.....)).)))))) NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUCAGCGAACUUAAGUCACCCGAAGCGCAUAGACCUUUCGACACCUGCG
+((.(((.....((((((((((((((...)))))....))))))))).<<<...........))).)).>>> NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUUAUCGAACUUCAUAAGUCCCAAGCACGUUGUCCUGUUGACCUUUGCG
+((((.(((.((...(((((((((((...)))))))).....)))..<<<....)).))).)).))..>>>. NUPACK
+>
+GGCGUCAAUUCUUCGGGUGAAGUAUCACGAACUUCAAGGAUCAGCGGCACGCUGACGCGUUGCGUCCGGCG
+.<<<<<.((((((.((((...((...))..)))).))))))...(((.((((.>>>>>...)))))))... NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUUACGAACUUCCUUACCCAUAAGCGGAUAGACAUCUCAACACCUGCG
+((.(((.((((...(((((((((((...)))))))...))))....<<)))).))).)).........>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUCGCGAACUUCAAUACUCGUAAGCACCUACAUACUUUCACUCUUGCG
+...(..((((...((((((((((((...)))))))...)))))...<<<......))))..).....>>>. NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUCUUCGAACUUGAUUCAUCAGAAGCGGCGAAAGCUCGCGCCAGCUGCG
+(((((.((.(.(((.((((((((((...)))))....))))).)))<<<<<....))).))))).>>>>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCUUCGAACUUCAGUACUCGGAAGCGGAUGAUACCCUGGUCUGCAGCG
+((.((((....((((((((((((((...)))))))...))))))).<<<<<)))).))....>>>>>.... NUPACK
+>
+GGCGUCAAUUCUUCGGGUGAAGUUCUACGAACUUAGAUCUCCGGAAGCAGCUAGUGACUUCGCGCACUGCG
+.((((.((.((((((((..((((((...)))))).....)))))).<<<<.....)).)).)))).>>>>. NUPACK
+>
+GGCGUCAGUCUUUCGGGUGAAGUUCUUCGAACUUCAGUAACCCAAAGCAAGUUACGCGGAUGUCUCUAGCG
+((((((.(.((((.(((((((((((...)))))))....)))))))))......<<<.))))))....>>> NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUAACGAACUUAAUUAUUCGGAGGCGCAACGGCCUUACGUCUACAGCG
+(((((.((((.((((((((((((((...)))))...)))))))))..<<<....)))).)))))....>>> NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUUAACGAACUUCAAUCUCCAAAAGCAUGUAGAGCCUUUGUCCCUUGCG
+(((.((........(((((((((((...))))))))...)))....<<<....))))).........>>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCAGCGAACUUAACUCCUCACCAGCACGUUAACCUGUCGCGACUUGCG
+.(((.(((.......(((((((((.((....)).))))..))))).<<<.<<....))).))).>>.>>>. NUPACK
+>
+GGCGUCACUCAUUCGGGUGAAGUUCCGCGAACUUCAUUACCCACAAGCACAUUUACCAGACGAAUACAGCG
+..((((........(((((((((((...)))))))...))))....<<..........))))......>>. NUPACK
+>
+GGCGUCAAUGCUUCGGGUGAAGUUCGGCGAACUUAAGAUCCCCGAAGCGCGUACAUCCGUUGACCAGAGCG
+...(((((.((((((((..((((((...))))))......)))))))).<<<.<.....)))))..>.>>> NUPACK
+>
+GGCGUCAGCAGUUCGGGUGAAGUUUUGCGAACUUUCGGACCCGCACGCACGGUGACAAUACGACCACAGCG
+...(((.((.((.((((((((((((...)))))))...))))).))))..<<<)))......>>>...... NUPACK
+>
+GGCGUCAGUUGUUCGGGUGAAGUUGCACGAACUUCCGACUUCCAGAGCAGAUAGGCCUGAUGACUCCAGCG
+((.((((..(((((..(.(((((((..........)))))))).))))).....<<....)))).)).>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUGUACGAACUUCAGACGACCGCAGCGCAUUGACCAGACGACAGCUGCG
+...((((((...(((..(((((((.....)))))))..))).<<<<<<..)))))).........>>>>>> NUPACK
+>
+GGCGUCAAUAGUUCGGGUGAAGUUUGCCGAACUUAACAACCCGACAGCGCAUAGAGACGUUGACCCUUGCG
+((.((((((.((((((((.((((((...))))))....))))))...<<<<.....)))))))))).>>>> NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUUCACGAACUUUAAAGACCAAAAGCACAUAAGGCCGUCGACAGGUGCG
+<<<.........((...((((((((...))))))))..))......((((.....>>>........)))). NUPACK
+>
+GGCGUCAAUAGUUCGGGUGAAGUUCCACGAACUUAAAUUUUCGGAAGCGUAUUAAACAUUUGACACUUGCG
+...(((((...((((((..((((((...)))))).....)))))).<<...........)))))....>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUCUCCGAACUUACCACAUCCGAGGCAGCCUAACCAGAUGACAGUUGCG
+...<<<<.....(((((((((((((...))))))....))))))).(((((.........>>>>.))))). NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUUUUUCGAACUUACAUAGUCGGAAGCAGAUGGGCCCGUUGCCCCCAGCG
+((((.(..((.((((((((((((((...)))))).)))..))))).)).<.<<<<...).))))>>>>.>. NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUCCACGAACUUGAGUAUUCGUCAGCAGACUAACUAGACAACGAUAGCG
+...((.((((..((((((...((...))..))))))......<<<....)))).))..>>>.......... NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCCACGAACUUAAGAAUUCGGAAGCAGAUAGGCCUCUUGACACUUGCG
+...(((((...(((((((.((((((...))))))....))))))).<<<..........)))))...>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUCACCGAACUUGAAUUCUCCACAGCUCGUUGACGGUUCUACUCUGGCG
+..((((((((((((.(((((...))))))))..))).....<<<.<<....))))))......>>.>>>.. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUCUUGCGAACUUACGUACCCAAAGGCACAAAGACGCUACGUCUCUAGCG
+.(((((........(((((..((..(....)...)).)))))..<<<.<<...)))))...>>.>>>.... NUPACK
+>
+GGCGUCACGCUUUCGGGUGAAGUUCUACGAACUUCCCAAACCGGAAGCAGGUGUGAAUGACGCAUUUUGCG
+.(((((..((((((((..(((((((...))))))).....))))))))....<<<<<.)))))..>>>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUUCCGCGAACUUCAAUACCCCCAAGCAUAUAGGCGUCUCGACUUUUGCG
+((((((.(((....(((((((((((...)))))))...))))....<<<))).))))))........>>>. NUPACK
+>
+GGCGUCAGUUCUUCGGGUGAAGUUGGACGAACUUAUGAUCCCCUAAGCGGAUUUUCUCGGCGCCCCUUGCG
+((((((........(((..(((((.....))))).....)))....<<..........))))))....>>. NUPACK
+>
+GGCGUCAGUUCUUCGGGUGAAGUUUUUCGAACUUGACUCAUCGAAAGCGCAUAUACCUUAUGCCGACUGCG
+(((((.((...(((((((.((((((...)))))).)))...))))..<<<<.....)).)))))...>>>> NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCCACGAACUUGAUAACUCGGAGGCAAGUAUACCAGUUGACAUGUGCG
+...<<<<...((((((((.((((((...))))))....))))))))....(((((.....>>>>.))))). NUPACK
+>
+GGCGUCAGGCUUUCGGGUGAAGUUCUACGAACUUUAUUAAUCGGAAGCGCACAGACGCAAUGACACUUGCG
+.(((((..(((((((((((((((((...)))))))))...))))))))<<<..))))).........>>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUCUACGAACUUAAUAGACCCAAAGCAGGGUGGCGCAAUGUCCAUUGCG
+.((((((.......((((.((((((...)))))).....))))...<<<<<<)))))).....>>.>>>>. NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUGUACGAACUUAUCUUUCCCCAAGCAUCUACGCAUGACGUCGCUUGCG
+(((((((..(....(((.((((..((....))....)))).)))..<<<.....)..)))))))...>>>. NUPACK
+>
+GGCGUCAUUCAUUCGGGUGAAGUUCAGCGAACUUAAGAACUCCCAAGCGUAUAGACCCUAUAUCCAUAGCG
+((.(((........(((..((((((...)))))).......)))..<<.....)))))..........>>. NUPACK
+>
+GGCGUCAACACUUCGGGUGAAGUUCUACGAACUUGAGACCUCCGAAGCAUAUGAACCAGUUGACCCUAGCG
+((.((((((..((((((..((((((...))))))......))))))<<..........))))))))..>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUCUAGCGAACUUAAGUAUUCCGAAGCAACAGAACCCAUUGCCAUCUGCG
+<<<.......(((((((..((((.......))))......)))))))...((((.......>>>.)))).. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUCAACGAACUUCCAUUCCCAGGAGCGGCUAAAGCGGAUGACAUCUGCG
+...<<<<....((((((.(((((((...)))))))....))).))).........(((((>>>>.))))). NUPACK
+>
+GGCGUCAACACUUCGGGUGAAGUUCGACGAACUUCCCUAAUCCGAAGCACCUAAUCGCGUUGACACUUGCG
+...((((((..((((((((((((((...)))))))....)))))))<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUGUACGAACUUCCCUUCUCGGAAGCAGAUACACCGAUUGACAUUAGCG
+...((((((..((((((.((((((.....))))))....)))))).<<..........))))))....>>. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUCUACGAACUUAAAUACCCGGAAGCAGGAACGCCCUUUACCACUUGCG
+(((((......((((((((((((((...))))))...)))))))).<<<<<.)))))........>>>>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUGUACGAACUUAACGUGUCGGAAGCAGGUAGAACCGUCGUCUCUUGCG
+<<<<....(((..((.((.(((((.....))))).)).))..))).(((((.(((..>>>>.)))))))). NUPACK
+>
+GGCGUCAUUCGUUCGGGUGAAGUUCUUCGAACUUAACAUUCCAUAAGCUCUUUGACGGAGCGUCCCCCGCG
+..(((((.......(((..((((((...)))))).....)))....<<<<..)))))>>>>.......... NUPACK
+>
+GGCGUCAUUACUUCGGGUGAAGUUGUUCGAACUUCAAACUUCCAAAGCAGCUUCGCGCCUCGACUCCUGCG
+(((((.(.......((((((((((.....)))))))....)))...<<<<..).))))).......>>>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUACUUCGAACUUGCGUAUUCACCAGCACGUCUAGCUGAUGCCCGCUGCG
+(((((((........((((((......((......))..)))))).<<<........)))))))...>>>. NUPACK
+>
+GGCGUCAGGUCUUCGGGUGAAGUUUAACGAACUUAAGACCCCGCAGGCGAACCGACAUGAUGCCACUAGCG
+(((((((.(((...((((.((((((...))))))...)))).<<.<<......))).))))))).>>.>>. NUPACK
+>
+GGCGUCAACAGUUCGGGUGAAGUUCAACGAACUUCAUAUUGCCCAAGCAUAUAAGCCCUUUGAUAUAUGCG
+<<<...........(((((((((((...))))))).....))))..(((((((.>>>......))))))). NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUUUACGAACUUAAUUGCACGGCAGCAGAUUGACGAUGCGACUGCUGCG
+..((((((((...(((...((((((...))))))..)))....<<<<<<)))))))).......>>>>>>. NUPACK
+>
+GGCGUCAAGAGUUCGGGUGAAGUUGAUCGAACUUAAAAGCCCCGAAGCACCCAGGAACGAUGUCACUUGCG
+((((((.....((((((..(((((.....)))))......))))))<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUUAUCGAACUUAAGUUCCCAUAAGCACAUUGACCAGAUGCCCCUUGCG
+((((((........(((..((((((...)))))).....)))....<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUCUACGAACUUACAAUAACAGAAGCGGCUUGACUGGACGCCACCUGCG
+((((((.((..(((...((((((((...)))))).))......)))<<<<.....)).))))))..>>>>. NUPACK
+>
+GGCGUCACCUCUUCGGGUGAAGUGCAACGAACUUACAUACCCCUCAGCAGAGCUAGAUGACCAGUACUGCG
+((((((........(((((((((.......))))...)))))....<<<<.<<..)))).)).>>.>>>>. NUPACK
+>
+GGCGUCAGAUCUUCGGGUGAAGUGGUGCGAACUUCAGUACUCGGAGGCGCAUUUACCUGCUGCCGCAUGCG
+((((.(((..(((((((((....(((....)))....))))))))).<<<<<....))).))))..>>>>> NUPACK
+>
+GGCGUCAAUAGUUCGGGUGAAGUUGAUCGAACUUGAGUCCCCGAGAGCACAUUGACCGGACGUCAUUUGCG
+((((((......(((((.((((((.....))))....)))))))..<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAGUAAUUCGGGUGAAGUAUUACGAACUUCAAUCUUCCGAAGCAGCGACACACUUUGACGCAUGCG
+.((((((....((((((((((((.......))))))....))))))<<<...........)))))).>>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUAUAACGAACUUAGAUACUCCGAAGCAGAUAGACCCGAUGUCCUUUGCG
+((((((.....((((((((((((.......))))...))).)))))<<<<<.......)))))).>>>>>. NUPACK
+>
+GGCGUCACCCAUUCGGGUGAAGUUCAACGAACUUACGUUUCCCGAAGCAAGUAGACAAUACGACUUGAGCG
+...<<<.....((((((..((((((...))))))......)))))).(((((.>>>......))))).... NUPACK
+>
+GGCGUCAACAAUUCGGGUGAAGUUUUACGAACUUAAUUCACCGAAAGCAUCUGGACGGGACGUCAUCAGCG
+((((((..(..(((((...((((((...))))))......))))).<<........).))))))....>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUUACGAACUUAACUUUCCGGCGGCAUAUUAAGCAGAUGACUUUUGCG
+...<<<.(.((.(((((..((((((...)))))).....))))).))).......(((((.>>>.))))). NUPACK
+>
+GGCGUCAACUAUUCGGGUGAAGUACCGCGAACUUAGAUAUCCACAAGCACUUUUACACGACGACCCUUGCG
+((((((..(((((((((((...)))).))))..)))..........<<<.........)))).))..>>>. NUPACK
+>
+GGCGUCAGCAAUUCGGGUGAAGUUCAACGAACUUACAUUUCCCAAAGCACCUUGGGCUGAUAACUGUUGCG
+....(((((.....(((..((((((...))))))......)))...<<<.<..<.)))))...>.>.>>>. NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUUCAACGAACUUCCGAAACCCUAAGCACCUAGACUUAUCAUCUCUUGCG
+...(((.((.....(((((((((((...)))))))....))))...<<<.)).)))...........>>>. NUPACK
+>
+GGCGUCAAGUCUUCGGGUGAAGUUCAACGAACUUCUAGGCUUAGAGGCAGGUUGGGGCGAUGCCUGUUGCG
+((((((..(((((.(((((((((((...)))))))...)))).)))))........<<))))))....>>. NUPACK
+>
+GGCGUCAAUAGUUCGGGUGAAGUUCGACGAACUUACGAGACCAUGAGCACAUAUACCAGAUGACCUCUGCG
+((((((...((((((..(((...))).)))))).............<<<.........)))).))..>>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCUACGAACUUAAGCCCCCGAAAGCAGAUUGACCUGAUGACUUCUGCG
+...<<<<....((((((..((((((...)))))).....)))))).(((((.........>>>>.))))). NUPACK
+>
+GGCGUCAGCUGUUCGGGUGAAGUUCCUCGAACUUCGCAUGUAAGAAGCAGCAAAGCGUUACGCCACUUGCG
+(((((..(((((((..(((((((((...)))))))))......))).))))...<<...)))))....>>. NUPACK
+>
+GGCGUCAACAGUUCGGGUGAAGUUUAGCGAACUUAGCAACUCCGAAGCUAAUAAAUCCAACGACUCCCGCG
+((.(((.....((((((..((((((...))))))......))))))<<.............))).)).>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUGAACGAACUUCCAUACCCCAAGGCAAAAACACAAGACGCCUUUUGCG
+((((((....(((.((((((((((.....))))))...)))).)))<<<<<.......)))))).>>>>>. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUCUACGAACUUCAGUAUCCGUCAGCACCUAGACAAGGCGUCACUUGCG
+((((((.......((((((((((((...))))))))...))))...<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUCUACGAACUUACCUACUCCGAAGCACAAUGGACCGUUGACGCCAGCG
+(((((((((..((((((((((((((...))))))...))).)))))<<..........))))))))).>>. NUPACK
+>
+GGCGUCAAAAGUUCGGGUGAAGUUCUACGAACUUGUCUUCCCGGAGGCGUCUUAGCCAUACGACUUCUGCG
+<<<.....(((((((...((...))..))))))).......(((((((((....>>>..))).)))))).. NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUACAUCGAACUUGCCAUUCCGGAAGCAUAUAGACACAUUGACACUUGCG
+...((((((..((((((..((((.......)))).....)))))).<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUGAUCGAACUUCCUAAAUCGGCAGCAGCUAAGGAUUGCGCCUAUUGCG
+((((.(((((...(((..((((((.....)))))).....)))...<<<......)))))))))...>>>. NUPACK
+>
+GGCGUCAUUUUUUCGGGUGAAGUUUAACGAACUUCGUUUCCCAAAAGCGCAUAGGCCCCUUGACACUAGCG
+...<<<<...(((.(((((((((((...))))))))...))).))).(((.(((......>>>>.)))))) NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUGCUCGAACUUCCGAACACAUAAGCGAAUAUGCCCCUCGUACAUUGCG
+(((((......((((((...((((.....)))))))))).......<<<<..))))).........>>>>. NUPACK
+>
+GGCGUCAGGAUUUCGGGUGAAGUUUAGCGAACUUAGUUCCUCCAACGCAGGUUAACCUGUUGACACUUGCG
+..<<.<<<<.....(((..((((((...))))))...))).....(((((((...>>>>.>>..))))))) NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUUGGCGAACUUUACACCUCGGAGGCAUGUAGACACGAUAUCCUCUGCG
+((.(((.(.((((((((((((((((...))))))..)))).)))))))..<<<<<...))).)).>>>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUCUCCGAACUUCCGACCUCGGCAGCGUUUAGACGCGGUGUCAUUUGCG
+.(((((.......((((((((((((...)))))))..))).))...<<<..<.)))))......>..>>>. NUPACK
+>
+GGCGUCAGUCGUUCGGGUGAAGUUCUACGAACUUAAUUAUCCCGAAGCGCAUAGACAUGACGCCACUUGCG
+((((((((((.((((((..((((((...))))))......)))))).<<<<..))).)))))))...>>>> NUPACK
+>
+GGCGUCAAUACUUCGGGUGAAGUUGUUCGAACUUAAAUACUCCGAAGCAGGUAGACACGUCUCCACUUGCG
+<<<<<......(((((((((((((.....)))))...))).)))))((((((.((.>>>>>)).)))))). NUPACK
+>
+GGCGUCAGUCAUUCGGGUGAAGUUUUACGAACUUAACUACCGGGAGGCAUAUAAGCAAGGUGGCACCAGCG
+((.(((((((.(((((...((((((...)))))).....))))).)))......<<....)))).)).>>. NUPACK
+>
+GGCGUCAACCAUUCGGGUGAAGUUUUACGAACUUACAUACCCCGAAGCGGGUAGACCCUUCGCCACCUGCG
+<<.<<<.....((((((((((((((...)))))).))...))))))((((((.>>>>>......)))))). NUPACK
+>
+GGCGUCAAGUAUUCGGGUGAAGUUCCCCGAACUUCAAAACUCGGAAGCAGGCAAGUGUGAUGACAGUGGCG
+...((((.((.((((((((((((((...)))))))...))))))).))..<<........))))....>>. NUPACK
+>
+GGCGUCAGCAAUUCGGGUGAAGUUUCUCGAACUUACUUACUCCGAAGCAGGUAGACUUGACGACACUAGCG
+..(((((....((((((((((((((...)))))...)))).)))))<<.<<<.....)))))..>>>.>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCCGCGAACUUAAAAACCUCGAAGCAUAGUGACCUAAUGACUCCAGCG
+((.((((.((.(((((((.((((((...))))))....))).))))<<.........)).)))).)).>>. NUPACK
+>
+GGCGUCAAUCUUUCGGGUGAAGUUCUACGAACUUAAGUCCUCAGCAGCAGAUAGUCAAGAUGACACCAGCG
+((.(((.((((((.(((..((((((...))))))....))).)...<<........)))))))).)).>>. NUPACK
+>
+GGCGUCAAUUCUUCGGGUGAAGUUCGACGAACUUCAUUCCCCCUCAGCACAUAGGGACGAAACGUUUUGCG
+..<<<<........(((((((((((...))))))))..))).....(((.(..(.>>>>...)..).))). NUPACK
+>
+GGCGUCAACACUUCGGGUGAAGUUCUACGAACUUCCCUUCUCCAGAGCAGCGAGACCUGUUGCCUCUUGCG
+((((.((...(((.(((.(((((((...))))))).....))).)))..<<<<<<..)).))))>>>>>>. NUPACK
+>
+GGCGUCAUGAAUUCGGGUGAAGUUUCACGAACUUGAUUUCUCCCAAGCAUAUCGGCCUAUUGACCCUUGCG
+((.((((.(((.((((((...((...))..)))))).)))......<<<...........)))))).>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUCUGCGAACUUCAUUAAUCCAAAGCAACUAUACGUGAUGUCUCUCGCG
+(((((((.......(((((((((((...))))))))....)))...<<.........)))))))....>>. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUCUGCGAACUUUAGGUCUCCGAAGCGAAUAGGGAAUUUGACUCUUGCG
+...(((((...((((((((((((((...))))))))....))))))<<<<.........)))))..>>>>. NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUGGUACGAACUUAACAACCCCAAAGCAUGUAGAGGCAUUGAGUGUUGCG
+....((((((((..((((.....(((....))).....))))....<<<.....)))).))))....>>>. NUPACK
+>
+GGCGUCAACAAUUCGGGUGAAGUUCCACGAACUUUCAGCGUCCGAAGCGCAUAGACCUUAUGAGCCUUGCG
+(((.(((....((((((.(((((((...))))))).....)))))).<<<<.........)))))).>>>> NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUUGUACGAACUUCACUACCCAGAAGCACAUAUGCCUUAUGUGUCUUGCG
+<<<....((......(((((((((.....)))))))))..))..(((((((((.>>>.)))))).)))... NUPACK
+>
+GGCGUCAAUUAUUCGGGUGAAGUUGUUCGAACUUCCUUACUUAGAGGCAGGUACAUCUGACGGGACUUGCG
+..<<<<<....((.((((((((((.....))))))...)))).)).((((((.....>>>>>..)))))). NUPACK
+>
+GGCGUCAGUCGUUCGGGUGAAGUUCAUCGAACUUAACUACCCGGAGGCAGCUAAACAAGUCGCCACUGGCG
+((((.(.(((.((((((((((((((...))))))...))))))))))).<<<<.....).))))..>>>>. NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUUUCUCGAACUUCCGUCCCCGUCAGCAUCUAAAGACGAUGUCUCUUGCG
+((((((....(..((((.(((((((...)))))))....)))).).<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUGCGCGAACUUGAAACAUCCAAAGCACAUAGAGGCGUCGACACCAGCG
+((((((........((((((((((.....)))))....)))))...<<.......)))))).......>>. NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUACAGCGAACUUAAAUAUCCCUAGGCAGAGACACCGUGUGACUCCUGCG
+...((((.(((...(((..((((.......))))......)))...<<<<......))).))))..>>>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUUCAACGAACUUAAAACUCCAGGAGCACAUUGGCAAGACGACGCCUGCG
+((((((.((.((((.((..((((((...))))))......)).)))).))....<<.....)))))).>>. NUPACK
+>
+GGCGUCACUCGUUCGGGUGAAGUUGAACGAACUUCAUUAAUCCGAAGCAGAGAGGCCCGUUUUAAAUUGCG
+((.(((.(((.(((((((((((((.....)))))))....))))))<<<))).))))).........>>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUUAGCGAACUUAAUUCCUCCCCAGCACAUUGACACUAUGACUUUUGCG
+...((((((.....(((..((((((...))))))...)))......<<<.))))))...........>>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUACUACGAACUUAAUAUACCCUAAGCCGCUGGUAGUGAUGCCACCUGCG
+(((((((...(((.(((((((((.......))))....))))).))).<<<.<<<..)))))))>>>.>>> NUPACK
+>
+GGCGUCAACCCUUCGGGUGAAGUUCUACGAACUUAACAACCUGAAAGCGCAUGGAGGAGUUGACACCUGCG
+((.(((((((((((((((.((((((...))))))....))))))...<<<....))).)))))).)).>>> NUPACK
+>
+GGCGUCAGCACUUCGGGUGAAGUUCGACGAACUUUCCUUCCCCGCAGCAGAAUCAGCUGAUGACUCUUGCG
+..(((((((.....(((.(((((((...)))))))....))).<<<<.<<.....))))))).>>.>>>>. NUPACK
+>
+GGCGUCAACCCUUCGGGUGAAGUUUAACGAACUUCAUGAUUCCCCAGCAGAUAAACCCUAUGACUCCAGCG
+((.((((.......(((((((((((...))))))))......))).<<............)))).)).>>. NUPACK
+>
+GGCGUCAAUUCUUCGGGUGAAGUUCUACGAACUUAGAUCUCCGGAGGCAGCUAGUGACUUCGCGCACUGCG
+.((((.((.((((((((..((((((...)))))).....)))))).<<<<.....)).)).)))).>>>>. NUPACK
+>
+GGCGUCAGCUAUUCGGGUGAAGUUCAGCGAACUUAAUUCUUCGACAGCACGUUGUCCUGACGCCUCUUGCG
+((((((((....(((((..((((((...)))))).....)))))..<<<.......))))))))...>>>. NUPACK
+>
+GGCGUCACUAAUUCGGGUGAAGUUGUACGAACUUCAUGUUUGGGAUGCAGGUAAAGGUCGCGCCACUUGCG
+(((((.((.(.(((((((((((((.....))))))))..))))).)<<<<<<....)).)))))>>>>>>. NUPACK
+>
+GGCGUCAAUUUUUCGGGUGAAGUUCCGCGAACUUAAAGCCCCGGAAGCGGGUAGACAUAAUGACACAUGCG
+...<<<....(((((((..((((((...)))))).....)))))))(((.((.>>>........)).))). NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUAGUUCGAACUUCAGUACUCGAAAGCACAUUGAGGCGUUUUCUCCUGCG
+.((.(((((..((((((((((((.......)))))...))))))).<<<.))))).)).........>>>. NUPACK
+>
+GGCGUCAGGCAUUCGGGUGAAGUUUAGCGAACUUAAUUACCCAAGAGCAGAAGGGCCUGGCCCCUGUUGCG
+...(((((((....(((((((((((...)))))...))))))....<<<<.<<<))))))).>>>.>>>>. NUPACK
+>
+GGCGUCACCCCUUCGGGUGAAGUUUUACGAACUUCAUUACUCAGGAGCAGCUUGACGGCUUGACAGUGGCG
+..(((((..(((...((((((((((...))))))))))....))).<<.<<<))))).......>>>.>>. NUPACK
+>
+GGCGUCAGCACUUCGGGUGAAGUUUCUCGAACUUCAAUCUCUGGAGGCAAGCAAGGCCGGUGAUUCUUGCG
+<<<....((.(((((((((((((((...))))))))...)))))))))..(((((>>>.......))))). NUPACK
+>
+GGCGUCAGGACUUCGGGUGAAGUUGCACGAACUUCAAAAAUCCACAGCAAUUAGACAGCAUGCCUGCUGCG
+.(((((.(((.......(((((((.....)))))))....))).<<<<<....))).)).....>>>>>.. NUPACK
+>
+GGCGUCACUCAUUCGGGUGAAGUUUGACGAACUUGGAUACCGCGCAGCAGAUAGAGAGAAUGACUUUAGCG
+...((((.((.(((.((((((((((...))))))...)))).<<<........))).)).))))....>>> NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUACGACGAACUUAGGAAGCCGGAAGCACAUAGACCAGUUGACGCUUGCG
+.(((((((...(((((...((((.......))))......))))).<<<..........))))))).>>>. NUPACK
+>
+GGCGUCAGUUAUUCGGGUGAAGUUCUACGAACUUACAUCUUCAUAGGCAUUUAGACCUUACGACCAUAGCG
+(((((.((.(((..(((((((((((...)))))).)))))..))).<<........)).))).))...>>. NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCAGCGAACUUAACUCCUCACCAGCACGUUAACCUGGCCCGACUUGCG
+((.(((((.......(((((((((.((....)).))))..))))).<<<.<<....))))))).>>.>>>. NUPACK
+>
+GGCGUCAAGUGUUCGGGUGAAGUUUUACGAACUUAAGUCUUCCGAAGCACGCAGACGUAUCGACGCUUGCG
+.(((((..(((((((((..((((((...))))))......)))))).))).....<<<<..))))).>>>> NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUUCAACGAACUUAGCUUGUCGACAGCAUGCGCACGGGAUGCCACUUGCG
+((((((..(((..(((((.((((((...)))))).))))).))).......<<<<.<.)))))).>.>>>> NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUCCAUCGAACUUAAGAACUCCAGAGCAGCGAGAACAGAUGACUGCUGCG
+...(((.(((....(((..((((.......))))......)))...<<<<<.......)))))).>>>>>. NUPACK
+>
+GGCGUCAGUCCUUCGGGUGAAGUCUCACGAACUUGAGUCGUCCCCAGCAGAUUGACCCCUUUCCAACUGCG
+((.(((((((....(((.((...((((......))))...))))).<<<))))))).))........>>>. NUPACK
+>
+GGCGUCAGCCGUUCGGGUGAAGUUGUACGAACUUCCCUCCUCAGGAGCAGAGACGCACGUUGACUGCCGCG
+.(((((..((....(((.((((((.....))))))))).....)).<<<<.))))).......>>>>.... NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUGAACGAACUUAAAGAACCGGGAGCGGGAAGACGAGUUAUUACUAGCG
+..((((.......(((...(((((.....)))))......)))...<<.<<..))))........>>.>>. NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUUCACGAACUUCCGUGGCCCACGGCACGUGGACAUGUCUUCUACUGCG
+<<<<<.........(((((((((((...)))))))....))))...(((.(((((.>>>>>.)))))))). NUPACK
+>
+GGCGUCAGGAAUUCGGGUGAAGUGUAACGAACUUUAGUUGUCGACAGCAGGGAAGCCCAUUGACCCUAGCG
+<<<(((.(.((((.((((...((...))..)))).)))).).))).((((((..>>>......)))).)). NUPACK
+>
+GGCGUCAAUAAUUCGGGUGAAGUUGAACGAACUUCCAGAUCCGACAGCAGGUAGUAAAGAUGACCUUUGCG
+((((((......((((((((((((.....))))))...))))))..<<<.........)))).))..>>>. NUPACK
+>
+GGCGUCAACACUUCGGGUGAAGUUUUACGAACUUACAUAUUCCAAUGCAGCUUGAUGCGAUGACCUUUGCG
+.(((((((......(((..((((((...))))))......)))...<<<..))))))).........>>>. NUPACK
+>
+GGCGUCAGCUCUUCGGGUGAAGUUUUUCGAACUUAAAUUGUCCGAGGCACAUGGACGCGUCGACAUCUGCG
+.<<<<<......(((((..((((((...))))))......))))).(((.(((>>>>>.....))).))). NUPACK
+>
+GGCGUCAAGAGUUCGGGUGAAGUUCAACGAACUUACAACCUCCCCAGCAGCUAGAGACGUCGCGUGCAGCG
+((((((....(((.(((..((((((...)))))).......))).))).<<<...))))))......>>>. NUPACK
+>
+GGCGUCAGUUGUUCGGGUGAAGUUGCACGAACUUCCGACUUCCAGAGCAGAAAGGCCUGAUGACUCCAGCG
+((.((((..(((((..(.(((((((..........)))))))).))))).....<<....)))).)).>>. NUPACK
+>
+GGCGUCAAGAAUUCGGGUGAAGUCCAUCGAACUUCACAACCCACAAGCAACUAGACCAGAUGACACUUGCG
+...((((.......(((((((((.......)))))...))))....<<<<..........))))..>>>>. NUPACK
+>
+GGCGUCAGUUAUUCGGGUGAAGUCGAGCGAACUUAAGUAAUUGAAGGCGGAUUGACGAAUCGCCACCUGCG
+(((((((((((((.((((...((...))..)))).)))))))))..<<<<..........))))..>>>>. NUPACK
+>
+GGCGUCAAUUAUUCGGGUGAAGUUCAUCGAACUUAAUUCUUCCCGAGCAUAAAGACCGGACGACAUUUGCG
+.(((((......(((((..((((((...)))))).......)))))<<<.........)))).)...>>>. NUPACK
+>
+GGCGUCAAUUGUUCGGGUGAAGUUUAGCGAACUUUGCCACUCCAAGGCAAAGAGACGCAUCGACACUUGCG
+.(((((..(((....((((((((((...))))))))))....))).<<<<...)))))........>>>>. NUPACK
+>
+GGCGUCAGUAGUUCGGGUGAAGUUCCGCGAACUUCCCUCAUCCGAAGCACAUUGACCCGACGCCUCUUGCG
+((((((.....((((((((((((((...)))))....)))))))))<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAAUCGUUCGGGUGAAGUUGUGCGAACUUCAAACCUCAGCAGCAGGUUAACAUUAUGACACUUGCG
+...<<<<...(((.((((((((((.....))))))..)))).))).((((((........>>>>)))))). NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUCCUACGAACUUCACAAGUCCAAAGCACAUAAAGCCGAUGUCAUCUGCG
+((((((..(((((...(((((((.......))))))))))))....<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAAUUCUUCGGGUGAAGUUUUACGAACUUACAUUACGGGAAGCAGCUAAACGUGUCGCCCCUAGCG
+((((.((.(((((..((((((((((...)))))).))))..)))))...<<<<....)).))))..>>>>. NUPACK
+>
+GGCGUCACCACUUCGGGUGAAGUUUAGCGAACUUCAAGCCCAAGUAGCACCUAGGUACGGUAUGGUGUGCG
+..<<<.<<<((((.(((((((((((...)))))))..)))))))).(((((((>>>>>>...))).)))). NUPACK
+>
+GGCGUCAGGUAUUCGGGUGAAGUUUGGCGAACUUCCGCCCCGGAAGGCACAGAGACGUCUUGAGACCUGCG
+((((((.....((((((.(((((((...)))))))...))))))..<<<....))))))........>>>. NUPACK
+>
+GGCGUCAAGCGUUCGGGUGAAGUUUAACGAACUUACUACGCCCUGAGCGGGUAGGCCAGGCGCCAAAUGCG
+((((((...((((((((((((((((...))))))....))))).))))).<<<.....))))))...>>>. NUPACK
+>
+GGCGUCAUUCAUUCGGGUGAAGUUGUACGAACUUACCAAUUUUGAAGCGAGUAGACAUGAUGCCGAUUGCG
+(((((((((((....(((.(((((.....)))))))).....))).<<<<......))))))))..>>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUGGAACGAACUUCAUUUAUCACCAGCACAAAAACGUGUUGACCCUUGCG
+((.(((((.((....(((((((((((......))))))..))))).<<<........))))))))).>>>. NUPACK
+>
+GGCGUCAAGUAUUCGGGUGAAGUUUUACGAACUUCGGUAUUCCAAAGCAGAGUGACCUUGCGACCCCUGCG
+((((.((((.....(((((((((((...))))))))....)))...<<<<......)))))).)).>>>>. NUPACK
+>
+GGCGUCAGGACUUCGGGUGAAGUUCCGCGAACUUCAUUCCCCCGAAGCCCAAAGACGAGGCGCCCCUAGCG
+((((((.((.(((((((((((((((...))))))))....))))))).))..<<....)))))).>>.... NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUGCUCGAACUUAAUGACCAAAAAGCACCUACACCAGACGUCUCCUGCG
+((((((..(((((.((.(((......)))..)).))))).......<<<.........))))))...>>>. NUPACK
+>
+GGCGUCAGCCCUUCGGGUGAAGUACUGCGAACUUAACUACUGGCAAGCACAUAGACCCUAUGACCACUGCG
+((.(((.(((.....(((.((((.......)))).)))...)))..<<<....))))).........>>>. NUPACK
+>
+GGCGUCAAGCCUUCGGGUGAAGUUCAGCGAACUUAAGAAGGCCGAGGCAGAUAGAUCCAGCGCUUCUCGCG
+((.(((..((((((.....((((((...))))))..)))))).<<<<<.....)))))...>>>>>..... NUPACK
+>
+GGCGUCAAUAGUUCGGGUGAAGUAGAACGAACUUACUUUCUCAAGAGCGGCUAAACCUGUUAACACUAGCG
+...((.((((((((.((.(((((((.......))))))).))..)))).<<<<....)))).))..>>>>. NUPACK
+>
+GGCGUCAGUCGUUCGGGUGAAGUUGCGCGAACUUCCGAAGUCCCCAGCAGAUAGAAGCGACGACUACUGCG
+...(((.((((((.(((.((((((.....)))))).......))).<<<<.....)))))))))..>>>>. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUCAACGAACUUAUGUUACCCACAGCGGAUUGACCCUUCGACACCUGCG
+((.(((((......(((((((((((...)))))....))))))...<<<<.)))))))........>>>>. NUPACK
+>
+GGCGUCAAGCAUUCGGGUGAAGUUGAACGAACUUAACUUUUCCGAAGCAGCUAGAGGUGAUGAGACUUGCG
+..(((((.((.(((((..((((((((......)))))))).))))))).<<.<<...)))))...>>.>>. NUPACK
+>
+GGCGUCAAGACUUCGGGUGAAGUUGCUCGAACUUAAAUUCUCCGAAGCAGAAGAAAGCGGCGACCCCUGCG
+((((((.....((((((..(((((.....)))))......))))))<<<<........)))).)).>>>>. NUPACK
+>
+GGCGUCAAUCAUUCGGGUGAAGUUUAACGAACUUCCAACAUCGGAAGCGCUUAGACCAGUCAACUCUAGCG
+<<<........(((((..(((((((...))))))).....)))))..(((.((((...>>>...))))))) NUPACK
+>
+GGCGUCAGUACUUCGGGUGAAGUUCCUCGAACUUCCAUAUUGAUCAGCACACAGACAUGUUGACUCUAGCG
+...<<<.<<...((((..(((((((...)))))))....))))((((((.>>.>>>.))))))........ NUPACK
+>
+GGCGUCAAGUAUUCGGGUGAAGUUCAUCGAACUUCAUUUCUCCCAAGCGGCUUCGUAUGGCCUCUGCUGCG
+<<<...........(((((((((((...)))))))).....)))..(((((........>>>...))))). NUPACK
+>
+GGCGUCAGGCGUUCGGGUGAAGUUCAGCGAACUUAAUUAGCCAGCAGCGCUUAGGCCUGAUGACUGCUGCG
+..((((((((.....(((.((((((...)))))).....))).<<<<<......))))))))...>>>>>. NUPACK
+>
+GGCGUCAGGUAUUCGGGUGAAGUACUUCGAACUUCACUAAUCGGAAGCAGAAAAACCCGGGGUCAUCUGCG
+(((.((.(((.((((((((((((.......))))))))...)))).<<<<<...))).)).))).>>>>>. NUPACK
+>
+GGCGUCAAUCCUUCGGGUGAAGUUCUACGAACUUGGAUACCCGAGAGCAGCAAGACUGGUCGCCUCCCGCG
+(((((((.((..(((((((((((((...))))))...)))))))..<<.....)).))).))))....>>. NUPACK
+>
+GGCGUCAGCAAUUCGGGUGAAGUUCUGCGAACUUCAUAAGUUAUAAGCGCAAAGACGGAUCGACACUAGCG
+..((((....((.(..(((((((((...)))))))))..)..))...<<<...))))...........>>> NUPACK

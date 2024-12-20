@@ -1,0 +1,38 @@
+% NUPACK 3.2.2
+% Program: mfe
+% Start time: Sun Nov 17 05:26:23 2024
+% Command: mfe -pseudo -material rna 1K2G_A_1F5U_AB 2 
+% Sequence:  CAGACUUCGGUCGCAGAGAUGGGGUGGGAGACGUCCCACCGGUGGGAGACGUCCCACC
+% v(pi): 1
+% Parameters: RNA, 1995
+% Dangles setting: 1
+% Temperature (C): 37.0
+% Sodium concentration: 1.0000 M
+% Magnesium concentration: 0.0000 M
+% Pseudoknots: enabled.
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+58
+-28.500
+..(((....))).((....)).(((((((....)))))))(((((((....)))))))
+3	12
+4	11
+5	10
+14	21
+15	20
+23	40
+24	39
+25	38
+26	37
+27	36
+28	35
+29	34
+41	58
+42	57
+43	56
+44	55
+45	54
+46	53
+47	52
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+

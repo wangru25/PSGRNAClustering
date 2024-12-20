@@ -1,0 +1,133 @@
+Inquiry sequence:
+GGCGUCANNNNUUCGGGUGAAGUNNNNCGAACUUNNNNNNNNNNNNGCNNNNNNNNNNNNNNNNNNNNGCG
+Target vertex order:
+12332414
+Template sequence:
+GGCGUCACACCUUCGGGUGAAGUCGCCCGAACUUCGCGCGAACUUCGCGCGAACUUCGCGCGAACUUCGCG
+>
+GGCGUCACGGCUUCGGGUGAAGUAUGUCGAACUUUCACGUUGUUAGGCCACACAGCUGGGCGUCCAUAGCG 16/16
+((((((..((((((((((((((..........)))))).)))..))))).....<<<.))))))...>>>.
+
+>
+GGCGUCAGUGGUUCGGGUGAAGUUUUUCGAACUUGAAAUUCGGCGAGCGGCCGACGCUUGUCUGUCUUGCG 16/16
+<<<.(((..((((((((........))))))))))).....((((((((>>>..)))))))).........
+
+>
+GGCGUCACAGGUUCGGGUGAAGUACGACGAACUUGACCAUUGGACGGCCUUUACACAUUACAUCCGAUGCG 16/16
+<<<....((((((((..((.....)).))))))))..(((((((..>>>.............)))))))..
+
+>
+GGCGUCAAGCAUUCGGGUGAAGUACCACGAACUUAUCGUGUCGACAGCAGAUCAUCCGCAUGCAAACUGCG 16/16
+........((((.(((((((.((..(((((.....)))))...)).<<<<.))))))).))))...>>>>.
+
+>
+GGCGUCAAGCCUUCGGGUGAAGUCUACCGAACUUGAUUAUUCCUAAGCUCUUCUCGCCUUCUAUUUAAGCG 16/16
+(((((((((..(((((..........))))))))))..........<<<.....)))).........>>>.
+
+>
+GGCGUCAGUCAUUCGGGUGAAGUAACCCGAACUUGACCUAUCAAUGGCCGCGUUGUAGAGCCCGGGUGGCG 16/16
+(((.((.(((((((((((......)))))))..)))).........<<<<<......)))))...>>>>>.
+
+>
+GGCGUCACCCCUUCGGGUGAAGUUCCACGAACUUCAGAGUCGGGAAGCUUAGCAAGACGCCGUGGCAGGCG 16/16
+((((((..(((..(...((((((((...))))))))..)..)))..<<<<.<<..))))))...>>>>>>.
+Inquiry sequence:
+GGCGUCANNNNUUCGGGUGAAGUNNNNCGAACUUNNNNNNNNNNNNGCNNNNNNNNNNNNNNNNNNNNGCG
+Target vertex order:
+12332414
+Template sequence:
+GGCGUCACACCUUCGGGUGAAGUCGCCCGAACUUCGCGCGAACUUCGCGCGAACUUCGCGCGAACUUCGCG
+>
+GGCGUCACGGCUUCGGGUGAAGUAUGUCGAACUUUCACGUUGUUAGGCCACACAGCUGGGCGUCCAUAGCG 16/16
+((((((..((((((((((((((..........)))))).)))..))))).....<<<.))))))...>>>.
+
+>
+GGCGUCAGUGGUUCGGGUGAAGUUUUUCGAACUUGAAAUUCGGCGAGCGGCCGACGCUUGUCUGUCUUGCG 16/16
+<<<.(((..((((((((........))))))))))).....((((((((>>>..)))))))).........
+
+>
+GGCGUCACAGGUUCGGGUGAAGUACGACGAACUUGACCAUUGGACGGCCUUUACACAUUACAUCCGAUGCG 16/16
+<<<....((((((((..((.....)).))))))))..(((((((..>>>.............)))))))..
+
+>
+GGCGUCAAGCAUUCGGGUGAAGUACCACGAACUUAUCGUGUCGACAGCAGAUCAUCCGCAUGCAAACUGCG 16/16
+........((((.(((((((.((..(((((.....)))))...)).<<<<.))))))).))))...>>>>.
+
+>
+GGCGUCAAGCCUUCGGGUGAAGUCUACCGAACUUGAUUAUUCCUAAGCUCUUCUCGCCUUCUAUUUAAGCG 16/16
+(((((((((..(((((..........))))))))))..........<<<.....)))).........>>>.
+
+>
+GGCGUCAGUCAUUCGGGUGAAGUAACCCGAACUUGACCUAUCAAUGGCCGCGUUGUAGAGCCCGGGUGGCG 16/16
+(((.((.(((((((((((......)))))))..)))).........<<<<<......)))))...>>>>>.
+
+>
+GGCGUCACCCCUUCGGGUGAAGUUCCACGAACUUCAGAGUCGGGAAGCUUAGCAAGACGCCGUGGCAGGCG 16/16
+((((((..(((..(...((((((((...))))))))..)..)))..<<<<.<<..))))))...>>>>>>.
+Inquiry sequence:
+GGCGUCANNNNUUCGGGUGAAGUNNNNCGAACUUNNNNNNNNNNNNGCNNNNNNNNNNNNNNNNNNNNGCG
+Target vertex order:
+12332414
+Template sequence:
+GGCGUCACACCUUCGGGUGAAGUCGCCCGAACUUCGCGCGAACUUCGCGCGAACUUCGCGCGAACUUCGCG
+>
+GGCGUCACGGCUUCGGGUGAAGUAUGUCGAACUUUCACGUUGUUAGGCCACACAGCUGGGCGUCCAUAGCG 16/16
+((((((..((((((((((((((..........)))))).)))..))))).....<<<.))))))...>>>.
+
+>
+GGCGUCAGUGGUUCGGGUGAAGUUUUUCGAACUUGAAAUUCGGCGAGCGGCCGACGCUUGUCUGUCUUGCG 16/16
+<<<.(((..((((((((........))))))))))).....((((((((>>>..)))))))).........
+
+>
+GGCGUCACAGGUUCGGGUGAAGUACGACGAACUUGACCAUUGGACGGCCUUUACACAUUACAUCCGAUGCG 16/16
+<<<....((((((((..((.....)).))))))))..(((((((..>>>.............)))))))..
+
+>
+GGCGUCAAGCAUUCGGGUGAAGUACCACGAACUUAUCGUGUCGACAGCAGAUCAUCCGCAUGCAAACUGCG 16/16
+........((((.(((((((.((..(((((.....)))))...)).<<<<.))))))).))))...>>>>.
+
+>
+GGCGUCAAGCCUUCGGGUGAAGUCUACCGAACUUGAUUAUUCCUAAGCUCUUCUCGCCUUCUAUUUAAGCG 16/16
+(((((((((..(((((..........))))))))))..........<<<.....)))).........>>>.
+
+>
+GGCGUCAGUCAUUCGGGUGAAGUAACCCGAACUUGACCUAUCAAUGGCCGCGUUGUAGAGCCCGGGUGGCG 16/16
+(((.((.(((((((((((......)))))))..)))).........<<<<<......)))))...>>>>>.
+
+>
+GGCGUCACCCCUUCGGGUGAAGUUCCACGAACUUCAGAGUCGGGAAGCUUAGCAAGACGCCGUGGCAGGCG 16/16
+((((((..(((..(...((((((((...))))))))..)..)))..<<<<.<<..))))))...>>>>>>.
+"4_17_3heaven.txt" [noeol] 2092L, 79961B                                                                                          1,1           Top
+GGCGUCAGGCAUUCGGGUGAAGUUUAGCGAACUUAAUUACCCAAGAGCAGAAGGGCCUGGCCCCUGUUGCG 16/16
+...(((((((....(((((((((((...)))))...))))))....<<<<.<<<))))))).>>>.>>>>.
+
+>
+GGCGUCAGGACUUCGGGUGAAGUUGCACGAACUUCAAAAAUCCACAGCAAUUAGACAGCAUGCCUGCUGCG 16/16
+.(((((.(((.......(((((((.....)))))))....))).<<<<<....))).)).....>>>>>..
+
+>
+GGCGUCAAGUGUUCGGGUGAAGUUUUACGAACUUAAGUCUUCCGAAGCACGCAGACGUAUCGACGCUUGCG 16/16
+.(((((..(((((((((..((((((...))))))......)))))).))).....<<<<..))))).>>>>
+
+>
+GGCGUCAGCCGUUCGGGUGAAGUUGUACGAACUUCCCUCCUCAGGAGCAGAGACGCACGUUGACUGCCGCG 16/16
+.(((((..((....(((.((((((.....))))))))).....)).<<<<.))))).......>>>>....
+
+>
+GGCGUCAAUAAUUCGGGUGAAGUUGAACGAACUUCCAGAUCCGACAGCAGGUAGUAAAGAUGACCUUUGCG 16/16
+((((((......((((((((((((.....))))))...))))))..<<<.........)))).))..>>>.
+
+>
+GGCGUCAAGAGUUCGGGUGAAGUUCAACGAACUUACAACCUCCCCAGCAGCUAGAGACGUCGCGUGCAGCG 16/16
+((((((....(((.(((..((((((...)))))).......))).))).<<<...))))))......>>>.
+
+>
+GGCGUCAAUUAUUCGGGUGAAGUUCAUCGAACUUAAUUCUUCCCGAGCAUAAAGACCGGACGACAUUUGCG 16/16
+.(((((......(((((..((((((...)))))).......)))))<<<.........)))).)...>>>.
+
+>
+GGCGUCAAGACUUCGGGUGAAGUCCUACGAACUUCACAAGUCCAAAGCACAUAAAGCCGAUGUCAUCUGCG 16/16
+((((((..(((((...(((((((.......))))))))))))....<<<.........))))))...>>>.
+
+
+Number of chromosomes in heaven: 521

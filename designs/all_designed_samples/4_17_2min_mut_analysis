@@ -1,0 +1,115 @@
+Optimizing Sequence 1
+[ 8-G 10-U 11-G 26-U 27-G 43-A 44-G 49-C 50-A 53-C 54-U 55-A 56-G 57-A 59-A 69-C 71-A ] before
+remove 0 point mutations
+[ 8-G 10-U 11-G 26-U 27-G 43-A 44-G 49-C 50-A 53-C 54-U 55-A 56-G 57-A 59-A 69-C 71-A ] after
+
+Optimizing Sequence 2
+[ 8-G 9-G 10-A 11-G 24-G 27-G 40-C 44-C 49-C 51-A 53-G 54-G 55-G 56-C 58-U 67-C 69-C ] before
+remove 4 point mutations
+[ 9-G 10-A 11-G 27-G 44-C 49-C 51-A 53-G 54-G 55-G 56-C 58-U 67-C ] after
+
+Optimizing Sequence 3
+[ 9-C 10-A 11-G 24-G 27-G 40-U 41-G 43-A 49-A 53-G 54-G 57-G 58-C 59-G 67-A 69-C 70-U 71-C ] before
+remove 0 point mutations
+[ 9-C 10-A 11-G 24-G 27-G 40-U 41-G 43-A 49-A 53-G 54-G 57-G 58-C 59-G 67-A 69-C 70-U 71-C ] after
+
+Optimizing Sequence 4
+[ 8-U 10-G 11-G 24-A 26-U 27-G 40-U 42-C 44-C 45-C 49-A 53-C 54-G 56-C 58-C 67-A 70-U 71-C ] before
+remove 5 point mutations
+[ 8-U 10-G 11-G 27-G 42-C 44-C 45-C 49-A 53-C 54-G 58-C 67-A 70-U ] after
+
+Optimizing Sequence 5
+[ 8-U 9-C 10-A 11-G 24-G 27-G 40-A 49-A 50-A 51-A 55-A 56-C 58-C 66-G 67-A 68-U 69-A 71-A ] before
+remove 9 point mutations
+[ 10-A 11-G 27-G 40-A 51-A 55-A 58-C 69-A 49-A ] after
+
+Optimizing Sequence 6
+[ 8-A 10-A 11-G 27-G 40-U 49-C 50-A 51-C 53-G 54-G 55-C 56-G 58-C 66-G 67-G 69-C 70-U 71-C ] before
+remove 10 point mutations
+[ 11-G 27-G 40-U 50-A 53-G 55-C 58-C 70-U ] after
+
+Optimizing Sequence 7
+[ 8-U 11-G 24-G 27-G 40-A 45-G 49-C 51-C 54-A 55-G 56-G 57-A 58-C 59-A 66-G 67-A 68-A 71-A ] before
+
+Optimizing Sequence 1
+[ 8-G 10-U 11-G 26-U 27-G 43-A 44-G 49-C 50-A 53-C 54-U 55-A 56-G 57-A 59-A 69-C 71-A ] before
+remove 0 point mutations
+[ 8-G 10-U 11-G 26-U 27-G 43-A 44-G 49-C 50-A 53-C 54-U 55-A 56-G 57-A 59-A 69-C 71-A ] after
+
+Optimizing Sequence 2
+[ 8-G 9-G 10-A 11-G 24-G 27-G 40-C 44-C 49-C 51-A 53-G 54-G 55-G 56-C 58-U 67-C 69-C ] before
+remove 4 point mutations
+[ 9-G 10-A 11-G 27-G 44-C 49-C 51-A 53-G 54-G 55-G 56-C 58-U 67-C ] after
+
+Optimizing Sequence 3
+[ 9-C 10-A 11-G 24-G 27-G 40-U 41-G 43-A 49-A 53-G 54-G 57-G 58-C 59-G 67-A 69-C 70-U 71-C ] before
+remove 0 point mutations
+[ 9-C 10-A 11-G 24-G 27-G 40-U 41-G 43-A 49-A 53-G 54-G 57-G 58-C 59-G 67-A 69-C 70-U 71-C ] after
+
+Optimizing Sequence 4
+[ 8-U 10-G 11-G 24-A 26-U 27-G 40-U 42-C 44-C 45-C 49-A 53-C 54-G 56-C 58-C 67-A 70-U 71-C ] before
+remove 5 point mutations
+[ 8-U 10-G 11-G 27-G 42-C 44-C 45-C 49-A 53-C 54-G 58-C 67-A 70-U ] after
+
+Optimizing Sequence 5
+[ 8-U 9-C 10-A 11-G 24-G 27-G 40-A 49-A 50-A 51-A 55-A 56-C 58-C 66-G 67-A 68-U 69-A 71-A ] before
+remove 9 point mutations
+[ 10-A 11-G 27-G 40-A 51-A 55-A 58-C 69-A 49-A ] after
+
+Optimizing Sequence 6
+[ 8-A 10-A 11-G 27-G 40-U 49-C 50-A 51-C 53-G 54-G 55-C 56-G 58-C 66-G 67-G 69-C 70-U 71-C ] before
+remove 10 point mutations
+[ 11-G 27-G 40-U 50-A 53-G 55-C 58-C 70-U ] after
+
+Optimizing Sequence 7
+[ 8-U 11-G 24-G 27-G 40-A 45-G 49-C 51-C 54-A 55-G 56-G 57-A 58-C 59-A 66-G 67-A 68-A 71-A ] before
+
+Optimizing Sequence 1
+[ 8-G 10-U 11-G 26-U 27-G 43-A 44-G 49-C 50-A 53-C 54-U 55-A 56-G 57-A 59-A 69-C 71-A ] before
+remove 0 point mutations
+[ 8-G 10-U 11-G 26-U 27-G 43-A 44-G 49-C 50-A 53-C 54-U 55-A 56-G 57-A 59-A 69-C 71-A ] after
+
+Optimizing Sequence 2
+[ 8-G 9-G 10-A 11-G 24-G 27-G 40-C 44-C 49-C 51-A 53-G 54-G 55-G 56-C 58-U 67-C 69-C ] before
+remove 4 point mutations
+[ 9-G 10-A 11-G 27-G 44-C 49-C 51-A 53-G 54-G 55-G 56-C 58-U 67-C ] after
+
+Optimizing Sequence 3
+[ 9-C 10-A 11-G 24-G 27-G 40-U 41-G 43-A 49-A 53-G 54-G 57-G 58-C 59-G 67-A 69-C 70-U 71-C ] before
+remove 0 point mutations
+[ 9-C 10-A 11-G 24-G 27-G 40-U 41-G 43-A 49-A 53-G 54-G 57-G 58-C 59-G 67-A 69-C 70-U 71-C ] after
+
+Optimizing Sequence 4
+[ 8-U 10-G 11-G 24-A 26-U 27-G 40-U 42-C 44-C 45-C 49-A 53-C 54-G 56-C 58-C 67-A 70-U 71-C ] before
+remove 5 point mutations
+[ 8-U 10-G 11-G 27-G 42-C 44-C 45-C 49-A 53-C 54-G 58-C 67-A 70-U ] after
+
+Optimizing Sequence 5
+[ 8-U 9-C 10-A 11-G 24-G 27-G 40-A 49-A 50-A 51-A 55-A 56-C 58-C 66-G 67-A 68-U 69-A 71-A ] before
+remove 9 point mutations
+[ 10-A 11-G 27-G 40-A 51-A 55-A 58-C 69-A 49-A ] after
+
+Optimizing Sequence 6
+[ 8-A 10-A 11-G 27-G 40-U 49-C 50-A 51-C 53-G 54-G 55-C 56-G 58-C 66-G 67-G 69-C 70-U 71-C ] before
+remove 10 point mutations
+[ 11-G 27-G 40-U 50-A 53-G 55-C 58-C 70-U ] after
+
+Optimizing Sequence 7
+[ 8-U 11-G 24-G 27-G 40-A 45-G 49-C 51-C 54-A 55-G 56-G 57-A 58-C 59-A 66-G 67-A 68-A 71-A ] before
+['10-G', '11-G', '24-G', '25-C', '26-U', '27-G', '40-A', '41-G', '42-U', '43-U', '44-A', '45-G', '49-C', '50-G', '51-C', '53-C', '54-G', '55-C', '56-C', '58-U', '59-A', '66-A', '67-C', '68-G', '69-A', '71-C', '9-C'] b
+['10-A', '11-G', '24-G', '26-U', '27-G', '40-U', '42-U', '43-G', '44-C', '45-A', '46-A', '49-C', '50-A', '51-C', '53-G', '54-G', '55-G', '56-G', '57-A', '58-U', '59-A', '66-A', '67-C', '70-U', '71-A', '8-A', '9-G'] b
+['10-A', '11-A', '24-G', '27-G', '40-U', '42-U', '43-U', '44-A', '45-A', '49-A', '50-G', '51-U', '52-U', '53-G', '54-A', '55-C', '56-C', '57-G', '58-U', '59-A', '66-G', '68-A', '69-U', '70-U', '71-A', '8-A', '9-G'] b
+['10-A', '11-G', '24-G', '27-G', '40-C', '41-G', '43-U', '44-C', '45-G', '49-A', '50-A', '51-A', '53-G', '54-G', '55-A', '56-G', '57-A', '58-C', '59-G', '66-A', '67-C', '68-A', '69-U', '70-U', '71-C', '8-A', '9-G'] b
+['10-A', '11-G', '24-A', '26-U', '27-G', '40-U', '42-U', '43-G', '44-A', '46-A', '49-A', '50-G', '51-U', '52-G', '53-G', '54-G', '55-C', '56-C', '58-C', '59-G', '66-A', '67-A', '68-U', '69-U', '70-U', '71-C', '8-A', '9-G'] b
+['10-G', '11-G', '24-G', '26-U', '27-G', '40-U', '41-G', '43-A', '44-C', '45-A', '46-A', '49-A', '52-G', '53-G', '54-G', '55-C', '56-C', '57-G', '58-C', '59-G', '66-A', '67-C', '68-U', '69-U', '70-U', '71-A', '8-A', '9-G'] b
+['11-G', '24-A', '26-U', '27-G', '40-U', '41-G', '42-U', '43-U', '44-A', '45-C', '49-A', '50-A', '51-U', '52-U', '54-U', '55-A', '56-G', '57-A', '58-U', '59-G', '66-A', '67-G', '68-U', '69-U', '70-U', '71-C', '8-A', '9-U'] b
+['10-A', '11-G', '24-G', '26-U', '27-G', '40-U', '41-C', '42-C', '44-C', '46-A', '49-C', '50-A', '51-C', '52-U', '53-G', '54-G', '55-C', '56-C', '58-U', '59-G', '66-A', '67-A', '68-A', '69-C', '70-U', '71-C', '8-A', '9-C'] b
+['11-G', '24-G', '26-U', '27-G', '40-U', '41-G', '42-U', '43-A', '45-G', '46-A', '49-C', '50-A', '51-C', '52-C', '53-G', '54-A', '55-A', '56-G', '58-C', '59-G', '66-A', '67-C', '68-A', '69-U', '70-U', '71-A', '8-A', '9-C'] b
+['10-A', '11-G', '24-G', '26-U', '27-G', '40-U', '41-G', '42-U', '43-G', '44-A', '46-U', '49-C', '50-A', '51-U', '52-U', '53-G', '54-G', '55-A', '56-C', '57-G', '58-U', '66-A', '67-A', '68-U', '70-U', '71-A', '8-A', '9-G'] b
+['10-G', '11-G', '24-A', '27-G', '40-U', '42-C', '44-A', '45-C', '49-A', '51-U', '54-G', '57-A', '68-U', '8-A'] b
+['10-A', '11-G', '24-A', '26-U', '27-G', '40-U', '41-G', '43-G', '44-G', '45-G', '46-A', '49-A', '50-G', '51-A', '52-G', '53-G', '54-A', '56-C', '57-G', '58-C', '66-C', '67-A', '68-A', '69-C', '70-U', '71-A', '8-U', '9-G'] b
+['10-G', '11-G', '24-A', '26-U', '27-G', '40-U', '41-G', '42-C', '44-G', '45-C', '49-A', '50-G', '51-U', '52-U', '53-G', '54-A', '55-C', '56-G', '57-G', '58-C', '66-G', '67-C', '68-A', '69-U', '70-U', '71-A', '8-A', '9-G'] b
+['10-A', '11-G', '24-G', '26-U', '27-G', '40-A', '42-G', '43-A', '45-G', '46-A', '49-C', '51-A', '52-U', '53-U', '54-G', '55-A', '56-C', '57-A', '58-U', '59-U', '66-A', '67-C', '68-U', '69-U', '70-U', '71-U', '8-G', '9-C'] b
+['11-G', '27-G', '42-C', '43-G', '44-A', '50-G', '54-A', '56-G', '58-U', '59-G', '68-G', '70-U'] b
+['24-G', '26-U', '27-G', '40-A', '41-C', '42-U', '43-A', '44-C', '45-G', '49-A', '50-A', '51-C', '52-U', '53-G', '54-U', '55-A', '56-G', '57-A', '58-U', '59-G', '66-A', '67-A', '69-A', '8-G', '9-G'] b
+['10-A', '11-G', '24-A', '27-G', '40-U', '41-U', '42-U', '43-G', '44-A', '45-G', '46-A', '49-C', '50-U', '51-C', '53-G', '54-G', '55-C', '56-G', '57-G', '58-U', '59-A', '66-A', '67-A', '68-U', '69-U', '70-U', '71-C', '8-U', '9-U'] b

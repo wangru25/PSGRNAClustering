@@ -1,0 +1,2163 @@
+
+Optimizing Sequence 1
+[ 23-A 25-C 41-U 42-C 53-A 57-U 58-A ] before
+remove 0 point mutations
+[ 23-A 25-C 41-U 42-C 53-A 57-U 58-A ] after
+
+Optimizing Sequence 2
+[ 22-A 23-A 24-U 26-A 41-U 42-C 53-G ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 26-A 41-U 42-C 53-G ] after
+
+Optimizing Sequence 3
+[ 23-U 25-C 26-U 27-C 41-U 42-C 53-G ] before
+remove 0 point mutations
+[ 23-U 25-C 26-U 27-C 41-U 42-C 53-G ] after
+
+Optimizing Sequence 4
+[ 22-A 24-U 25-G 39-G 41-U 42-C 53-A ] before
+remove 0 point mutations
+[ 22-A 24-U 25-G 39-G 41-U 42-C 53-A ] after
+
+Optimizing Sequence 5
+[ 22-A 25-A 39-G 41-U 42-C 53-A 56-C ] before
+remove 0 point mutations
+[ 22-A 25-A 39-G 41-U 42-C 53-A 56-C ] after
+
+Optimizing Sequence 6
+[ 22-A 23-U 24-C 26-A 41-U 42-C 53-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-U 24-C 26-A 41-U 42-C 53-G 56-C ] after
+
+Optimizing Sequence 7
+[ 22-A 23-A 25-C 41-U 42-C 53-U 55-A 56-C ] before
+remove 0 point mutations
+[ 22-A 23-A 25-C 41-U 42-C 53-U 55-A 56-C ] after
+
+Optimizing Sequence 8
+[ 22-A 27-C 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 27-C 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 9
+[ 23-A 24-U 26-A 41-U 42-C 53-G 54-G 56-C ] before
+remove 0 point mutations
+[ 23-A 24-U 26-A 41-U 42-C 53-G 54-G 56-C ] after
+
+Optimizing Sequence 10
+[ 22-U 25-A 39-A 41-U 42-C 53-G 54-G 56-C ] before
+remove 0 point mutations
+[ 22-U 25-A 39-A 41-U 42-C 53-G 54-G 56-C ] after
+
+Optimizing Sequence 11
+[ 23-A 41-U 42-C 52-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 23-A 41-U 42-C 52-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 12
+[ 22-U 23-U 24-U 41-U 42-C 53-A 55-G 56-C ] before
+remove 0 point mutations
+[ 22-U 23-U 24-U 41-U 42-C 53-A 55-G 56-C ] after
+
+Optimizing Sequence 13
+[ 23-U 26-A 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 26-A 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 14
+[ 23-C 27-C 39-U 41-U 42-C 53-U 54-G 56-C ] before
+remove 0 point mutations
+[ 23-C 27-C 39-U 41-U 42-C 53-U 54-G 56-C ] after
+
+Optimizing Sequence 15
+[ 26-A 39-A 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 26-A 39-A 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 16
+[ 22-A 23-U 26-U 41-U 42-C 53-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 26-U 41-U 42-C 53-A 56-C 58-G ] after
+
+Optimizing Sequence 17
+[ 22-A 24-U 26-A 41-U 42-C 53-A 54-G 56-C ] before
+remove 0 point mutations
+[ 22-A 24-U 26-A 41-U 42-C 53-A 54-G 56-C ] after
+
+Optimizing Sequence 18
+[ 22-U 23-U 41-U 42-C 53-U 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-U 23-U 41-U 42-C 53-U 54-G 55-G 56-C ] after
+
+Optimizing Sequence 19
+[ 23-U 26-A 27-C 41-U 42-C 53-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 26-A 27-C 41-U 42-C 53-G 56-C 58-G ] after
+
+Optimizing Sequence 20
+[ 26-U 41-C 42-C 53-A 54-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 26-U 41-C 42-C 53-A 54-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 21
+[ 22-U 23-A 25-C 41-U 42-C 53-U 54-A 56-G ] before
+remove 0 point mutations
+[ 22-U 23-A 25-C 41-U 42-C 53-U 54-A 56-G ] after
+
+Optimizing Sequence 22
+[ 22-A 25-C 26-U 41-U 42-C 53-A 54-G 56-C ] before
+remove 0 point mutations
+[ 22-A 25-C 26-U 41-U 42-C 53-A 54-G 56-C ] after
+
+Optimizing Sequence 23
+[ 22-U 23-U 41-U 42-C 53-A 54-U 55-G 56-C ] before
+remove 0 point mutations
+[ 22-U 23-U 41-U 42-C 53-A 54-U 55-G 56-C ] after
+
+Optimizing Sequence 24
+[ 22-A 23-C 25-C 41-U 42-C 53-A 54-G 56-U ] before
+remove 0 point mutations
+[ 22-A 23-C 25-C 41-U 42-C 53-A 54-G 56-U ] after
+
+Optimizing Sequence 25
+[ 23-A 24-C 41-U 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 24-C 41-U 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 26
+[ 22-U 25-A 39-G 41-U 42-C 53-G 54-G 56-C ] before
+remove 0 point mutations
+[ 22-U 25-A 39-G 41-U 42-C 53-G 54-G 56-C ] after
+
+Optimizing Sequence 27
+[ 23-U 26-U 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 23-U 26-U 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 28
+[ 22-A 23-U 25-G 41-U 42-C 53-A 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-U 25-G 41-U 42-C 53-A 56-C 58-U ] after
+
+Optimizing Sequence 29
+[ 22-A 24-A 27-C 41-U 42-C 53-A 55-G 58-G ] before
+remove 0 point mutations
+[ 22-A 24-A 27-C 41-U 42-C 53-A 55-G 58-G ] after
+
+Optimizing Sequence 30
+[ 24-A 26-A 41-U 42-C 53-A 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 24-A 26-A 41-U 42-C 53-A 55-G 56-C 58-G ] after
+
+Optimizing Sequence 31
+[ 23-A 25-C 26-A 41-U 42-C 53-G 54-G 58-G ] before
+remove 0 point mutations
+[ 23-A 25-C 26-A 41-U 42-C 53-G 54-G 58-G ] after
+
+Optimizing Sequence 32
+[ 25-C 26-U 27-U 41-U 42-C 53-U 54-G 56-C ] before
+remove 0 point mutations
+[ 25-C 26-U 27-U 41-U 42-C 53-U 54-G 56-C ] after
+
+Optimizing Sequence 33
+[ 22-U 23-A 25-C 39-A 41-U 42-C 53-A 58-U ] before
+remove 0 point mutations
+[ 22-U 23-A 25-C 39-A 41-U 42-C 53-A 58-U ] after
+
+Optimizing Sequence 34
+[ 23-C 24-U 26-U 27-C 41-U 42-C 53-A 54-G 56-C ] before
+remove 0 point mutations
+[ 23-C 24-U 26-U 27-C 41-U 42-C 53-A 54-G 56-C ] after
+
+Optimizing Sequence 35
+[ 22-A 23-C 26-A 41-U 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-C 26-A 41-U 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 36
+[ 23-C 26-A 27-U 41-U 42-C 53-A 55-A 56-G 58-A ] before
+remove 0 point mutations
+[ 23-C 26-A 27-U 41-U 42-C 53-A 55-A 56-G 58-A ] after
+
+Optimizing Sequence 37
+[ 25-C 27-C 41-C 42-C 53-A 54-G 55-U 56-G 57-A ] before
+remove 0 point mutations
+[ 25-C 27-C 41-C 42-C 53-A 54-G 55-U 56-G 57-A ] after
+
+Optimizing Sequence 38
+[ 23-A 24-C 25-C 41-U 42-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 23-A 24-C 25-C 41-U 42-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 39
+[ 22-A 23-U 25-C 26-U 41-U 42-C 53-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 25-C 26-U 41-U 42-C 53-A 56-C 58-A ] after
+
+Optimizing Sequence 40
+[ 23-A 26-A 41-U 42-C 53-G 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 26-A 41-U 42-C 53-G 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 41
+[ 23-U 26-U 39-U 41-A 42-C 53-U 54-G 55-U 58-A ] before
+remove 0 point mutations
+[ 23-U 26-U 39-U 41-A 42-C 53-U 54-G 55-U 58-A ] after
+
+Optimizing Sequence 42
+[ 23-C 25-C 26-A 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 25-C 26-A 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 43
+[ 22-U 26-A 27-C 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-U 26-A 27-C 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 44
+[ 23-U 26-A 41-U 42-C 53-G 54-G 55-A 56-C 58-U ] before
+remove 0 point mutations
+[ 23-U 26-A 41-U 42-C 53-G 54-G 55-A 56-C 58-U ] after
+
+Optimizing Sequence 45
+[ 22-A 27-C 41-U 42-C 53-A 54-G 55-G 56-G 58-G ] before
+remove 0 point mutations
+[ 22-A 27-C 41-U 42-C 53-A 54-G 55-G 56-G 58-G ] after
+
+Optimizing Sequence 46
+[ 23-A 26-A 39-U 41-U 42-C 53-U 55-U 56-G 58-G ] before
+remove 0 point mutations
+[ 23-A 26-A 39-U 41-U 42-C 53-U 55-U 56-G 58-G ] after
+
+Optimizing Sequence 47
+[ 25-G 39-A 41-U 42-C 53-A 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 25-G 39-A 41-U 42-C 53-A 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 48
+[ 22-A 23-A 41-U 42-C 53-A 54-G 55-U 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 41-U 42-C 53-A 54-G 55-U 56-C 58-U ] after
+
+Optimizing Sequence 49
+[ 22-A 23-U 26-A 41-U 42-C 53-A 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 26-A 41-U 42-C 53-A 55-G 56-C 58-A ] after
+
+Optimizing Sequence 50
+[ 23-A 24-A 41-U 42-C 53-A 54-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 24-A 41-U 42-C 53-A 54-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 51
+[ 22-A 26-A 27-U 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 26-A 27-U 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 52
+[ 25-G 26-U 27-A 39-A 41-U 42-C 53-A 56-G 58-G ] before
+remove 0 point mutations
+[ 25-G 26-U 27-A 39-A 41-U 42-C 53-A 56-G 58-G ] after
+
+Optimizing Sequence 53
+[ 23-C 25-C 26-U 40-A 41-U 42-C 53-A 56-G 58-A ] before
+remove 0 point mutations
+[ 23-C 25-C 26-U 40-A 41-U 42-C 53-A 56-G 58-A ] after
+
+Optimizing Sequence 54
+[ 22-A 23-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 55
+[ 23-C 24-U 27-A 39-A 41-U 42-C 53-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-U 27-A 39-A 41-U 42-C 53-G 56-C 58-G ] after
+
+Optimizing Sequence 56
+[ 22-U 23-A 25-C 26-A 41-U 42-C 53-A 54-G 56-C ] before
+remove 0 point mutations
+[ 22-U 23-A 25-C 26-A 41-U 42-C 53-A 54-G 56-C ] after
+
+Optimizing Sequence 57
+[ 24-U 25-G 39-U 42-C 53-A 54-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 24-U 25-G 39-U 42-C 53-A 54-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 58
+[ 25-C 26-U 41-C 42-C 53-A 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 25-C 26-U 41-C 42-C 53-A 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 59
+[ 22-U 24-U 26-A 41-U 42-C 53-A 55-G 56-G 58-A ] before
+remove 0 point mutations
+[ 22-U 24-U 26-A 41-U 42-C 53-A 55-G 56-G 58-A ] after
+
+Optimizing Sequence 60
+[ 23-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 23-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 61
+[ 22-U 23-C 24-C 25-A 41-U 42-C 53-G 56-C 57-U ] before
+remove 0 point mutations
+[ 22-U 23-C 24-C 25-A 41-U 42-C 53-G 56-C 57-U ] after
+
+Optimizing Sequence 62
+[ 22-A 24-C 39-U 41-U 42-C 53-A 54-G 55-U 58-A ] before
+remove 0 point mutations
+[ 22-A 24-C 39-U 41-U 42-C 53-A 54-G 55-U 58-A ] after
+
+Optimizing Sequence 64
+[ 23-C 24-U 26-U 41-U 42-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 23-C 24-U 26-U 41-U 42-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 65
+[ 22-A 23-C 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 66
+[ 26-C 40-U 41-C 42-C 53-A 54-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 26-C 40-U 41-C 42-C 53-A 54-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 67
+[ 22-A 26-U 27-C 41-U 42-C 53-A 54-G 55-A 58-G ] before
+remove 0 point mutations
+[ 22-A 26-U 27-C 41-U 42-C 53-A 54-G 55-A 58-G ] after
+
+Optimizing Sequence 68
+[ 22-A 26-U 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 26-U 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 69
+[ 22-A 23-U 24-U 26-A 41-U 42-C 53-A 54-G 56-U ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 26-A 41-U 42-C 53-A 54-G 56-U ] after
+
+Optimizing Sequence 70
+[ 23-A 25-C 26-U 41-U 42-C 53-G 55-U 57-U 58-A ] before
+remove 0 point mutations
+[ 23-A 25-C 26-U 41-U 42-C 53-G 55-U 57-U 58-A ] after
+
+Optimizing Sequence 71
+[ 23-A 24-U 25-A 40-U 41-U 42-C 52-G 53-A 56-C ] before
+remove 0 point mutations
+[ 23-A 24-U 25-A 40-U 41-U 42-C 52-G 53-A 56-C ] after
+
+Optimizing Sequence 72
+[ 22-A 23-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 73
+[ 24-U 27-C 41-U 42-C 52-G 53-A 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 24-U 27-C 41-U 42-C 52-G 53-A 55-G 56-C 58-A ] after
+
+Optimizing Sequence 74
+[ 22-A 23-A 26-A 39-A 41-U 42-C 53-G 54-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-A 26-A 39-A 41-U 42-C 53-G 54-G 56-C ] after
+
+Optimizing Sequence 75
+[ 23-U 26-U 27-C 39-A 41-U 42-C 53-G 56-G 58-A ] before
+remove 0 point mutations
+[ 23-U 26-U 27-C 39-A 41-U 42-C 53-G 56-G 58-A ] after
+
+Optimizing Sequence 76
+[ 23-A 24-A 39-A 41-U 42-C 53-A 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 24-A 39-A 41-U 42-C 53-A 55-G 56-C 58-A ] after
+
+Optimizing Sequence 77
+[ 22-A 25-C 26-A 41-U 42-C 53-A 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-A 25-C 26-A 41-U 42-C 53-A 54-G 55-A 56-C ] after
+
+Optimizing Sequence 78
+[ 23-A 26-U 41-U 42-C 52-G 53-A 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 26-U 41-U 42-C 52-G 53-A 55-A 56-C 58-A ] after
+
+Optimizing Sequence 79
+[ 26-A 40-U 41-C 42-C 53-A 54-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 26-A 40-U 41-C 42-C 53-A 54-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 80
+[ 22-U 23-U 24-U 26-A 41-U 42-C 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-U 23-U 24-U 26-A 41-U 42-C 54-G 55-A 56-C ] after
+
+Optimizing Sequence 81
+[ 26-U 27-C 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 26-U 27-C 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 82
+[ 23-A 24-U 41-U 42-C 53-A 54-G 55-U 56-C 57-G ] before
+remove 0 point mutations
+[ 23-A 24-U 41-U 42-C 53-A 54-G 55-U 56-C 57-G ] after
+
+Optimizing Sequence 83
+[ 22-A 23-A 26-U 41-U 42-C 53-A 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 26-U 41-U 42-C 53-A 54-G 56-C 58-U ] after
+
+Optimizing Sequence 84
+[ 22-A 25-C 26-U 41-U 42-C 53-U 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 25-C 26-U 41-U 42-C 53-U 54-G 56-C 58-G ] after
+
+Optimizing Sequence 85
+[ 23-A 25-G 40-G 41-U 42-C 52-G 53-A 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 25-G 40-G 41-U 42-C 52-G 53-A 56-C 58-A ] after
+
+Optimizing Sequence 86
+[ 22-A 24-U 25-C 41-U 42-C 53-U 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-A 24-U 25-C 41-U 42-C 53-U 54-G 55-A 56-C ] after
+
+Optimizing Sequence 87
+[ 22-A 23-C 24-U 25-A 41-U 42-C 53-U 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-C 24-U 25-A 41-U 42-C 53-U 55-G 56-C ] after
+
+Optimizing Sequence 88
+[ 25-C 26-U 39-A 41-U 42-C 53-U 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 25-C 26-U 39-A 41-U 42-C 53-U 54-G 56-C 58-G ] after
+
+Optimizing Sequence 89
+[ 22-A 23-A 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 90
+[ 23-C 24-A 26-A 41-U 42-C 53-G 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-C 24-A 26-A 41-U 42-C 53-G 54-G 56-C 58-A ] after
+
+Optimizing Sequence 91
+[ 25-G 26-U 39-U 41-A 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 25-G 26-U 39-U 41-A 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 92
+[ 22-A 26-A 39-U 41-U 42-C 53-A 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-A 26-A 39-U 41-U 42-C 53-A 54-G 55-A 56-C ] after
+
+Optimizing Sequence 93
+[ 23-C 26-U 39-A 40-U 41-U 42-C 53-A 54-G 56-G ] before
+remove 0 point mutations
+[ 23-C 26-U 39-A 40-U 41-U 42-C 53-A 54-G 56-G ] after
+
+Optimizing Sequence 94
+[ 23-C 25-A 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 23-C 25-A 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 95
+[ 23-U 24-U 26-A 39-G 41-U 42-C 53-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 26-A 39-G 41-U 42-C 53-A 56-C 58-G ] after
+
+Optimizing Sequence 96
+[ 22-A 39-A 41-U 42-C 53-G 54-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-A 39-A 41-U 42-C 53-G 54-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 97
+[ 24-U 26-A 27-A 41-U 42-C 53-A 54-U 55-U 56-C ] before
+remove 0 point mutations
+[ 24-U 26-A 27-A 41-U 42-C 53-A 54-U 55-U 56-C ] after
+
+Optimizing Sequence 98
+[ 22-A 23-C 26-A 41-U 42-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 22-A 23-C 26-A 41-U 42-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 99
+[ 22-U 24-U 25-C 39-U 41-U 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 24-U 25-C 39-U 41-U 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 100
+[ 24-U 25-G 27-C 41-U 42-C 53-A 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 24-U 25-G 27-C 41-U 42-C 53-A 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 101
+[ 22-A 23-C 24-A 26-U 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-C 24-A 26-U 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 102
+[ 22-U 24-U 39-G 41-U 42-C 53-A 54-U 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 24-U 39-G 41-U 42-C 53-A 54-U 55-G 56-C 58-A ] after
+
+Optimizing Sequence 103
+[ 23-U 25-C 26-U 27-C 41-U 42-C 53-U 55-U 56-G 58-G ] before
+remove 0 point mutations
+[ 23-U 25-C 26-U 27-C 41-U 42-C 53-U 55-U 56-G 58-G ] after
+
+Optimizing Sequence 104
+[ 23-U 26-U 41-U 42-C 52-G 53-U 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 26-U 41-U 42-C 52-G 53-U 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 105
+[ 25-G 26-U 39-G 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 25-G 26-U 39-G 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 106
+[ 22-A 25-C 27-C 40-U 42-C 52-G 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 25-C 27-C 40-U 42-C 52-G 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 107
+[ 22-U 23-A 25-C 26-A 41-U 42-C 53-U 54-U 55-U 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 25-C 26-A 41-U 42-C 53-U 54-U 55-U 58-G ] after
+
+Optimizing Sequence 108
+[ 22-A 24-U 26-U 41-U 42-C 53-A 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 24-U 26-U 41-U 42-C 53-A 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 109
+[ 23-U 24-U 27-C 39-A 41-U 42-C 53-G 54-G 55-U 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 27-C 39-A 41-U 42-C 53-G 54-G 55-U 58-G ] after
+
+Optimizing Sequence 110
+[ 22-A 23-C 25-C 41-U 42-C 52-G 53-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-C 25-C 41-U 42-C 52-G 53-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 111
+[ 22-U 24-U 26-A 39-U 41-U 42-C 53-G 54-G 56-G 58-G ] before
+remove 0 point mutations
+[ 22-U 24-U 26-A 39-U 41-U 42-C 53-G 54-G 56-G 58-G ] after
+
+Optimizing Sequence 112
+[ 22-A 23-C 25-G 26-U 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 25-G 26-U 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 113
+[ 25-G 26-U 39-A 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 25-G 26-U 39-A 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 114
+[ 22-U 23-A 24-U 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 115
+[ 23-A 25-G 27-U 39-A 41-U 42-C 53-U 55-G 56-G 58-G ] before
+remove 0 point mutations
+[ 23-A 25-G 27-U 39-A 41-U 42-C 53-U 55-G 56-G 58-G ] after
+
+Optimizing Sequence 117
+[ 23-A 25-C 26-A 39-A 41-U 42-C 53-A 54-G 56-G 58-A ] before
+remove 0 point mutations
+[ 23-A 25-C 26-A 39-A 41-U 42-C 53-A 54-G 56-G 58-A ] after
+
+Optimizing Sequence 119
+[ 22-A 24-U 26-U 41-U 42-C 53-A 54-G 56-C 57-U 58-U ] before
+remove 0 point mutations
+[ 22-A 24-U 26-U 41-U 42-C 53-A 54-G 56-C 57-U 58-U ] after
+
+Optimizing Sequence 120
+[ 22-A 23-U 25-C 27-C 41-U 42-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 22-A 23-U 25-C 27-C 41-U 42-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 123
+[ 22-U 25-G 26-U 27-A 41-U 42-C 53-U 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-U 25-G 26-U 27-A 41-U 42-C 53-U 54-G 55-G 56-C ] after
+
+Optimizing Sequence 124
+[ 23-U 24-C 26-A 39-A 41-C 42-A 53-A 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-C 26-A 39-A 41-C 42-A 53-A 55-A 56-C 58-G ] after
+
+Optimizing Sequence 125
+[ 22-U 24-C 25-A 27-C 40-U 42-C 53-U 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 24-C 25-A 27-C 40-U 42-C 53-U 54-G 56-C 58-A ] after
+
+Optimizing Sequence 126
+[ 23-C 26-U 27-C 41-U 42-C 53-A 54-G 55-G 56-G 58-A ] before
+remove 0 point mutations
+[ 23-C 26-U 27-C 41-U 42-C 53-A 54-G 55-G 56-G 58-A ] after
+
+Optimizing Sequence 127
+[ 22-U 23-C 24-C 25-A 41-U 42-C 53-G 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 23-C 24-C 25-A 41-U 42-C 53-G 54-G 56-C 58-U ] after
+
+Optimizing Sequence 128
+[ 22-A 23-A 24-U 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 129
+[ 22-U 23-A 24-C 26-A 41-U 42-C 53-A 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-U 23-A 24-C 26-A 41-U 42-C 53-A 54-G 55-A 56-C ] after
+
+Optimizing Sequence 130
+[ 22-A 25-C 26-U 39-A 41-U 42-C 53-A 54-G 55-U 56-G ] before
+remove 0 point mutations
+[ 22-A 25-C 26-U 39-A 41-U 42-C 53-A 54-G 55-U 56-G ] after
+
+Optimizing Sequence 132
+[ 22-U 23-U 26-A 39-U 41-U 42-C 53-U 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 23-U 26-A 39-U 41-U 42-C 53-U 54-G 56-C 58-U ] after
+
+Optimizing Sequence 133
+[ 23-C 24-U 25-C 40-G 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-U 25-C 40-G 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 134
+[ 22-U 26-U 27-C 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 26-U 27-C 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 135
+[ 22-A 26-A 40-A 41-U 42-C 52-G 53-U 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 26-A 40-A 41-U 42-C 52-G 53-U 54-G 56-C 58-G ] after
+
+Optimizing Sequence 136
+[ 22-U 23-A 24-C 26-A 41-U 42-C 53-U 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 24-C 26-A 41-U 42-C 53-U 54-G 56-C 58-G ] after
+
+Optimizing Sequence 137
+[ 22-A 23-C 25-C 26-A 41-U 42-C 53-U 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 25-C 26-A 41-U 42-C 53-U 54-G 56-C 58-G ] after
+
+Optimizing Sequence 138
+[ 22-A 24-U 25-G 26-U 41-U 42-C 53-G 54-A 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 24-U 25-G 26-U 41-U 42-C 53-G 54-A 56-C 58-U ] after
+
+Optimizing Sequence 139
+[ 22-A 23-A 25-G 26-U 27-C 41-U 42-C 53-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 25-G 26-U 27-C 41-U 42-C 53-A 56-C 58-G ] after
+
+Optimizing Sequence 140
+[ 22-A 24-U 26-U 39-A 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 24-U 26-U 39-A 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 141
+[ 22-A 23-C 24-A 26-A 41-U 42-C 53-A 54-G 55-G 56-G ] before
+remove 0 point mutations
+[ 22-A 23-C 24-A 26-A 41-U 42-C 53-A 54-G 55-G 56-G ] after
+
+Optimizing Sequence 142
+[ 23-U 24-U 25-C 26-U 41-U 42-C 53-U 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 24-U 25-C 26-U 41-U 42-C 53-U 54-G 56-C 58-A ] after
+
+Optimizing Sequence 143
+[ 23-C 24-U 25-C 26-A 41-U 42-C 53-A 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 23-C 24-U 25-C 26-A 41-U 42-C 53-A 54-G 56-C 58-U ] after
+
+Optimizing Sequence 144
+[ 22-A 23-A 24-C 26-U 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-A 24-C 26-U 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 145
+[ 23-A 25-G 26-A 39-U 41-U 42-C 53-G 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 23-A 25-G 26-A 39-U 41-U 42-C 53-G 54-G 55-G 56-C ] after
+
+Optimizing Sequence 146
+[ 22-A 23-U 26-A 27-C 41-U 42-C 53-A 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 26-A 27-C 41-U 42-C 53-A 55-G 56-C 58-G ] after
+
+Optimizing Sequence 147
+[ 23-U 24-A 25-C 41-U 42-C 53-G 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-A 25-C 41-U 42-C 53-G 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 148
+[ 22-U 23-U 24-C 41-U 42-C 53-A 54-G 55-G 56-G 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 24-C 41-U 42-C 53-A 54-G 55-G 56-G 58-G ] after
+
+Optimizing Sequence 149
+[ 22-A 25-A 26-A 41-U 42-C 53-U 54-U 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 25-A 26-A 41-U 42-C 53-U 54-U 55-U 56-C 58-G ] after
+
+Optimizing Sequence 150
+[ 22-U 24-U 25-C 39-U 41-U 42-C 53-A 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-U 24-U 25-C 39-U 41-U 42-C 53-A 54-G 55-A 56-C ] after
+
+Optimizing Sequence 151
+[ 22-A 24-A 25-C 26-A 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 24-A 25-C 26-A 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 152
+[ 22-U 23-U 24-C 26-A 41-U 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-U 24-C 26-A 41-U 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 153
+[ 22-A 23-U 26-C 39-G 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 26-C 39-G 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 154
+[ 24-C 25-C 26-A 41-U 42-C 52-G 53-G 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 24-C 25-C 26-A 41-U 42-C 52-G 53-G 54-G 55-G 56-C ] after
+
+Optimizing Sequence 155
+[ 23-A 25-A 27-C 41-U 42-C 52-G 53-G 55-U 56-U 58-G ] before
+remove 0 point mutations
+[ 23-A 25-A 27-C 41-U 42-C 52-G 53-G 55-U 56-U 58-G ] after
+
+Optimizing Sequence 157
+[ 24-A 25-C 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 24-A 25-C 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 158
+[ 22-U 24-U 40-A 41-U 42-C 53-A 54-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-U 24-U 40-A 41-U 42-C 53-A 54-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 159
+[ 22-U 23-C 25-A 41-U 42-C 53-U 54-G 55-G 56-C 57-U ] before
+remove 0 point mutations
+[ 22-U 23-C 25-A 41-U 42-C 53-U 54-G 55-G 56-C 57-U ] after
+
+Optimizing Sequence 160
+[ 22-A 23-A 25-G 26-U 39-U 41-U 42-C 53-A 54-G 55-U ] before
+remove 0 point mutations
+[ 22-A 23-A 25-G 26-U 39-U 41-U 42-C 53-A 54-G 55-U ] after
+
+Optimizing Sequence 161
+[ 22-U 26-A 40-A 41-U 42-C 53-G 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 26-A 40-A 41-U 42-C 53-G 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 162
+[ 22-U 23-U 24-U 25-C 41-U 42-C 53-A 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-U 23-U 24-U 25-C 41-U 42-C 53-A 54-G 55-A 56-C ] after
+
+Optimizing Sequence 163
+[ 23-C 25-G 26-A 27-C 41-U 42-C 53-A 54-A 55-U 56-C ] before
+remove 0 point mutations
+[ 23-C 25-G 26-A 27-C 41-U 42-C 53-A 54-A 55-U 56-C ] after
+
+Optimizing Sequence 164
+[ 22-U 24-U 25-C 26-A 41-U 42-C 52-A 53-G 56-C 57-U ] before
+remove 0 point mutations
+[ 22-U 24-U 25-C 26-A 41-U 42-C 52-A 53-G 56-C 57-U ] after
+
+Optimizing Sequence 165
+[ 23-C 26-U 39-U 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 26-U 39-U 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 166
+[ 23-U 26-A 27-C 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 26-A 27-C 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 167
+[ 22-A 24-U 25-A 40-A 41-U 42-C 53-A 55-G 56-G 58-A ] before
+remove 0 point mutations
+[ 22-A 24-U 25-A 40-A 41-U 42-C 53-A 55-G 56-G 58-A ] after
+
+Optimizing Sequence 168
+[ 22-A 24-U 26-U 41-U 42-C 53-G 54-G 56-C 57-U 58-U ] before
+remove 0 point mutations
+[ 22-A 24-U 26-U 41-U 42-C 53-G 54-G 56-C 57-U 58-U ] after
+
+Optimizing Sequence 169
+[ 23-C 24-C 25-C 26-U 39-U 41-U 42-C 53-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-C 25-C 26-U 39-U 41-U 42-C 53-A 56-C 58-G ] after
+
+Optimizing Sequence 170
+[ 22-A 23-A 26-A 41-U 42-C 53-A 54-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 26-A 41-U 42-C 53-A 54-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 171
+[ 22-U 23-A 24-U 41-U 42-C 53-A 54-G 55-G 56-C 57-U ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 41-U 42-C 53-A 54-G 55-G 56-C 57-U ] after
+
+Optimizing Sequence 173
+[ 24-C 25-C 26-A 39-U 41-U 42-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 24-C 25-C 26-A 39-U 41-U 42-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 174
+[ 24-U 25-C 27-C 41-U 42-C 53-A 54-U 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 24-U 25-C 27-C 41-U 42-C 53-A 54-U 55-G 56-C 58-A ] after
+
+Optimizing Sequence 175
+[ 22-U 23-U 24-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-U 23-U 24-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C ] after
+
+Optimizing Sequence 176
+[ 23-C 24-C 25-C 26-A 41-U 42-C 53-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-C 25-C 26-A 41-U 42-C 53-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 177
+[ 22-A 23-C 24-U 26-A 40-A 41-U 42-C 53-G 56-C 57-U ] before
+remove 0 point mutations
+[ 22-A 23-C 24-U 26-A 40-A 41-U 42-C 53-G 56-C 57-U ] after
+
+Optimizing Sequence 178
+[ 23-U 24-C 25-C 26-U 27-U 41-U 42-C 53-G 54-G 56-C ] before
+remove 0 point mutations
+[ 23-U 24-C 25-C 26-U 27-U 41-U 42-C 53-G 54-G 56-C ] after
+
+Optimizing Sequence 179
+[ 23-C 26-A 39-G 41-C 42-C 53-G 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 26-A 39-G 41-C 42-C 53-G 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 180
+[ 24-U 25-G 26-U 39-A 40-U 41-U 42-C 53-A 54-G 58-A ] before
+remove 0 point mutations
+[ 24-U 25-G 26-U 39-A 40-U 41-U 42-C 53-A 54-G 58-A ] after
+
+Optimizing Sequence 181
+[ 22-U 23-A 26-A 39-A 41-U 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 26-A 39-A 41-U 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 182
+[ 22-A 23-U 24-U 26-U 39-A 41-U 42-C 52-G 53-A 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 26-U 39-A 41-U 42-C 52-G 53-A 58-G ] after
+
+Optimizing Sequence 183
+[ 22-A 23-C 26-U 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 26-U 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 184
+[ 23-A 24-U 26-C 27-U 40-U 41-U 42-C 53-G 56-U 58-A ] before
+remove 0 point mutations
+[ 23-A 24-U 26-C 27-U 40-U 41-U 42-C 53-G 56-U 58-A ] after
+
+Optimizing Sequence 185
+[ 22-A 23-C 26-U 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 26-U 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 186
+[ 22-A 23-U 24-U 25-C 41-U 42-C 53-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 25-C 41-U 42-C 53-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 187
+[ 22-U 24-C 25-C 26-C 27-C 41-U 42-C 53-G 55-G 56-G ] before
+remove 0 point mutations
+[ 22-U 24-C 25-C 26-C 27-C 41-U 42-C 53-G 55-G 56-G ] after
+
+Optimizing Sequence 188
+[ 22-A 23-U 26-A 41-U 42-C 52-G 53-G 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 26-A 41-U 42-C 52-G 53-G 54-G 56-C 58-G ] after
+
+Optimizing Sequence 189
+[ 22-A 23-U 25-A 27-U 41-U 42-C 53-A 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 25-A 27-U 41-U 42-C 53-A 55-A 56-C 58-G ] after
+
+Optimizing Sequence 190
+[ 22-A 23-A 26-U 27-C 40-U 42-C 53-U 55-A 56-U 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 26-U 27-C 40-U 42-C 53-U 55-A 56-U 58-A ] after
+
+Optimizing Sequence 191
+[ 23-C 25-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 25-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 192
+[ 23-A 27-C 39-A 41-U 42-C 53-G 55-U 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 23-A 27-C 39-A 41-U 42-C 53-G 55-U 56-C 57-U 58-A ] after
+
+Optimizing Sequence 193
+[ 22-A 23-A 26-U 27-C 39-A 41-U 42-C 53-A 54-G 56-G ] before
+remove 0 point mutations
+[ 22-A 23-A 26-U 27-C 39-A 41-U 42-C 53-A 54-G 56-G ] after
+
+Optimizing Sequence 194
+[ 22-A 23-A 24-U 26-A 41-U 42-C 53-U 55-G 56-U 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 26-A 41-U 42-C 53-U 55-G 56-U 58-A ] after
+
+Optimizing Sequence 195
+[ 23-U 24-U 25-C 26-U 27-U 39-G 41-U 42-C 53-A 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 25-C 26-U 27-U 39-G 41-U 42-C 53-A 58-G ] after
+
+Optimizing Sequence 196
+[ 22-U 23-A 26-U 41-U 42-C 53-G 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 26-U 41-U 42-C 53-G 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 197
+[ 25-C 26-C 27-A 41-U 42-C 52-C 53-U 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 25-C 26-C 27-A 41-U 42-C 52-C 53-U 54-G 56-C 58-A ] after
+
+Optimizing Sequence 198
+[ 23-A 26-U 27-A 39-U 40-U 41-C 42-C 53-A 56-U 58-G ] before
+remove 0 point mutations
+[ 23-A 26-U 27-A 39-U 40-U 41-C 42-C 53-A 56-U 58-G ] after
+
+Optimizing Sequence 199
+[ 22-A 26-U 27-U 41-U 42-C 53-A 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 26-U 27-U 41-U 42-C 53-A 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 200
+[ 22-A 26-U 27-C 41-U 42-C 53-A 54-U 55-G 56-G 58-G ] before
+remove 0 point mutations
+[ 22-A 26-U 27-C 41-U 42-C 53-A 54-U 55-G 56-G 58-G ] after
+
+Optimizing Sequence 201
+[ 22-U 23-A 24-U 27-C 41-U 42-C 53-G 54-G 56-G 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 27-C 41-U 42-C 53-G 54-G 56-G 58-A ] after
+
+Optimizing Sequence 202
+[ 22-U 23-U 26-C 41-U 42-C 52-C 53-G 54-G 56-G 57-A ] before
+remove 0 point mutations
+[ 22-U 23-U 26-C 41-U 42-C 52-C 53-G 54-G 56-G 57-A ] after
+
+Optimizing Sequence 203
+[ 23-U 25-C 26-A 27-U 40-U 42-C 53-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 25-C 26-A 27-U 40-U 42-C 53-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 204
+[ 22-U 23-A 25-G 26-A 41-U 42-C 53-A 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 25-G 26-A 41-U 42-C 53-A 56-C 57-U 58-A ] after
+
+Optimizing Sequence 205
+[ 25-C 26-U 27-C 41-U 42-C 52-G 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 25-C 26-U 27-C 41-U 42-C 52-G 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 206
+[ 23-A 25-G 26-U 40-U 41-U 42-C 53-A 54-G 55-U 56-C 58-U ] before
+remove 0 point mutations
+[ 23-A 25-G 26-U 40-U 41-U 42-C 53-A 54-G 55-U 56-C 58-U ] after
+
+Optimizing Sequence 208
+[ 22-U 24-U 26-A 39-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 24-U 26-A 39-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 209
+[ 22-U 24-U 25-C 26-U 39-U 41-U 42-C 53-G 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 24-U 25-C 26-U 39-U 41-U 42-C 53-G 54-G 56-C 58-G ] after
+
+Optimizing Sequence 210
+[ 23-U 24-U 25-C 26-U 41-U 42-C 53-A 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 25-C 26-U 41-U 42-C 53-A 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 211
+[ 22-U 23-C 24-U 26-A 41-U 42-C 53-A 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-C 24-U 26-A 41-U 42-C 53-A 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 212
+[ 22-A 24-A 25-A 26-A 41-U 42-C 53-A 54-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 24-A 25-A 26-A 41-U 42-C 53-A 54-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 213
+[ 22-A 23-A 24-A 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 24-A 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 214
+[ 22-U 26-A 27-U 41-A 42-C 53-A 54-G 55-U 56-C 57-A 58-A ] before
+remove 0 point mutations
+[ 22-U 26-A 27-U 41-A 42-C 53-A 54-G 55-U 56-C 57-A 58-A ] after
+
+Optimizing Sequence 215
+[ 23-A 24-U 25-A 26-A 41-U 42-C 52-G 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 24-U 25-A 26-A 41-U 42-C 52-G 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 216
+[ 22-A 23-C 25-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-C 25-A 26-A 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 217
+[ 23-A 25-C 26-A 27-U 39-U 41-U 42-U 53-G 54-A 56-G 58-A ] before
+remove 0 point mutations
+[ 23-A 25-C 26-A 27-U 39-U 41-U 42-U 53-G 54-A 56-G 58-A ] after
+
+Optimizing Sequence 218
+[ 22-A 25-G 26-U 27-C 39-U 42-C 53-A 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 25-G 26-U 27-C 39-U 42-C 53-A 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 219
+[ 23-U 24-A 26-U 27-A 41-U 42-U 53-G 54-A 55-U 56-G 58-G ] before
+remove 0 point mutations
+[ 23-U 24-A 26-U 27-A 41-U 42-U 53-G 54-A 55-U 56-G 58-G ] after
+
+Optimizing Sequence 220
+[ 22-U 23-A 24-U 27-C 41-U 42-C 52-A 53-A 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 27-C 41-U 42-C 52-A 53-A 55-G 56-C 58-G ] after
+
+Optimizing Sequence 221
+[ 22-A 23-U 24-U 25-C 41-U 42-C 53-A 54-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 25-C 41-U 42-C 53-A 54-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 222
+[ 22-A 24-C 25-C 26-A 27-A 39-A 41-U 42-C 53-G 54-G 56-C ] before
+remove 0 point mutations
+[ 22-A 24-C 25-C 26-A 27-A 39-A 41-U 42-C 53-G 54-G 56-C ] after
+
+Optimizing Sequence 223
+[ 22-U 24-C 26-C 27-C 39-U 41-U 42-C 53-G 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-U 24-C 26-C 27-C 39-U 41-U 42-C 53-G 54-G 55-A 56-C ] after
+
+Optimizing Sequence 224
+[ 22-A 23-U 25-G 26-U 27-C 41-U 42-C 52-G 53-A 56-G 58-U ] before
+remove 0 point mutations
+[ 22-A 23-U 25-G 26-U 27-C 41-U 42-C 52-G 53-A 56-G 58-U ] after
+
+Optimizing Sequence 225
+[ 22-U 26-A 27-A 41-U 42-C 52-G 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 26-A 27-A 41-U 42-C 52-G 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 226
+[ 22-A 26-U 27-C 41-U 42-C 53-A 54-A 55-U 56-U 57-G 58-G ] before
+remove 0 point mutations
+[ 22-A 26-U 27-C 41-U 42-C 53-A 54-A 55-U 56-U 57-G 58-G ] after
+
+Optimizing Sequence 227
+[ 22-A 25-C 26-U 27-C 39-U 41-C 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 25-C 26-U 27-C 39-U 41-C 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 228
+[ 22-A 23-A 24-U 25-A 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-A 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 230
+[ 22-U 24-C 25-A 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 24-C 25-A 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 231
+[ 22-A 23-A 24-C 25-C 26-A 39-G 41-U 42-C 53-A 54-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-A 24-C 25-C 26-A 39-G 41-U 42-C 53-A 54-G 56-C ] after
+
+Optimizing Sequence 232
+[ 22-U 24-U 26-A 39-U 40-U 41-U 42-C 53-A 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 24-U 26-A 39-U 40-U 41-U 42-C 53-A 55-G 56-C 58-A ] after
+
+Optimizing Sequence 233
+[ 23-U 24-U 26-A 27-C 41-U 42-C 52-G 53-U 55-A 56-G 58-A ] before
+remove 0 point mutations
+[ 23-U 24-U 26-A 27-C 41-U 42-C 52-G 53-U 55-A 56-G 58-A ] after
+
+Optimizing Sequence 235
+[ 23-U 25-A 26-A 40-G 41-U 42-C 53-A 54-G 55-U 56-C 57-U ] before
+remove 0 point mutations
+[ 23-U 25-A 26-A 40-G 41-U 42-C 53-A 54-G 55-U 56-C 57-U ] after
+
+Optimizing Sequence 236
+[ 22-U 23-A 24-U 27-U 41-U 42-C 52-G 53-U 54-G 57-A 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 27-U 41-U 42-C 52-G 53-U 54-G 57-A 58-G ] after
+
+Optimizing Sequence 237
+[ 25-G 27-A 40-U 41-U 42-C 52-G 53-U 54-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 25-G 27-A 40-U 41-U 42-C 52-G 53-U 54-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 238
+[ 23-U 25-C 26-A 41-U 42-C 53-A 54-G 55-G 56-C 57-U 58-U ] before
+remove 0 point mutations
+[ 23-U 25-C 26-A 41-U 42-C 53-A 54-G 55-G 56-C 57-U 58-U ] after
+
+Optimizing Sequence 239
+[ 22-U 23-U 26-A 39-U 40-U 41-U 42-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 22-U 23-U 26-A 39-U 40-U 41-U 42-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 240
+[ 22-A 25-G 26-A 40-A 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 25-G 26-A 40-A 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 242
+[ 24-U 26-U 27-C 39-U 41-C 42-C 53-G 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 24-U 26-U 27-C 39-U 41-C 42-C 53-G 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 243
+[ 22-U 23-U 25-G 26-U 27-C 41-U 42-C 53-A 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-U 23-U 25-G 26-U 27-C 41-U 42-C 53-A 54-G 55-A 56-C ] after
+
+Optimizing Sequence 245
+[ 22-A 23-C 25-C 39-G 41-U 42-C 52-C 53-G 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 25-C 39-G 41-U 42-C 52-C 53-G 54-G 56-C 58-G ] after
+
+Optimizing Sequence 247
+[ 22-A 23-U 25-G 39-A 41-U 42-C 52-G 53-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 25-G 39-A 41-U 42-C 52-G 53-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 248
+[ 23-U 25-C 26-U 39-A 41-U 42-C 53-G 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 25-C 26-U 39-A 41-U 42-C 53-G 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 249
+[ 23-U 24-U 25-C 26-U 39-A 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 25-C 26-U 39-A 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 251
+[ 22-U 23-A 24-U 25-C 26-A 41-U 42-C 53-U 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 25-C 26-A 41-U 42-C 53-U 54-G 56-C 58-U ] after
+
+Optimizing Sequence 252
+[ 22-U 23-A 26-U 39-U 41-U 42-C 53-A 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 26-U 39-U 41-U 42-C 53-A 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 253
+[ 22-A 23-U 24-U 26-U 39-U 41-U 42-C 53-U 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 26-U 39-U 41-U 42-C 53-U 54-G 56-C 58-G ] after
+
+Optimizing Sequence 254
+[ 23-U 24-U 25-C 26-A 41-U 42-C 52-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 24-U 25-C 26-A 41-U 42-C 52-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 255
+[ 22-A 23-U 24-U 25-C 27-C 41-U 42-C 53-U 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 25-C 27-C 41-U 42-C 53-U 54-G 56-C 58-A ] after
+
+Optimizing Sequence 256
+[ 23-C 24-C 25-A 26-U 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 23-C 24-C 25-A 26-U 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 257
+[ 22-A 24-U 26-A 40-A 41-U 42-C 52-G 53-G 54-G 55-U 58-A ] before
+remove 0 point mutations
+[ 22-A 24-U 26-A 40-A 41-U 42-C 52-G 53-G 54-G 55-U 58-A ] after
+
+Optimizing Sequence 258
+[ 23-C 24-U 25-C 26-A 41-U 42-C 53-A 54-G 55-A 56-G 58-G ] before
+remove 0 point mutations
+[ 23-C 24-U 25-C 26-A 41-U 42-C 53-A 54-G 55-A 56-G 58-G ] after
+
+Optimizing Sequence 260
+[ 23-A 26-U 39-U 40-A 41-U 42-C 53-A 55-A 56-C 57-A 58-G ] before
+remove 0 point mutations
+[ 23-A 26-U 39-U 40-A 41-U 42-C 53-A 55-A 56-C 57-A 58-G ] after
+
+Optimizing Sequence 262
+[ 22-A 23-A 25-G 26-A 40-U 41-U 42-C 53-U 54-G 55-A 56-C ] before
+remove 0 point mutations
+[ 22-A 23-A 25-G 26-A 40-U 41-U 42-C 53-U 54-G 55-A 56-C ] after
+
+Optimizing Sequence 264
+[ 22-U 23-U 25-A 26-U 41-U 42-C 53-G 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-U 25-A 26-U 41-U 42-C 53-G 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 265
+[ 22-A 23-U 27-U 39-U 41-U 42-C 53-A 54-U 55-U 56-U 58-U ] before
+remove 0 point mutations
+[ 22-A 23-U 27-U 39-U 41-U 42-C 53-A 54-U 55-U 56-U 58-U ] after
+
+Optimizing Sequence 268
+[ 22-U 23-U 25-A 26-A 39-U 41-U 42-C 53-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 25-A 26-A 39-U 41-U 42-C 53-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 269
+[ 22-U 23-C 24-U 26-A 39-U 41-U 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-C 24-U 26-A 39-U 41-U 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 271
+[ 23-U 26-A 27-C 41-U 42-C 52-C 53-A 54-U 56-G 57-U 58-A ] before
+remove 0 point mutations
+[ 23-U 26-A 27-C 41-U 42-C 52-C 53-A 54-U 56-G 57-U 58-A ] after
+
+Optimizing Sequence 272
+[ 22-A 23-U 25-C 26-A 39-A 41-U 42-C 52-G 53-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 25-C 26-A 39-A 41-U 42-C 52-G 53-A 56-C 58-G ] after
+
+Optimizing Sequence 273
+[ 23-A 25-G 26-U 27-U 41-U 42-C 53-G 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-A 25-G 26-U 27-U 41-U 42-C 53-G 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 274
+[ 22-A 23-C 24-U 25-C 26-A 39-G 41-U 42-C 53-G 54-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-C 24-U 25-C 26-A 39-G 41-U 42-C 53-G 54-G 56-C ] after
+
+Optimizing Sequence 275
+[ 23-A 25-C 26-U 40-A 41-U 42-C 53-G 55-G 56-G 57-G 58-A ] before
+remove 0 point mutations
+[ 23-A 25-C 26-U 40-A 41-U 42-C 53-G 55-G 56-G 57-G 58-A ] after
+
+Optimizing Sequence 276
+[ 23-A 24-C 25-C 27-C 39-A 41-U 42-C 53-A 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-A 24-C 25-C 27-C 39-A 41-U 42-C 53-A 54-G 56-C 58-G ] after
+
+Optimizing Sequence 277
+[ 23-U 25-G 26-U 27-A 39-A 41-U 42-C 53-A 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 25-G 26-U 27-A 39-A 41-U 42-C 53-A 55-A 56-C 58-A ] after
+
+Optimizing Sequence 278
+[ 22-U 23-U 24-U 25-C 26-U 41-U 42-C 53-A 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 23-U 24-U 25-C 26-U 41-U 42-C 53-A 54-G 56-C 58-U ] after
+
+Optimizing Sequence 279
+[ 23-U 24-U 25-C 26-A 40-U 41-U 42-C 53-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 25-C 26-A 40-U 41-U 42-C 53-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 280
+[ 22-U 23-A 24-U 27-C 41-U 42-C 53-G 54-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 27-C 41-U 42-C 53-G 54-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 281
+[ 23-U 26-U 40-U 41-U 42-C 52-G 53-A 54-U 55-U 56-C 58-U ] before
+remove 0 point mutations
+[ 23-U 26-U 40-U 41-U 42-C 52-G 53-A 54-U 55-U 56-C 58-U ] after
+
+Optimizing Sequence 282
+[ 22-A 23-C 24-U 26-A 41-U 42-C 53-A 54-U 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-C 24-U 26-A 41-U 42-C 53-A 54-U 55-G 56-C 58-U ] after
+
+Optimizing Sequence 283
+[ 22-A 24-A 25-G 26-U 40-A 41-U 42-C 53-A 54-U 55-G 58-U ] before
+remove 0 point mutations
+[ 22-A 24-A 25-G 26-U 40-A 41-U 42-C 53-A 54-U 55-G 58-U ] after
+
+Optimizing Sequence 285
+[ 23-A 25-G 27-C 40-U 41-C 42-C 53-G 54-G 55-A 56-G 58-A ] before
+remove 0 point mutations
+[ 23-A 25-G 27-C 40-U 41-C 42-C 53-G 54-G 55-A 56-G 58-A ] after
+
+Optimizing Sequence 286
+[ 23-C 24-C 25-C 26-A 41-U 42-C 53-A 54-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 23-C 24-C 25-C 26-A 41-U 42-C 53-A 54-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 287
+[ 22-A 23-U 25-A 26-A 41-U 42-C 53-A 54-U 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-U 25-A 26-A 41-U 42-C 53-A 54-U 55-G 56-C 58-U ] after
+
+Optimizing Sequence 288
+[ 22-A 25-C 26-A 39-U 40-U 41-U 42-C 52-G 53-A 54-G 56-C ] before
+remove 0 point mutations
+[ 22-A 25-C 26-A 39-U 40-U 41-U 42-C 52-G 53-A 54-G 56-C ] after
+
+Optimizing Sequence 289
+[ 22-A 23-A 24-A 25-A 26-U 41-U 42-C 53-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 24-A 25-A 26-U 41-U 42-C 53-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 290
+[ 23-U 25-G 26-A 27-U 39-A 41-U 42-C 53-A 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 25-G 26-A 27-U 39-A 41-U 42-C 53-A 55-A 56-C 58-A ] after
+
+Optimizing Sequence 291
+[ 22-U 23-A 25-C 26-A 41-U 42-C 52-G 53-G 56-C 57-U 58-U ] before
+remove 0 point mutations
+[ 22-U 23-A 25-C 26-A 41-U 42-C 52-G 53-G 56-C 57-U 58-U ] after
+
+Optimizing Sequence 292
+[ 22-U 23-U 24-C 25-C 27-C 41-U 42-C 53-G 55-G 56-C 57-U ] before
+remove 0 point mutations
+[ 22-U 23-U 24-C 25-C 27-C 41-U 42-C 53-G 55-G 56-C 57-U ] after
+
+Optimizing Sequence 293
+[ 22-A 23-U 24-C 26-U 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 24-C 26-U 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 294
+[ 22-A 23-A 26-C 39-U 40-U 41-U 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 26-C 39-U 40-U 41-U 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 295
+[ 22-A 24-U 25-C 26-U 27-C 41-U 42-C 53-A 54-U 55-G 56-G ] before
+remove 0 point mutations
+[ 22-A 24-U 25-C 26-U 27-C 41-U 42-C 53-A 54-U 55-G 56-G ] after
+
+Optimizing Sequence 296
+[ 23-A 24-U 25-C 26-U 27-C 41-U 42-C 53-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-A 24-U 25-C 26-U 27-C 41-U 42-C 53-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 298
+[ 22-A 27-C 39-A 41-U 42-C 52-G 53-A 54-G 56-C 57-G 58-A ] before
+remove 0 point mutations
+[ 22-A 27-C 39-A 41-U 42-C 52-G 53-A 54-G 56-C 57-G 58-A ] after
+
+Optimizing Sequence 299
+[ 23-U 24-U 25-A 26-U 41-U 42-C 53-U 54-G 55-G 56-C 57-A ] before
+remove 0 point mutations
+[ 23-U 24-U 25-A 26-U 41-U 42-C 53-U 54-G 55-G 56-C 57-A ] after
+
+Optimizing Sequence 300
+[ 22-A 24-A 26-U 27-U 39-A 41-U 42-C 52-C 53-A 56-U 58-A ] before
+remove 0 point mutations
+[ 22-A 24-A 26-U 27-U 39-A 41-U 42-C 52-C 53-A 56-U 58-A ] after
+
+Optimizing Sequence 302
+[ 23-A 24-U 25-C 26-A 40-U 41-U 42-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 23-A 24-U 25-C 26-A 40-U 41-U 42-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 303
+[ 22-A 23-A 25-C 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 25-C 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 304
+[ 23-U 24-C 25-C 40-G 41-U 42-C 53-A 54-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 24-C 25-C 40-G 41-U 42-C 53-A 54-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 305
+[ 23-U 25-C 26-A 27-C 41-U 42-C 52-G 53-A 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 23-U 25-C 26-A 27-C 41-U 42-C 52-G 53-A 54-G 56-C 58-U ] after
+
+Optimizing Sequence 307
+[ 22-U 24-U 26-A 41-U 42-C 52-G 53-A 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 24-U 26-A 41-U 42-C 52-G 53-A 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 309
+[ 22-U 24-U 26-A 27-C 41-U 42-C 52-G 53-G 55-G 56-G 57-A ] before
+remove 0 point mutations
+[ 22-U 24-U 26-A 27-C 41-U 42-C 52-G 53-G 55-G 56-G 57-A ] after
+
+Optimizing Sequence 310
+[ 22-A 23-A 24-U 25-C 26-A 41-U 42-C 53-U 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-C 26-A 41-U 42-C 53-U 54-G 56-C 58-U ] after
+
+Optimizing Sequence 311
+[ 22-U 23-C 24-C 25-C 27-C 41-U 42-C 53-G 55-G 56-C 57-U ] before
+remove 0 point mutations
+[ 22-U 23-C 24-C 25-C 27-C 41-U 42-C 53-G 55-G 56-C 57-U ] after
+
+Optimizing Sequence 312
+[ 22-A 23-A 25-G 26-U 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 25-G 26-U 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 313
+[ 22-A 24-U 26-U 39-A 41-U 42-C 53-G 54-G 55-U 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 24-U 26-U 39-A 41-U 42-C 53-G 54-G 55-U 56-C 58-U ] after
+
+Optimizing Sequence 314
+[ 22-A 26-A 27-C 40-U 41-C 42-C 53-A 54-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 22-A 26-A 27-C 40-U 41-C 42-C 53-A 54-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 315
+[ 22-U 23-A 26-U 41-U 42-C 52-G 53-A 54-U 55-A 56-G 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 26-U 41-U 42-C 52-G 53-A 54-U 55-A 56-G 58-A ] after
+
+Optimizing Sequence 316
+[ 22-A 23-U 26-A 41-U 42-C 52-C 53-G 54-U 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 26-A 41-U 42-C 52-C 53-G 54-U 55-U 56-C 58-A ] after
+
+Optimizing Sequence 317
+[ 23-U 24-U 25-A 26-A 39-A 41-U 42-C 53-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 24-U 25-A 26-A 39-A 41-U 42-C 53-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 319
+[ 25-C 26-C 27-C 39-A 40-A 41-U 42-C 53-G 56-C 57-U 58-U ] before
+remove 0 point mutations
+[ 25-C 26-C 27-C 39-A 40-A 41-U 42-C 53-G 56-C 57-U 58-U ] after
+
+Optimizing Sequence 320
+[ 22-A 23-U 24-U 25-C 41-U 42-C 52-G 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 25-C 41-U 42-C 52-G 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 323
+[ 22-A 23-A 24-C 25-G 27-C 41-U 42-C 52-G 53-A 54-U 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 24-C 25-G 27-C 41-U 42-C 52-G 53-A 54-U 58-G ] after
+
+Optimizing Sequence 324
+[ 23-U 24-U 26-U 27-C 39-A 41-U 42-C 53-A 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 26-U 27-C 39-A 41-U 42-C 53-A 55-A 56-C 58-G ] after
+
+Optimizing Sequence 325
+[ 22-U 23-A 25-A 26-U 41-U 42-C 53-A 54-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 25-A 26-U 41-U 42-C 53-A 54-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 326
+[ 22-U 23-U 24-C 26-U 41-U 42-C 53-A 54-G 55-G 56-U 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 24-C 26-U 41-U 42-C 53-A 54-G 55-G 56-U 58-G ] after
+
+Optimizing Sequence 327
+[ 23-U 25-G 26-U 27-U 39-A 41-U 42-C 53-A 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 25-G 26-U 27-U 39-A 41-U 42-C 53-A 55-A 56-C 58-A ] after
+
+Optimizing Sequence 328
+[ 22-A 23-C 24-U 26-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 24-U 26-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 329
+[ 23-A 25-G 26-U 27-C 39-U 41-U 42-C 53-U 54-A 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 25-G 26-U 27-C 39-U 41-U 42-C 53-U 54-A 56-C 58-A ] after
+
+Optimizing Sequence 330
+[ 22-A 23-U 24-C 25-G 26-U 41-U 42-C 53-U 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-U 24-C 25-G 26-U 41-U 42-C 53-U 54-G 55-G 56-C ] after
+
+Optimizing Sequence 331
+[ 22-A 24-U 26-U 27-C 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 24-U 26-U 27-C 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 332
+[ 23-A 26-A 27-U 39-A 40-U 41-U 42-C 53-G 54-G 55-U 58-A ] before
+remove 0 point mutations
+[ 23-A 26-A 27-U 39-A 40-U 41-U 42-C 53-G 54-G 55-U 58-A ] after
+
+Optimizing Sequence 334
+[ 24-U 25-A 26-A 27-C 39-A 41-U 42-C 53-U 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 24-U 25-A 26-A 27-C 39-A 41-U 42-C 53-U 54-G 55-U 56-C ] after
+
+Optimizing Sequence 335
+[ 22-A 23-U 24-U 41-U 42-C 52-C 53-G 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 41-U 42-C 52-C 53-G 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 336
+[ 24-U 25-C 26-A 27-U 41-U 42-C 53-G 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 24-U 25-C 26-A 27-U 41-U 42-C 53-G 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 337
+[ 22-A 23-C 24-A 26-A 41-U 42-C 53-A 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 24-A 26-A 41-U 42-C 53-A 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 339
+[ 23-U 24-U 26-U 39-U 41-U 42-C 53-G 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 26-U 39-U 41-U 42-C 53-G 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 340
+[ 22-U 24-U 26-A 39-U 41-U 42-C 53-A 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 24-U 26-A 39-U 41-U 42-C 53-A 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 341
+[ 22-A 23-U 24-U 25-G 26-U 41-U 42-C 53-U 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 25-G 26-U 41-U 42-C 53-U 54-G 55-G 56-C ] after
+
+Optimizing Sequence 342
+[ 22-U 23-A 24-C 25-C 39-U 41-U 42-C 53-U 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-U 23-A 24-C 25-C 39-U 41-U 42-C 53-U 54-G 55-G 56-C ] after
+
+Optimizing Sequence 343
+[ 25-G 26-C 27-U 39-A 40-U 41-U 42-C 53-A 55-U 56-G 58-G ] before
+remove 0 point mutations
+[ 25-G 26-C 27-U 39-A 40-U 41-U 42-C 53-A 55-U 56-G 58-G ] after
+
+Optimizing Sequence 344
+[ 23-U 25-C 26-U 39-A 41-U 42-C 52-C 53-A 55-U 56-C 58-U ] before
+remove 0 point mutations
+[ 23-U 25-C 26-U 39-A 41-U 42-C 52-C 53-A 55-U 56-C 58-U ] after
+
+Optimizing Sequence 345
+[ 22-U 23-U 25-G 26-U 39-U 41-C 42-C 52-G 53-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 25-G 26-U 39-U 41-C 42-C 52-G 53-A 56-C 58-G ] after
+
+Optimizing Sequence 346
+[ 22-A 23-A 25-G 26-U 27-C 41-U 42-C 53-G 54-G 55-A 56-G ] before
+remove 0 point mutations
+[ 22-A 23-A 25-G 26-U 27-C 41-U 42-C 53-G 54-G 55-A 56-G ] after
+
+Optimizing Sequence 347
+[ 22-A 23-U 24-U 26-A 27-C 41-U 42-C 52-G 53-U 54-G 56-G 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 26-A 27-C 41-U 42-C 52-G 53-U 54-G 56-G 58-A ] after
+
+Optimizing Sequence 348
+[ 22-U 23-A 24-U 25-C 39-U 42-C 53-U 54-G 55-A 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 25-C 39-U 42-C 53-U 54-G 55-A 56-C 57-U 58-G ] after
+
+Optimizing Sequence 349
+[ 23-C 24-U 25-C 26-U 39-A 41-U 42-C 53-A 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-U 25-C 26-U 39-A 41-U 42-C 53-A 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 350
+[ 22-A 23-C 25-C 26-A 40-A 41-U 42-C 53-U 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-C 25-C 26-A 40-A 41-U 42-C 53-U 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 351
+[ 22-A 23-A 26-A 27-C 39-A 41-U 42-C 53-A 54-G 55-U 56-G 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 26-A 27-C 39-A 41-U 42-C 53-A 54-G 55-U 56-G 58-A ] after
+
+Optimizing Sequence 352
+[ 22-U 23-A 24-U 26-U 40-A 41-U 42-C 53-U 54-G 55-A 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 26-U 40-A 41-U 42-C 53-U 54-G 55-A 56-C 58-U ] after
+
+Optimizing Sequence 353
+[ 23-A 25-G 26-U 27-A 39-A 41-U 42-C 52-G 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-A 25-G 26-U 27-A 39-A 41-U 42-C 52-G 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 356
+[ 22-A 24-U 25-C 26-A 27-C 41-U 42-C 53-G 55-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 22-A 24-U 25-C 26-A 27-C 41-U 42-C 53-G 55-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 360
+[ 22-A 23-U 25-A 27-C 41-U 42-C 52-G 53-A 54-U 55-U 56-G 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 25-A 27-C 41-U 42-C 52-G 53-A 54-U 55-U 56-G 58-G ] after
+
+Optimizing Sequence 361
+[ 22-A 24-U 25-C 39-U 41-U 42-C 52-G 53-G 55-U 56-C 57-U 58-U ] before
+remove 0 point mutations
+[ 22-A 24-U 25-C 39-U 41-U 42-C 52-G 53-G 55-U 56-C 57-U 58-U ] after
+
+Optimizing Sequence 362
+[ 22-A 23-U 24-A 39-U 41-U 42-C 52-C 53-G 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 24-A 39-U 41-U 42-C 52-C 53-G 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 363
+[ 22-A 23-A 25-A 26-A 41-U 42-C 52-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 25-A 26-A 41-U 42-C 52-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 364
+[ 23-C 24-U 25-C 26-A 41-U 42-C 52-G 53-A 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-U 25-C 26-A 41-U 42-C 52-G 53-A 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 365
+[ 22-U 23-C 24-U 25-G 26-A 39-A 41-U 42-C 53-A 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 22-U 23-C 24-U 25-G 26-A 39-A 41-U 42-C 53-A 54-G 55-U 56-C ] after
+
+Optimizing Sequence 366
+[ 22-A 23-A 24-U 25-A 39-A 41-U 42-C 53-A 54-G 56-C 57-G 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-A 39-A 41-U 42-C 53-A 54-G 56-C 57-G 58-G ] after
+
+Optimizing Sequence 367
+[ 22-A 23-A 24-U 25-C 39-U 41-U 42-C 53-U 54-G 55-G 56-C 57-U ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-C 39-U 41-U 42-C 53-U 54-G 55-G 56-C 57-U ] after
+
+Optimizing Sequence 368
+[ 22-U 23-U 25-G 26-U 27-C 41-U 42-C 52-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-U 25-G 26-U 27-C 41-U 42-C 52-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 369
+[ 22-A 23-A 24-A 25-A 26-U 41-U 42-C 52-G 53-U 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 24-A 25-A 26-U 41-U 42-C 52-G 53-U 54-G 56-C 58-A ] after
+
+Optimizing Sequence 370
+[ 23-C 24-U 26-U 27-A 40-A 41-U 42-C 53-U 54-A 55-U 56-G 58-G ] before
+remove 0 point mutations
+[ 23-C 24-U 26-U 27-A 40-A 41-U 42-C 53-U 54-A 55-U 56-G 58-G ] after
+
+Optimizing Sequence 372
+[ 22-A 25-C 26-A 39-U 41-U 42-C 53-G 54-U 55-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-A 25-C 26-A 39-U 41-U 42-C 53-G 54-U 55-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 373
+[ 22-U 23-U 24-U 25-C 26-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 24-U 25-C 26-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 374
+[ 22-A 23-A 24-U 25-C 26-U 41-U 42-C 52-G 53-U 54-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-C 26-U 41-U 42-C 52-G 53-U 54-G 56-C 58-U ] after
+
+Optimizing Sequence 375
+[ 22-U 23-U 26-U 27-C 41-U 42-C 52-G 53-U 55-A 56-G 57-U 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 26-U 27-C 41-U 42-C 52-G 53-U 55-A 56-G 57-U 58-G ] after
+
+Optimizing Sequence 376
+[ 22-A 23-A 24-C 26-A 41-U 42-C 52-G 53-G 54-U 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 24-C 26-A 41-U 42-C 52-G 53-G 54-U 55-G 56-C 58-U ] after
+
+Optimizing Sequence 377
+[ 23-U 24-C 26-U 27-C 39-A 41-U 42-C 53-A 54-A 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-C 26-U 27-C 39-A 41-U 42-C 53-A 54-A 55-U 56-C 58-G ] after
+
+Optimizing Sequence 378
+[ 23-U 25-C 26-A 40-A 41-U 42-C 53-U 54-G 55-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 23-U 25-C 26-A 40-A 41-U 42-C 53-U 54-G 55-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 379
+[ 22-A 23-A 25-C 26-A 39-A 41-U 42-C 53-A 55-G 56-C 57-U 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 25-C 26-A 39-A 41-U 42-C 53-A 55-G 56-C 57-U 58-U ] after
+
+Optimizing Sequence 380
+[ 23-A 24-U 26-A 39-U 41-U 42-C 52-G 53-A 54-U 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-A 24-U 26-A 39-U 41-U 42-C 52-G 53-A 54-U 55-G 56-C 58-G ] after
+
+Optimizing Sequence 382
+[ 22-U 23-C 24-C 25-C 26-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-C 24-C 25-C 26-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 383
+[ 22-A 24-U 25-C 26-U 27-C 41-U 42-C 52-G 53-G 55-A 56-C 57-U ] before
+remove 0 point mutations
+[ 22-A 24-U 25-C 26-U 27-C 41-U 42-C 52-G 53-G 55-A 56-C 57-U ] after
+
+Optimizing Sequence 385
+[ 22-A 23-U 24-U 25-C 26-A 27-C 39-U 41-U 42-C 53-A 55-G 58-U ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 25-C 26-A 27-C 39-U 41-U 42-C 53-A 55-G 58-U ] after
+
+Optimizing Sequence 386
+[ 22-U 23-U 24-U 25-G 26-U 41-U 42-C 53-G 55-G 56-G 57-A 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 24-U 25-G 26-U 41-U 42-C 53-G 55-G 56-G 57-A 58-G ] after
+
+Optimizing Sequence 388
+[ 22-U 24-A 25-A 26-U 40-A 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 24-A 25-A 26-U 40-A 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 389
+[ 23-C 26-U 27-C 40-U 41-C 42-U 52-C 53-A 55-G 56-U 57-U 58-G ] before
+remove 0 point mutations
+[ 23-C 26-U 27-C 40-U 41-C 42-U 52-C 53-A 55-G 56-U 57-U 58-G ] after
+
+Optimizing Sequence 390
+[ 23-U 24-C 25-C 39-G 40-U 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-C 25-C 39-G 40-U 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 391
+[ 23-A 26-C 27-C 39-A 40-U 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 23-A 26-C 27-C 39-A 40-U 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 392
+[ 22-U 23-A 24-C 25-G 26-U 41-U 42-C 53-A 54-G 56-G 57-U 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 24-C 25-G 26-U 41-U 42-C 53-A 54-G 56-G 57-U 58-G ] after
+
+Optimizing Sequence 393
+[ 22-A 23-U 25-G 26-A 27-C 41-U 42-C 53-U 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 25-G 26-A 27-C 41-U 42-C 53-U 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 394
+[ 23-U 24-C 25-A 26-A 27-U 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-C 25-A 26-A 27-U 41-U 42-C 53-U 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 395
+[ 23-C 25-C 26-U 27-C 39-A 41-U 42-C 53-A 54-G 55-G 56-G 58-G ] before
+remove 0 point mutations
+[ 23-C 25-C 26-U 27-C 39-A 41-U 42-C 53-A 54-G 55-G 56-G 58-G ] after
+
+Optimizing Sequence 396
+[ 22-U 23-U 25-C 26-A 39-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 25-C 26-A 39-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 397
+[ 22-U 26-U 27-U 40-A 41-U 42-C 52-G 53-G 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 26-U 27-U 40-A 41-U 42-C 52-G 53-G 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 398
+[ 22-A 25-C 26-A 27-U 39-A 41-U 42-C 52-G 53-A 55-A 56-U 57-U ] before
+remove 0 point mutations
+[ 22-A 25-C 26-A 27-U 39-A 41-U 42-C 52-G 53-A 55-A 56-U 57-U ] after
+
+Optimizing Sequence 399
+[ 22-A 25-C 26-A 39-A 41-U 42-C 53-A 54-U 55-G 56-C 57-A 58-G ] before
+remove 0 point mutations
+[ 22-A 25-C 26-A 39-A 41-U 42-C 53-A 54-U 55-G 56-C 57-A 58-G ] after
+
+Optimizing Sequence 400
+[ 22-U 23-A 24-U 27-C 39-A 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 27-C 39-A 41-U 42-C 53-A 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 401
+[ 23-A 24-U 25-C 26-U 39-U 41-U 42-C 53-G 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-A 24-U 25-C 26-U 39-U 41-U 42-C 53-G 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 402
+[ 22-A 23-A 24-U 25-A 26-A 39-A 41-U 42-C 53-A 54-U 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-A 26-A 39-A 41-U 42-C 53-A 54-U 55-G 56-C ] after
+
+Optimizing Sequence 403
+[ 22-A 23-U 24-U 25-A 26-U 41-U 42-C 52-C 53-U 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-U 24-U 25-A 26-U 41-U 42-C 52-C 53-U 54-G 55-G 56-C ] after
+
+Optimizing Sequence 404
+[ 22-A 25-C 26-C 27-C 39-U 40-A 41-U 42-C 53-A 54-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 25-C 26-C 27-C 39-U 40-A 41-U 42-C 53-A 54-G 56-C 58-A ] after
+
+Optimizing Sequence 405
+[ 23-A 25-G 26-U 39-A 40-U 41-U 42-C 53-A 54-A 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-A 25-G 26-U 39-A 40-U 41-U 42-C 53-A 54-A 55-A 56-C 58-G ] after
+
+Optimizing Sequence 406
+[ 22-A 23-A 24-U 25-G 41-U 42-C 52-G 53-U 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-G 41-U 42-C 52-G 53-U 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 410
+[ 22-U 23-A 24-U 25-C 26-A 27-C 41-U 42-C 53-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 25-C 26-A 27-C 41-U 42-C 53-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 411
+[ 22-U 23-A 24-C 25-A 26-U 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-U 23-A 24-C 25-A 26-U 41-U 42-C 53-U 54-G 55-G 56-C 58-U ] after
+
+Optimizing Sequence 413
+[ 22-A 23-A 25-A 26-A 27-U 41-U 42-C 53-U 55-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 25-A 26-A 27-U 41-U 42-C 53-U 55-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 414
+[ 22-A 23-U 25-C 27-C 39-A 41-U 42-C 53-A 54-G 55-U 56-G 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 25-C 27-C 39-A 41-U 42-C 53-A 54-G 55-U 56-G 58-A ] after
+
+Optimizing Sequence 416
+[ 22-U 23-C 25-C 26-A 39-G 41-U 42-C 53-A 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-C 25-C 26-A 39-G 41-U 42-C 53-A 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 417
+[ 22-A 23-U 25-A 27-C 41-U 42-C 52-G 53-G 54-U 55-U 56-G 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 25-A 27-C 41-U 42-C 52-G 53-G 54-U 55-U 56-G 58-G ] after
+
+Optimizing Sequence 418
+[ 22-A 23-U 25-C 26-A 27-C 39-A 41-U 42-C 53-A 54-G 55-U 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 25-C 26-A 27-C 39-A 41-U 42-C 53-A 54-G 55-U 58-A ] after
+
+Optimizing Sequence 420
+[ 22-U 23-A 24-C 25-C 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 24-C 25-C 26-A 41-U 42-C 53-U 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 421
+[ 22-U 24-U 25-C 26-A 41-U 42-C 53-A 54-G 55-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-U 24-U 25-C 26-A 41-U 42-C 53-A 54-G 55-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 422
+[ 22-A 23-A 24-U 25-A 26-U 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-A 26-U 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 424
+[ 22-U 23-A 24-U 25-C 26-A 27-C 41-U 42-C 53-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 25-C 26-A 27-C 41-U 42-C 53-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 425
+[ 22-A 23-C 24-U 25-A 26-A 41-U 42-C 52-G 53-U 56-U 57-A 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 24-U 25-A 26-A 41-U 42-C 52-G 53-U 56-U 57-A 58-G ] after
+
+Optimizing Sequence 426
+[ 22-U 23-C 26-U 27-C 40-U 42-C 52-G 53-A 54-A 56-G 57-A 58-G ] before
+remove 0 point mutations
+[ 22-U 23-C 26-U 27-C 40-U 42-C 52-G 53-A 54-A 56-G 57-A 58-G ] after
+
+Optimizing Sequence 428
+[ 22-U 23-C 26-U 39-A 41-U 42-C 52-C 53-A 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-C 26-U 39-A 41-U 42-C 52-C 53-A 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 431
+[ 22-A 23-U 24-C 25-C 26-A 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 24-C 25-C 26-A 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 433
+[ 23-A 25-G 26-U 27-U 41-C 42-A 52-G 53-G 54-U 55-A 56-G 58-U ] before
+remove 0 point mutations
+[ 23-A 25-G 26-U 27-U 41-C 42-A 52-G 53-G 54-U 55-A 56-G 58-U ] after
+
+Optimizing Sequence 434
+[ 23-U 24-U 25-A 26-U 27-C 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-U 24-U 25-A 26-U 27-C 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 435
+[ 22-A 23-U 25-G 27-C 41-U 42-C 52-G 53-A 54-U 55-U 56-G 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 25-G 27-C 41-U 42-C 52-G 53-A 54-U 55-U 56-G 58-G ] after
+
+Optimizing Sequence 436
+[ 22-A 23-A 25-C 27-U 39-U 41-U 42-C 53-G 55-G 56-C 57-A 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 25-C 27-U 39-U 41-U 42-C 53-G 55-G 56-C 57-A 58-G ] after
+
+Optimizing Sequence 437
+[ 22-U 23-A 25-G 26-A 27-C 39-A 41-U 42-C 53-G 54-G 55-U 56-C ] before
+remove 0 point mutations
+[ 22-U 23-A 25-G 26-A 27-C 39-A 41-U 42-C 53-G 54-G 55-U 56-C ] after
+
+Optimizing Sequence 438
+[ 22-A 23-U 25-G 26-U 27-C 41-U 42-C 52-C 53-A 54-G 55-G 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 25-G 26-U 27-C 41-U 42-C 52-C 53-A 54-G 55-G 58-A ] after
+
+Optimizing Sequence 440
+[ 22-A 23-U 25-C 26-U 27-C 41-U 42-C 53-A 54-G 55-U 57-A 58-G ] before
+remove 0 point mutations
+[ 22-A 23-U 25-C 26-U 27-C 41-U 42-C 53-A 54-G 55-U 57-A 58-G ] after
+
+Optimizing Sequence 441
+[ 22-A 23-A 26-U 27-C 39-U 41-U 42-C 52-C 53-G 54-G 55-G 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 26-U 27-C 39-U 41-U 42-C 52-C 53-G 54-G 55-G 58-G ] after
+
+Optimizing Sequence 442
+[ 23-A 24-U 25-G 26-A 27-U 41-U 42-C 52-G 53-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-A 24-U 25-G 26-A 27-U 41-U 42-C 52-G 53-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 443
+[ 24-C 25-G 27-C 39-U 40-U 41-C 42-C 53-A 54-G 55-U 56-G 58-A ] before
+remove 0 point mutations
+[ 24-C 25-G 27-C 39-U 40-U 41-C 42-C 53-A 54-G 55-U 56-G 58-A ] after
+
+Optimizing Sequence 444
+[ 22-A 26-U 27-C 40-U 41-C 42-U 52-G 53-A 55-U 56-C 57-A 58-U ] before
+remove 0 point mutations
+[ 22-A 26-U 27-C 40-U 41-C 42-U 52-G 53-A 55-U 56-C 57-A 58-U ] after
+
+Optimizing Sequence 445
+[ 22-A 24-U 25-G 27-C 41-U 42-C 53-U 54-G 55-U 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 22-A 24-U 25-G 27-C 41-U 42-C 53-U 54-G 55-U 56-C 57-U 58-A ] after
+
+Optimizing Sequence 447
+[ 23-C 24-U 25-C 26-A 41-U 42-C 53-G 54-G 55-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 23-C 24-U 25-C 26-A 41-U 42-C 53-G 54-G 55-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 448
+[ 23-A 25-G 26-A 39-A 40-U 41-U 42-C 53-A 55-A 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 23-A 25-G 26-A 39-A 40-U 41-U 42-C 53-A 55-A 56-C 57-U 58-A ] after
+
+Optimizing Sequence 449
+[ 22-A 23-A 24-U 25-G 39-U 41-U 42-C 53-A 54-G 55-U 56-U 58-G ] before
+remove 0 point mutations
+[ 22-A 23-A 24-U 25-G 39-U 41-U 42-C 53-A 54-G 55-U 56-U 58-G ] after
+
+Optimizing Sequence 450
+[ 22-A 23-U 25-C 27-C 41-U 42-C 53-A 54-G 55-G 56-C 57-A 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 25-C 27-C 41-U 42-C 53-A 54-G 55-G 56-C 57-A 58-A ] after
+
+Optimizing Sequence 451
+[ 24-C 25-G 26-A 39-A 40-U 41-U 42-C 53-G 54-G 55-U 56-C 58-A ] before
+remove 0 point mutations
+[ 24-C 25-G 26-A 39-A 40-U 41-U 42-C 53-G 54-G 55-U 56-C 58-A ] after
+
+Optimizing Sequence 452
+[ 22-U 23-U 25-G 26-A 39-G 41-U 42-C 53-A 54-U 55-G 56-U 58-U ] before
+remove 0 point mutations
+[ 22-U 23-U 25-G 26-A 39-G 41-U 42-C 53-A 54-U 55-G 56-U 58-U ] after
+
+Optimizing Sequence 453
+[ 22-A 23-A 25-C 26-A 39-U 41-U 42-C 53-A 54-U 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 25-C 26-A 39-U 41-U 42-C 53-A 54-U 55-G 56-C 58-U ] after
+
+Optimizing Sequence 454
+[ 23-A 24-A 25-A 27-C 40-U 41-U 42-C 52-G 53-A 54-A 56-G 58-U ] before
+remove 0 point mutations
+[ 23-A 24-A 25-A 27-C 40-U 41-U 42-C 52-G 53-A 54-A 56-G 58-U ] after
+
+Optimizing Sequence 458
+[ 22-A 23-U 25-G 26-A 27-U 41-U 42-C 52-G 53-G 55-U 56-G 58-A ] before
+remove 0 point mutations
+[ 22-A 23-U 25-G 26-A 27-U 41-U 42-C 52-G 53-G 55-U 56-G 58-A ] after
+
+Optimizing Sequence 459
+[ 22-A 23-C 26-U 27-U 39-U 40-A 41-U 42-C 53-U 55-G 56-G 58-A ] before
+remove 0 point mutations
+[ 22-A 23-C 26-U 27-U 39-U 40-A 41-U 42-C 53-U 55-G 56-G 58-A ] after
+
+Optimizing Sequence 460
+[ 23-U 24-U 25-C 27-U 39-A 41-U 42-C 53-A 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 24-U 25-C 27-U 39-A 41-U 42-C 53-A 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 462
+[ 23-U 24-A 25-C 26-U 27-C 41-U 42-C 53-A 54-G 55-A 56-C 58-U ] before
+remove 0 point mutations
+[ 23-U 24-A 25-C 26-U 27-C 41-U 42-C 53-A 54-G 55-A 56-C 58-U ] after
+
+Optimizing Sequence 463
+[ 22-A 23-A 25-C 26-A 39-U 41-U 42-C 53-G 54-U 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 22-A 23-A 25-C 26-A 39-U 41-U 42-C 53-G 54-U 55-G 56-C 58-U ] after
+
+Optimizing Sequence 464
+[ 23-C 24-A 26-U 27-U 40-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-A 26-U 27-U 40-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 465
+[ 23-U 24-U 26-U 27-A 39-U 41-U 42-C 52-G 53-G 54-U 56-C 58-A ] before
+remove 0 point mutations
+[ 23-U 24-U 26-U 27-A 39-U 41-U 42-C 52-G 53-G 54-U 56-C 58-A ] after
+
+Optimizing Sequence 467
+[ 22-U 23-C 24-C 25-G 26-U 41-U 42-C 53-A 54-G 55-A 56-C 58-A ] before
+remove 0 point mutations
+[ 22-U 23-C 24-C 25-G 26-U 41-U 42-C 53-A 54-G 55-A 56-C 58-A ] after
+
+Optimizing Sequence 468
+[ 22-U 23-A 26-U 27-A 40-U 41-A 42-C 53-G 54-A 55-U 56-C 57-U ] before
+remove 0 point mutations
+[ 22-U 23-A 26-U 27-A 40-U 41-A 42-C 53-G 54-A 55-U 56-C 57-U ] after
+
+Optimizing Sequence 469
+[ 22-U 23-A 26-A 27-C 39-U 41-U 42-C 53-A 54-G 55-G 56-G 58-U ] before
+remove 0 point mutations
+[ 22-U 23-A 26-A 27-C 39-U 41-U 42-C 53-A 54-G 55-G 56-G 58-U ] after
+
+Optimizing Sequence 470
+[ 24-U 25-G 27-C 41-U 42-C 52-G 53-G 54-G 55-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 24-U 25-G 27-C 41-U 42-C 52-G 53-G 54-G 55-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 471
+[ 22-U 23-C 24-U 25-A 26-U 39-A 41-U 42-C 53-U 54-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-C 24-U 25-A 26-U 39-A 41-U 42-C 53-U 54-G 56-C 58-G ] after
+
+Optimizing Sequence 472
+[ 23-C 24-A 26-U 27-C 40-U 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-A 26-U 27-C 40-U 41-U 42-C 53-A 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 473
+[ 22-A 23-C 25-C 26-A 39-U 41-U 42-C 53-G 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-A 23-C 25-C 26-A 39-U 41-U 42-C 53-G 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 474
+[ 22-U 23-A 24-U 25-G 27-U 40-A 41-U 42-C 53-A 54-G 56-G 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 25-G 27-U 40-A 41-U 42-C 53-A 54-G 56-G 58-G ] after
+
+Optimizing Sequence 475
+[ 22-U 23-U 24-A 25-C 26-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-U 24-A 25-C 26-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 476
+[ 22-A 23-A 25-G 26-U 40-U 41-U 42-C 53-G 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 25-G 26-U 40-U 41-U 42-C 53-G 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 479
+[ 22-U 23-A 24-U 25-C 26-A 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 25-C 26-A 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 480
+[ 23-A 27-C 39-U 40-U 41-U 42-U 52-G 53-G 54-G 55-A 56-G 58-G ] before
+remove 0 point mutations
+[ 23-A 27-C 39-U 40-U 41-U 42-U 52-G 53-G 54-G 55-A 56-G 58-G ] after
+
+Optimizing Sequence 481
+[ 22-U 24-U 25-G 26-U 39-A 41-U 42-C 53-G 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 24-U 25-G 26-U 39-A 41-U 42-C 53-G 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 482
+[ 23-U 24-A 25-A 27-C 41-U 42-C 52-C 53-A 54-U 55-G 56-C 58-U ] before
+remove 0 point mutations
+[ 23-U 24-A 25-A 27-C 41-U 42-C 52-C 53-A 54-U 55-G 56-C 58-U ] after
+
+Optimizing Sequence 483
+[ 23-C 24-C 25-C 26-A 27-U 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] before
+remove 0 point mutations
+[ 23-C 24-C 25-C 26-A 27-U 41-U 42-C 53-U 54-G 55-A 56-C 58-G ] after
+
+Optimizing Sequence 484
+[ 22-A 23-C 25-C 26-A 27-U 41-U 42-C 52-G 53-U 54-G 55-G 56-C ] before
+remove 0 point mutations
+[ 22-A 23-C 25-C 26-A 27-U 41-U 42-C 52-G 53-U 54-G 55-G 56-C ] after
+
+Optimizing Sequence 485
+[ 22-A 26-A 27-C 39-U 40-U 41-U 42-C 53-G 54-G 55-G 56-C 58-A ] before
+remove 0 point mutations
+[ 22-A 26-A 27-C 39-U 40-U 41-U 42-C 53-G 54-G 55-G 56-C 58-A ] after
+
+Optimizing Sequence 486
+[ 22-A 23-A 25-G 26-U 27-A 39-A 41-U 42-C 53-A 54-G 55-G 56-G ] before
+remove 0 point mutations
+[ 22-A 23-A 25-G 26-U 27-A 39-A 41-U 42-C 53-A 54-G 55-G 56-G ] after
+
+Optimizing Sequence 487
+[ 22-A 23-A 26-U 27-C 39-A 41-U 42-C 53-G 54-G 55-G 56-G 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 26-U 27-C 39-A 41-U 42-C 53-G 54-G 55-G 56-G 58-A ] after
+
+Optimizing Sequence 490
+[ 22-C 23-C 24-A 25-A 39-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] before
+remove 0 point mutations
+[ 22-C 23-C 24-A 25-A 39-U 41-U 42-C 53-A 54-G 55-G 56-C 58-G ] after
+
+Optimizing Sequence 492
+[ 22-A 24-C 25-A 26-U 39-U 41-U 42-C 53-A 54-G 55-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-A 24-C 25-A 26-U 39-U 41-U 42-C 53-A 54-G 55-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 494
+[ 22-U 23-A 25-C 26-U 39-U 41-U 42-C 53-G 54-G 55-G 56-C 57-U 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 25-C 26-U 39-U 41-U 42-C 53-G 54-G 55-G 56-C 57-U 58-G ] after
+
+Optimizing Sequence 495
+[ 22-A 23-A 25-C 26-U 39-A 41-U 42-C 53-U 54-G 55-G 56-C 57-U 58-A ] before
+remove 0 point mutations
+[ 22-A 23-A 25-C 26-U 39-A 41-U 42-C 53-U 54-G 55-G 56-C 57-U 58-A ] after
+
+Optimizing Sequence 496
+[ 22-U 23-A 24-U 25-G 26-U 40-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] before
+remove 0 point mutations
+[ 22-U 23-A 24-U 25-G 26-U 40-A 41-U 42-C 53-G 54-G 55-U 56-C 58-G ] after
+
+Optimizing Sequence 497
+[ 22-A 23-A 24-U 25-C 27-C 40-U 41-C 42-U 53-A 54-A 55-U 56-U 58-G ] before

@@ -1,0 +1,418 @@
+
+Optimizing Sequence 1
+[ 70-A 71-G 79-C 81-G 91-G 92-U 93-A 95-G ] before
+remove 0 point mutations
+[ 70-A 71-G 79-C 81-G 91-G 92-U 93-A 95-G ] after
+
+Optimizing Sequence 2
+[ 67-A 69-G 70-A 71-U 72-A 79-C 80-C 91-G 93-A ] before
+remove 0 point mutations
+[ 67-A 69-G 70-A 71-U 72-A 79-C 80-C 91-G 93-A ] after
+
+Optimizing Sequence 3
+[ 67-A 69-C 70-U 79-C 81-A 91-G 93-A 95-G 97-A ] before
+remove 0 point mutations
+[ 67-A 69-C 70-U 79-C 81-A 91-G 93-A 95-G 97-A ] after
+
+Optimizing Sequence 4
+[ 70-G 71-U 79-C 80-C 81-U 91-G 93-A 95-A 97-C ] before
+remove 2 point mutations
+[ 70-G 71-U 79-C 81-U 91-G 93-A 95-A ] after
+
+Optimizing Sequence 5
+[ 69-G 70-G 71-U 79-C 81-U 82-G 91-G 93-A 96-C 97-A ] before
+remove 0 point mutations
+[ 69-G 70-G 71-U 79-C 81-U 82-G 91-G 93-A 96-C 97-A ] after
+
+Optimizing Sequence 6
+[ 67-U 70-A 71-U 79-C 80-C 81-U 91-G 93-A 96-A 97-A ] before
+remove 0 point mutations
+[ 67-U 70-A 71-U 79-C 80-C 81-U 91-G 93-A 96-A 97-A ] after
+
+Optimizing Sequence 7
+[ 68-A 70-U 71-U 79-C 81-U 84-G 91-A 93-A 95-A 97-U ] before
+remove 1 point mutations
+[ 68-A 70-U 71-U 79-C 81-U 84-G 91-A 93-A 95-A ] after
+
+Optimizing Sequence 8
+[ 68-C 69-C 70-G 71-G 79-C 80-C 81-U 84-U 93-A 97-C ] before
+remove 0 point mutations
+[ 68-C 69-C 70-G 71-G 79-C 80-C 81-U 84-U 93-A 97-C ] after
+
+Optimizing Sequence 9
+[ 67-C 70-G 71-U 79-C 81-U 91-G 92-G 93-A 96-A 97-A ] before
+remove 3 point mutations
+[ 70-G 71-U 79-C 81-U 91-G 92-G 93-A ] after
+
+Optimizing Sequence 10
+[ 67-U 70-G 71-U 72-G 79-C 80-C 81-U 82-G 93-A 97-C ] before
+remove 2 point mutations
+[ 70-G 71-U 72-G 79-C 80-C 81-U 82-G 93-A ] after
+
+Optimizing Sequence 11
+[ 66-U 70-G 71-U 79-C 81-U 84-U 93-A 95-A 96-C 97-A ] before
+remove 0 point mutations
+[ 66-U 70-G 71-U 79-C 81-U 84-U 93-A 95-A 96-C 97-A ] after
+
+Optimizing Sequence 12
+[ 67-U 68-U 71-U 79-C 81-A 82-G 91-G 93-A 95-A 96-A 97-A ] before
+remove 0 point mutations
+[ 67-U 68-U 71-U 79-C 81-A 82-G 91-G 93-A 95-A 96-A 97-A ] after
+
+Optimizing Sequence 13
+[ 67-C 68-A 70-A 71-U 79-C 81-U 84-G 91-G 93-A 95-A 97-A ] before
+remove 0 point mutations
+[ 67-C 68-A 70-A 71-U 79-C 81-U 84-G 91-G 93-A 95-A 97-A ] after
+
+Optimizing Sequence 14
+[ 67-C 69-C 70-G 71-U 79-C 80-C 81-U 91-G 93-A 96-U 97-A ] before
+remove 0 point mutations
+[ 67-C 69-C 70-G 71-U 79-C 80-C 81-U 91-G 93-A 96-U 97-A ] after
+
+Optimizing Sequence 15
+[ 66-U 67-U 69-G 70-G 72-G 79-C 91-G 93-A 95-A 96-C 97-C ] before
+remove 0 point mutations
+[ 66-U 67-U 69-G 70-G 72-G 79-C 91-G 93-A 95-A 96-C 97-C ] after
+
+Optimizing Sequence 16
+[ 69-C 70-A 71-A 79-C 80-C 81-U 91-G 93-A 94-A 95-G 96-A ] before
+remove 0 point mutations
+[ 69-C 70-A 71-A 79-C 80-C 81-U 91-G 93-A 94-A 95-G 96-A ] after
+
+Optimizing Sequence 17
+[ 66-A 68-U 69-C 70-G 71-U 79-C 80-C 81-U 84-G 91-U 93-A ] before
+remove 0 point mutations
+[ 66-A 68-U 69-C 70-G 71-U 79-C 80-C 81-U 84-G 91-U 93-A ] after
+
+Optimizing Sequence 18
+[ 67-C 68-U 70-G 71-U 79-C 80-C 81-U 91-G 93-A 96-U 97-A ] before
+remove 0 point mutations
+[ 67-C 68-U 70-G 71-U 79-C 80-C 81-U 91-G 93-A 96-U 97-A ] after
+
+Optimizing Sequence 19
+[ 67-A 68-U 70-G 71-G 79-C 81-U 84-U 91-G 93-A 94-U 96-A ] before
+remove 0 point mutations
+[ 67-A 68-U 70-G 71-G 79-C 81-U 84-U 91-G 93-A 94-U 96-A ] after
+
+Optimizing Sequence 20
+[ 68-U 70-U 71-A 72-U 79-C 81-U 82-C 91-G 93-A 96-C 97-A ] before
+remove 0 point mutations
+[ 68-U 70-U 71-A 72-U 79-C 81-U 82-C 91-G 93-A 96-C 97-A ] after
+
+Optimizing Sequence 21
+[ 68-U 69-C 70-G 71-U 79-C 80-C 81-U 84-G 93-A 94-A 97-C ] before
+remove 0 point mutations
+[ 68-U 69-C 70-G 71-U 79-C 80-C 81-U 84-G 93-A 94-A 97-C ] after
+
+Optimizing Sequence 22
+[ 66-U 67-U 70-G 71-U 72-U 79-C 81-U 82-G 93-A 95-A 97-A ] before
+remove 0 point mutations
+[ 66-U 67-U 70-G 71-U 72-U 79-C 81-U 82-G 93-A 95-A 97-A ] after
+
+Optimizing Sequence 23
+[ 69-C 70-A 71-G 72-A 79-C 81-U 91-G 93-A 94-A 96-A 97-A ] before
+remove 0 point mutations
+[ 69-C 70-A 71-G 72-A 79-C 81-U 91-G 93-A 94-A 96-A 97-A ] after
+
+Optimizing Sequence 24
+[ 68-U 69-G 70-U 71-U 72-A 79-C 91-A 93-A 94-U 95-G 97-A ] before
+remove 0 point mutations
+[ 68-U 69-G 70-U 71-U 72-A 79-C 91-A 93-A 94-U 95-G 97-A ] after
+
+Optimizing Sequence 25
+[ 70-G 71-U 79-C 80-C 81-U 84-G 91-G 93-A 94-U 95-G 97-C ] before
+remove 0 point mutations
+[ 70-G 71-U 79-C 80-C 81-U 84-G 91-G 93-A 94-U 95-G 97-C ] after
+
+Optimizing Sequence 26
+[ 67-U 68-A 70-A 71-U 79-C 80-C 81-U 91-G 93-A 96-C 97-A ] before
+remove 0 point mutations
+[ 67-U 68-A 70-A 71-U 79-C 80-C 81-U 91-G 93-A 96-C 97-A ] after
+
+Optimizing Sequence 27
+[ 66-A 67-C 70-A 71-A 79-C 80-C 84-U 91-U 93-A 95-G 97-A ] before
+remove 0 point mutations
+[ 66-A 67-C 70-A 71-A 79-C 80-C 84-U 91-U 93-A 95-G 97-A ] after
+
+Optimizing Sequence 28
+[ 68-U 69-C 70-A 72-U 79-C 80-C 81-U 84-G 93-A 96-A 97-C ] before
+remove 0 point mutations
+[ 68-U 69-C 70-A 72-U 79-C 80-C 81-U 84-G 93-A 96-A 97-C ] after
+
+Optimizing Sequence 29
+[ 67-U 68-U 70-U 79-C 81-U 82-G 84-G 91-U 93-A 95-G 97-A ] before
+remove 0 point mutations
+[ 67-U 68-U 70-U 79-C 81-U 82-G 84-G 91-U 93-A 95-G 97-A ] after
+
+Optimizing Sequence 30
+[ 66-U 70-U 71-A 79-C 81-U 82-C 91-G 93-A 95-A 96-C 97-A ] before
+remove 0 point mutations
+[ 66-U 70-U 71-A 79-C 81-U 82-C 91-G 93-A 95-A 96-C 97-A ] after
+
+Optimizing Sequence 31
+[ 68-U 70-A 79-C 80-C 81-U 83-C 91-G 93-A 94-A 96-C 97-A ] before
+remove 0 point mutations
+[ 68-U 70-A 79-C 80-C 81-U 83-C 91-G 93-A 94-A 96-C 97-A ] after
+
+Optimizing Sequence 32
+[ 66-U 67-U 70-G 71-U 72-G 79-C 81-G 84-G 94-U 96-A 97-C ] before
+remove 0 point mutations
+[ 66-U 67-U 70-G 71-U 72-G 79-C 81-G 84-G 94-U 96-A 97-C ] after
+
+Optimizing Sequence 33
+[ 67-C 69-C 71-U 72-A 79-C 81-U 91-G 93-A 95-A 96-A 97-C ] before
+remove 0 point mutations
+[ 67-C 69-C 71-U 72-A 79-C 81-U 91-G 93-A 95-A 96-A 97-C ] after
+
+Optimizing Sequence 34
+[ 66-A 70-A 71-U 72-U 79-C 80-C 81-G 91-G 92-G 93-A 97-C ] before
+remove 0 point mutations
+[ 66-A 70-A 71-U 72-U 79-C 80-C 81-G 91-G 92-G 93-A 97-C ] after
+
+Optimizing Sequence 35
+[ 66-A 70-G 71-U 72-A 79-C 80-C 81-A 93-A 95-G 96-C 97-C ] before
+remove 0 point mutations
+[ 66-A 70-G 71-U 72-A 79-C 80-C 81-A 93-A 95-G 96-C 97-C ] after
+
+Optimizing Sequence 36
+[ 68-U 70-G 71-U 79-C 81-U 83-C 93-A 94-G 95-G 96-C 97-A ] before
+remove 0 point mutations
+[ 68-U 70-G 71-U 79-C 81-U 83-C 93-A 94-G 95-G 96-C 97-A ] after
+
+Optimizing Sequence 37
+[ 69-C 70-G 71-U 72-G 79-C 80-C 81-U 91-G 93-A 96-A 97-C ] before
+remove 2 point mutations
+[ 70-G 71-U 72-G 79-C 80-C 81-U 91-G 93-A 96-A ] after
+
+Optimizing Sequence 38
+[ 67-A 68-U 71-A 72-A 79-C 81-U 82-G 91-U 93-A 96-A 97-C ] before
+remove 3 point mutations
+[ 67-A 71-A 72-A 79-C 81-U 82-G 93-A 96-A ] after
+
+Optimizing Sequence 39
+[ 67-C 69-G 70-A 71-G 79-C 81-A 84-G 91-G 93-A 95-A 97-C ] before
+remove 0 point mutations
+[ 67-C 69-G 70-A 71-G 79-C 81-A 84-G 91-G 93-A 95-A 97-C ] after
+
+Optimizing Sequence 40
+[ 68-U 70-U 71-A 79-C 80-C 81-U 84-G 91-G 93-A 96-C 97-A ] before
+remove 0 point mutations
+[ 68-U 70-U 71-A 79-C 80-C 81-U 84-G 91-G 93-A 96-C 97-A ] after
+
+Optimizing Sequence 41
+[ 66-A 70-G 71-U 79-C 80-C 81-U 84-G 91-U 93-A 95-G 96-C ] before
+remove 0 point mutations
+[ 66-A 70-G 71-U 79-C 80-C 81-U 84-G 91-U 93-A 95-G 96-C ] after
+
+Optimizing Sequence 42
+[ 66-A 70-G 71-U 72-G 79-C 81-U 82-G 91-G 93-A 95-G 97-U ] before
+remove 0 point mutations
+[ 66-A 70-G 71-U 72-G 79-C 81-U 82-G 91-G 93-A 95-G 97-U ] after
+
+Optimizing Sequence 43
+[ 70-G 79-C 80-C 82-G 84-U 91-G 93-A 94-G 95-G 96-C 97-A ] before
+remove 0 point mutations
+[ 70-G 79-C 80-C 82-G 84-U 91-G 93-A 94-G 95-G 96-C 97-A ] after
+
+Optimizing Sequence 44
+[ 66-A 68-U 70-G 71-U 79-C 80-C 81-A 84-U 91-U 93-A 95-G 97-A ] before
+remove 0 point mutations
+[ 66-A 68-U 70-G 71-U 79-C 80-C 81-A 84-U 91-U 93-A 95-G 97-A ] after
+
+Optimizing Sequence 45
+[ 66-A 70-A 71-U 79-C 80-C 81-G 84-G 91-G 93-A 94-G 95-A 97-A ] before
+remove 0 point mutations
+[ 66-A 70-A 71-U 79-C 80-C 81-G 84-G 91-G 93-A 94-G 95-A 97-A ] after
+
+Optimizing Sequence 46
+[ 66-U 68-U 70-G 71-U 79-C 81-U 83-G 91-U 93-A 94-A 95-G 97-C ] before
+remove 0 point mutations
+[ 66-U 68-U 70-G 71-U 79-C 81-U 83-G 91-U 93-A 94-A 95-G 97-C ] after
+
+Optimizing Sequence 47
+[ 67-C 69-C 70-U 71-U 72-A 79-C 81-A 84-G 91-G 93-A 95-G 97-A ] before
+remove 0 point mutations
+[ 67-C 69-C 70-U 71-U 72-A 79-C 81-A 84-G 91-G 93-A 95-G 97-A ] after
+
+Optimizing Sequence 48
+[ 66-A 67-U 68-U 70-G 79-C 81-U 83-C 91-G 93-A 94-A 96-C 97-A ] before
+remove 0 point mutations
+[ 66-A 67-U 68-U 70-G 79-C 81-U 83-C 91-G 93-A 94-A 96-C 97-A ] after
+
+Optimizing Sequence 49
+[ 68-U 70-U 71-U 72-U 79-C 80-C 81-U 92-A 93-A 94-A 96-A 97-A ] before
+remove 0 point mutations
+[ 68-U 70-U 71-U 72-U 79-C 80-C 81-U 92-A 93-A 94-A 96-A 97-A ] after
+
+Optimizing Sequence 50
+[ 68-A 70-G 71-G 79-C 80-C 81-U 84-U 93-A 94-G 95-A 96-C 97-C ] before
+remove 0 point mutations
+[ 68-A 70-G 71-G 79-C 80-C 81-U 84-U 93-A 94-G 95-A 96-C 97-C ] after
+
+Optimizing Sequence 51
+[ 68-A 69-A 70-G 79-C 80-C 81-U 82-G 91-U 93-A 94-U 95-A 97-A ] before
+remove 0 point mutations
+[ 68-A 69-A 70-G 79-C 80-C 81-U 82-G 91-U 93-A 94-U 95-A 97-A ] after
+
+Optimizing Sequence 52
+[ 67-U 70-A 71-U 79-C 80-C 81-U 84-U 91-G 93-A 94-U 95-G 97-C ] before
+remove 0 point mutations
+[ 67-U 70-A 71-U 79-C 80-C 81-U 84-U 91-G 93-A 94-U 95-G 97-C ] after
+
+Optimizing Sequence 54
+[ 67-C 69-C 70-G 71-U 72-G 79-C 81-U 91-U 93-A 94-G 96-A 97-C ] before
+remove 0 point mutations
+[ 67-C 69-C 70-G 71-U 72-G 79-C 81-U 91-U 93-A 94-G 96-A 97-C ] after
+
+Optimizing Sequence 55
+[ 66-U 70-U 71-U 79-C 80-C 81-G 82-G 91-U 92-G 93-A 96-A 97-A ] before
+remove 0 point mutations
+[ 66-U 70-U 71-U 79-C 80-C 81-G 82-G 91-U 92-G 93-A 96-A 97-A ] after
+
+Optimizing Sequence 56
+[ 70-U 71-U 72-G 79-C 80-C 81-U 82-G 91-G 92-A 93-C 94-A 97-C ] before
+remove 0 point mutations
+[ 70-U 71-U 72-G 79-C 80-C 81-U 82-G 91-G 92-A 93-C 94-A 97-C ] after
+
+Optimizing Sequence 57
+[ 68-U 70-G 71-G 72-U 79-C 80-C 81-U 83-G 92-G 93-A 94-U 96-A ] before
+remove 0 point mutations
+[ 68-U 70-G 71-G 72-U 79-C 80-C 81-U 83-G 92-G 93-A 94-U 96-A ] after
+
+Optimizing Sequence 58
+[ 66-U 67-U 68-A 71-G 72-U 79-C 80-C 81-U 91-G 93-A 96-U 97-A ] before
+remove 0 point mutations
+[ 66-U 67-U 68-A 71-G 72-U 79-C 80-C 81-U 91-G 93-A 96-U 97-A ] after
+
+Optimizing Sequence 59
+[ 70-U 71-G 72-A 79-C 80-C 81-U 84-G 91-G 93-A 94-A 96-C 97-C ] before
+remove 4 point mutations
+[ 71-G 72-A 79-C 80-C 81-U 84-G 94-A 96-C ] after
+
+Optimizing Sequence 60
+[ 68-U 69-C 70-A 71-U 79-C 81-U 91-G 92-A 93-A 95-G 96-A 97-C ] before
+remove 0 point mutations
+[ 68-U 69-C 70-A 71-U 79-C 81-U 91-G 92-A 93-A 95-G 96-A 97-C ] after
+
+Optimizing Sequence 61
+[ 66-U 67-U 68-U 69-C 70-A 71-U 79-C 81-U 84-U 91-G 93-A 97-A ] before
+remove 0 point mutations
+[ 66-U 67-U 68-U 69-C 70-A 71-U 79-C 81-U 84-U 91-G 93-A 97-A ] after
+
+Optimizing Sequence 62
+[ 66-U 68-A 70-U 71-U 79-C 81-U 82-G 91-A 93-A 94-G 96-A 97-A ] before
+remove 0 point mutations
+[ 66-U 68-A 70-U 71-U 79-C 81-U 82-G 91-A 93-A 94-G 96-A 97-A ] after
+
+Optimizing Sequence 63
+[ 66-A 67-C 68-U 70-G 71-U 79-C 81-A 82-G 91-G 92-G 93-A 97-C ] before
+remove 0 point mutations
+[ 66-A 67-C 68-U 70-G 71-U 79-C 81-A 82-G 91-G 92-G 93-A 97-C ] after
+
+Optimizing Sequence 64
+[ 68-U 69-C 70-A 71-U 79-C 80-C 81-U 82-G 91-G 93-A 94-U 97-A ] before
+remove 0 point mutations
+[ 68-U 69-C 70-A 71-U 79-C 80-C 81-U 82-G 91-G 93-A 94-U 97-A ] after
+
+Optimizing Sequence 65
+[ 67-U 68-U 69-A 71-G 79-C 83-G 84-U 91-U 93-A 94-U 95-A 97-C ] before
+remove 0 point mutations
+[ 67-U 68-U 69-A 71-G 79-C 83-G 84-U 91-U 93-A 94-U 95-A 97-C ] after
+
+Optimizing Sequence 66
+[ 66-A 67-C 70-G 72-A 79-C 81-U 91-G 93-A 94-U 95-A 96-A 97-A ] before
+remove 0 point mutations
+[ 66-A 67-C 70-G 72-A 79-C 81-U 91-G 93-A 94-U 95-A 96-A 97-A ] after
+
+Optimizing Sequence 67
+[ 67-A 68-U 69-C 70-G 71-G 79-C 81-U 91-G 93-A 95-G 96-C 97-A ] before
+remove 0 point mutations
+[ 67-A 68-U 69-C 70-G 71-G 79-C 81-U 91-G 93-A 95-G 96-C 97-A ] after
+
+Optimizing Sequence 68
+[ 66-A 67-A 68-U 70-G 71-U 72-A 79-C 81-G 91-G 93-A 95-U 97-A ] before
+remove 0 point mutations
+[ 66-A 67-A 68-U 70-G 71-U 72-A 79-C 81-G 91-G 93-A 95-U 97-A ] after
+
+Optimizing Sequence 69
+[ 67-C 68-U 71-G 72-G 79-C 80-G 81-U 84-G 91-U 93-A 95-U 97-A ] before
+remove 0 point mutations
+[ 67-C 68-U 71-G 72-G 79-C 80-G 81-U 84-G 91-U 93-A 95-U 97-A ] after
+
+Optimizing Sequence 70
+[ 66-A 67-C 68-U 69-C 70-G 71-G 79-C 81-U 91-G 93-C 96-C 97-A ] before
+remove 0 point mutations
+[ 66-A 67-C 68-U 69-C 70-G 71-G 79-C 81-U 91-G 93-C 96-C 97-A ] after
+
+Optimizing Sequence 71
+[ 66-A 68-U 70-A 71-U 72-A 79-C 80-C 81-U 84-G 91-G 93-A 94-G ] before
+remove 0 point mutations
+[ 66-A 68-U 70-A 71-U 72-A 79-C 80-C 81-U 84-G 91-G 93-A 94-G ] after
+
+Optimizing Sequence 72
+[ 66-U 69-C 70-U 71-U 79-C 80-G 81-U 91-U 93-A 94-U 95-A 97-A ] before
+remove 0 point mutations
+[ 66-U 69-C 70-U 71-U 79-C 80-G 81-U 91-U 93-A 94-U 95-A 97-A ] after
+
+Optimizing Sequence 73
+[ 68-A 70-A 71-A 79-C 80-C 81-U 84-U 91-G 93-A 95-G 96-A 97-C ] before
+remove 0 point mutations
+[ 68-A 70-A 71-A 79-C 80-C 81-U 84-U 91-G 93-A 95-G 96-A 97-C ] after
+
+Optimizing Sequence 74
+[ 66-A 67-C 68-U 70-A 79-C 80-C 81-U 83-C 93-A 94-U 95-A 97-C ] before
+remove 0 point mutations
+[ 66-A 67-C 68-U 70-A 79-C 80-C 81-U 83-C 93-A 94-U 95-A 97-C ] after
+
+Optimizing Sequence 75
+[ 68-U 70-U 71-U 79-C 81-G 82-G 91-A 92-G 93-A 94-U 95-A 97-A ] before
+remove 0 point mutations
+[ 68-U 70-U 71-U 79-C 81-G 82-G 91-A 92-G 93-A 94-U 95-A 97-A ] after
+
+Optimizing Sequence 76
+[ 66-A 67-C 68-U 70-A 71-U 79-C 80-C 81-G 84-U 91-G 93-A 97-A ] before
+remove 0 point mutations
+[ 66-A 67-C 68-U 70-A 71-U 79-C 80-C 81-G 84-U 91-G 93-A 97-A ] after
+
+Optimizing Sequence 77
+[ 66-A 68-U 70-U 71-U 72-G 79-C 80-C 83-U 91-U 93-A 95-A 97-A ] before
+remove 0 point mutations
+[ 66-A 68-U 70-U 71-U 72-G 79-C 80-C 83-U 91-U 93-A 95-A 97-A ] after
+
+Optimizing Sequence 78
+[ 69-A 70-G 71-U 79-C 80-C 81-U 82-C 84-G 91-U 93-A 95-G 97-A ] before
+remove 0 point mutations
+[ 69-A 70-G 71-U 79-C 80-C 81-U 82-C 84-G 91-U 93-A 95-G 97-A ] after
+
+Optimizing Sequence 79
+[ 66-U 67-C 68-U 70-A 71-G 72-A 79-C 80-C 81-U 92-U 93-A 97-C ] before
+remove 4 point mutations
+[ 67-C 70-A 71-G 72-A 79-C 81-U 92-U 93-A ] after
+
+Optimizing Sequence 80
+[ 66-A 69-C 70-A 71-U 72-A 79-C 81-A 84-U 91-G 93-A 95-A 97-A ] before
+remove 0 point mutations
+[ 66-A 69-C 70-A 71-U 72-A 79-C 81-A 84-U 91-G 93-A 95-A 97-A ] after
+
+Optimizing Sequence 81
+[ 68-U 70-G 71-U 72-A 79-C 80-C 81-U 91-G 93-A 94-A 96-A 97-A ] before
+remove 4 point mutations
+[ 70-G 71-U 72-A 79-C 80-C 81-U 91-G 93-A ] after
+
+Optimizing Sequence 82
+[ 68-U 69-C 70-A 71-U 79-C 80-C 81-U 91-G 93-A 94-U 95-U 97-A ] before
+remove 0 point mutations
+[ 68-U 69-C 70-A 71-U 79-C 80-C 81-U 91-G 93-A 94-U 95-U 97-A ] after
+
+Optimizing Sequence 83
+[ 68-U 70-G 71-U 79-C 80-C 81-U 91-A 93-A 94-A 95-A 96-C 97-C ] before
+remove 0 point mutations
+[ 68-U 70-G 71-U 79-C 80-C 81-U 91-A 93-A 94-A 95-A 96-C 97-C ] after
+
+Optimizing Sequence 84
+[ 66-G 67-C 69-A 72-G 79-A 80-G 82-C 84-C 91-A 94-G 95-G 96-C ] before
+remove 0 point mutations
+[ 66-G 67-C 69-A 72-G 79-A 80-G 82-C 84-C 91-A 94-G 95-G 96-C ] after
+
+Optimizing Sequence 85
+[ 68-A 70-U 71-U 72-G 79-C 80-C 81-U 91-G 93-A 95-G 96-C 97-C ] before

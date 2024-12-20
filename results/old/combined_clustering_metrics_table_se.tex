@@ -1,0 +1,28 @@
+
+\begin{table}[ht!]
+    \centering
+    \setlength\tabcolsep{4pt}
+    \captionsetup{margin=0.5cm}
+    \caption{Clustering results on Dataset All}
+    \label{tab:prior_metrics}
+    \begin{tabular}{lcccccccccccccccccccccccc}
+        \toprule
+        & & \multicolumn{6}{c}{\textbf{Datasets}} \\
+        \cmidrule(lr){3-8}
+        && \textbf{V4\&5} & \textbf{V6} & \textbf{V7} & \textbf{V8} & \textbf{V9} & \textbf{All} \\
+        \midrule
+        KMeans & Sensitivity(\%) & 70.270 & 72.727 & 57.143 & 64.286 & 64.706 & 88.288 \\
+                  & RNA-like(\%) & 70.504 & 67.913 & 71.815 & 69.843 & 71.749 & 72.169 \\
+        MiniBatchKMeans & Sensitivity(\%) & 81.081 & 59.091 & 52.381 & 57.143 & 58.824 & 89.189 \\
+                  & RNA-like(\%) & 70.504 & 60.236 & 62.132 & 65.208 & 70.510 & 73.139 \\
+        GMM & Sensitivity(\%) & 70.270 & 72.727 & 57.143 & 57.143 & 52.941 & 85.586 \\
+                  & RNA-like(\%) & 71.942 & 71.457 & 70.129 & 60.423 & 60.778 & 62.522 \\
+        Hierarchical (ward) & Sensitivity(\%) & 81.081 & 77.273 & 71.429 & 92.857 & N/A & N/A \\
+                  & RNA-like(\%) & 80.576 & 74.213 & 79.106 & 86.517 & N/A & N/A \\
+        Spectral & Sensitivity(\%) & 86.486 & 59.091 & 100.000 & 100.000 & 100.000 & 100.000 \\
+                  & RNA-like(\%) & 71.942 & 53.150 & 98.393 & 99.114 & 99.989 & 99.958 \\
+        Birch & Sensitivity(\%) & 81.081 & 100.000 & 71.429 & 57.143 & 88.235 & 97.297 \\
+                  & RNA-like(\%) & 80.576 & 99.409 & 81.145 & 48.746 & 94.019 & 86.909 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
